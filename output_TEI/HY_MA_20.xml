@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_MA_20"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Almi prophetae progenies pia</title>
+
+        <author>Anonymus saec. incerti</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Hendecasyllabum Alcaicum</note>
+
+        <note type="commentarius">Natalis Sancti Iohannis Baptistae</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Manuale Ambrosianum</title>
+          <date>saec. XI</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">Natalis Sancti Iohannis Baptistae</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Almi prophetae progenies pia</head>
+
+      <lg n="1" type="tetrastichon_alcaicum" xml:id="HY_MA_20_1">
+        <l n="1" type="hendecasyllabus_alcaicus" xml:id="HY_MA_20_1_1">Almi prophetae progenies pia:</l>
+        <l n="2" type="hendecasyllabus_alcaicus" xml:id="HY_MA_20_1_2">clarus parente et nobilior patre:</l>
+        <l n="3" type="hendecasyllabus_alcaicus" xml:id="HY_MA_20_1_3">quem matris alvus claudere nescia:</l>
+        <l n="4" type="hendecasyllabus_alcaicus" xml:id="HY_MA_20_1_4">ortus herilis prodidit indicem.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_alcaicum" xml:id="HY_MA_20_2">
+        <l n="5" type="hendecasyllabus_alcaicus" xml:id="HY_MA_20_2_5">Cum virginalis regia gloriam:</l>
+        <l n="6" type="hendecasyllabus_alcaicus" xml:id="HY_MA_20_2_6">summitonantis, nomine pignoris:</l>
+        <l n="7" type="hendecasyllabus_alcaicus" xml:id="HY_MA_20_2_7">gestaret aula nobilis intimo:</l>
+        <l n="8" type="hendecasyllabus_alcaicus" xml:id="HY_MA_20_2_8">claustro pudoris fertilis integro.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_alcaicum" xml:id="HY_MA_20_3">
+        <l n="9" type="hendecasyllabus_alcaicus" xml:id="HY_MA_20_3_9">Vox suscitavit missa puerperae:</l>
+        <l n="10" type="hendecasyllabus_alcaicus" xml:id="HY_MA_20_3_10">fovitque vatis gaudia parvuli:</l>
+        <l n="11" type="hendecasyllabus_alcaicus" xml:id="HY_MA_20_3_11">matres prophetant munere pignorum:</l>
+        <l n="12" type="hendecasyllabus_alcaicus" xml:id="HY_MA_20_3_12">mutus locutus nomine filii est.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_alcaicum" xml:id="HY_MA_20_4">
+        <l n="13" type="hendecasyllabus_alcaicus" xml:id="HY_MA_20_4_13">Scribendus hic est, vocis ut augeat:</l>
+        <l n="14" type="hendecasyllabus_alcaicus" xml:id="HY_MA_20_4_14">nostrae canores, duraque vincula:</l>
+        <l n="15" type="hendecasyllabus_alcaicus" xml:id="HY_MA_20_4_15">dissolvat oris, larga propheticis:</l>
+        <l n="16" type="hendecasyllabus_alcaicus" xml:id="HY_MA_20_4_16">verborum habenis littera nominis.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_alcaicum" xml:id="HY_MA_20_5">
+        <l n="17" type="hendecasyllabus_alcaicus" xml:id="HY_MA_20_5_17">Vos namque Verbi, vox sapientiae est:</l>
+        <l n="18" type="hendecasyllabus_alcaicus" xml:id="HY_MA_20_5_18">maior prophetis et minor Angelis:</l>
+        <l n="19" type="hendecasyllabus_alcaicus" xml:id="HY_MA_20_5_19">qui praeparavit corda fidelium:</l>
+        <l n="20" type="hendecasyllabus_alcaicus" xml:id="HY_MA_20_5_20">stravitque rectas iustitiae vias.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_alcaicum" xml:id="HY_MA_20_6">
+        <l n="21" type="hendecasyllabus_alcaicus" xml:id="HY_MA_20_6_21">Assertor aequi non ope regia:</l>
+        <l n="22" type="hendecasyllabus_alcaicus" xml:id="HY_MA_20_6_22">nec morte dura linquere tramitem:</l>
+        <l n="23" type="hendecasyllabus_alcaicus" xml:id="HY_MA_20_6_23">veri coactus, Non licet, ait, tibi:</l>
+        <l n="24" type="hendecasyllabus_alcaicus" xml:id="HY_MA_20_6_24">uxorem habere fratris adulteram.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_alcaicum" xml:id="HY_MA_20_7">
+        <l n="25" type="hendecasyllabus_alcaicus" xml:id="HY_MA_20_7_25">Hinc ira regis saevaque funera:</l>
+        <l n="26" type="hendecasyllabus_alcaicus" xml:id="HY_MA_20_7_26">saltationis munere vendita:</l>
+        <l n="27" type="hendecasyllabus_alcaicus" xml:id="HY_MA_20_7_27">mensas tyranni, et virginis ebrius:</l>
+        <l n="28" type="hendecasyllabus_alcaicus" xml:id="HY_MA_20_7_28">luxus replevit sanguine sobrio.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_alcaicum" xml:id="HY_MA_20_8">
+        <l n="29" type="hendecasyllabus_alcaicus" xml:id="HY_MA_20_8_29">Haec victricus dat dona vesanior:</l>
+        <l n="30" type="hendecasyllabus_alcaicus" xml:id="HY_MA_20_8_30">quam si veneni pocula traderet:</l>
+        <l n="31" type="hendecasyllabus_alcaicus" xml:id="HY_MA_20_8_31">negare praestat, quam dare victricum:</l>
+        <l n="32" type="hendecasyllabus_alcaicus" xml:id="HY_MA_20_8_32">odisse praestat, plus nocet horum amor.</l>
+      </lg>
+      <lg n="9" type="tetrastichon_alcaicum" xml:id="HY_MA_20_9">
+        <l n="33" type="hendecasyllabus_alcaicus" xml:id="HY_MA_20_9_33">Gloria tibi, Pater, gloria Unigenito cum sancto Spiritu.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Manuale Ambrosianum</p>
+        <p type="annus">saec. XI</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Hendecasyllabum Alcaicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

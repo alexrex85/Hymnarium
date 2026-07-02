@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_MA_25">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_MA_25_1">
+        <l n="1" xml:id="HY_MA_25_1_1">summi vatis praeconium</l>
+        <l n="2" xml:id="HY_MA_25_1_2">simpliciani canimus</l>
+        <l n="3" xml:id="HY_MA_25_1_3">qui vitae cursum explicans</l>
+        <l n="4" xml:id="HY_MA_25_1_4">confessor dei extitit</l>
+      </lg>
+      <lg n="2" xml:id="HY_MA_25_2">
+        <l n="5" xml:id="HY_MA_25_2_5">tunc sacer ille praecessor</l>
+        <l n="6" xml:id="HY_MA_25_2_6">insignivit ambrosius</l>
+        <l n="7" xml:id="HY_MA_25_2_7">vicarium sedis dignum</l>
+        <l n="8" xml:id="HY_MA_25_2_8">praedixit tunc oraculo</l>
+      </lg>
+      <lg n="3" xml:id="HY_MA_25_3">
+        <l n="9" xml:id="HY_MA_25_3_9">o quam felix successio</l>
+        <l n="10" xml:id="HY_MA_25_3_10">praeclara nunc haereditas</l>
+        <l n="11" xml:id="HY_MA_25_3_11">signifera missa voce</l>
+        <l n="12" xml:id="HY_MA_25_3_12">trinis modis distinctio</l>
+      </lg>
+      <lg n="4" xml:id="HY_MA_25_4">
+        <l n="13" xml:id="HY_MA_25_4_13">laetus pastor grandaevus</l>
+        <l n="14" xml:id="HY_MA_25_4_14">sed licet simplex moribus</l>
+        <l n="15" xml:id="HY_MA_25_4_15">sanctitas comes fuit</l>
+        <l n="16" xml:id="HY_MA_25_4_16">ab annis puerilibus</l>
+      </lg>
+      <lg n="5" xml:id="HY_MA_25_5">
+        <l n="17" xml:id="HY_MA_25_5_17">doctrina potens claruit</l>
+        <l n="18" xml:id="HY_MA_25_5_18">toto orbe notissimus</l>
+        <l n="19" xml:id="HY_MA_25_5_19">multa tractans divina</l>
+        <l n="20" xml:id="HY_MA_25_5_20">ingentia volumina</l>
+      </lg>
+      <lg n="6" xml:id="HY_MA_25_6">
+        <l n="21" xml:id="HY_MA_25_6_21">augustinus scriptis pulsat</l>
+        <l n="22" xml:id="HY_MA_25_6_22">ut agitet ingenium</l>
+        <l n="23" xml:id="HY_MA_25_6_23">quaestionum ludit forma</l>
+        <l n="24" xml:id="HY_MA_25_6_24">epistolari problema</l>
+      </lg>
+      <lg n="7" xml:id="HY_MA_25_7">
+        <l n="25" xml:id="HY_MA_25_7_25">verbum dei fructificans</l>
+        <l n="26" xml:id="HY_MA_25_7_26">in populorum cordibus</l>
+        <l n="27" xml:id="HY_MA_25_7_27">praelatus romae habitus</l>
+        <l n="28" xml:id="HY_MA_25_7_28">praedicator egregius</l>
+      </lg>
+      <lg n="8" xml:id="HY_MA_25_8">
+        <l n="29" xml:id="HY_MA_25_8_29">multitudo innumera</l>
+        <l n="30" xml:id="HY_MA_25_8_30">per eum baptizata est</l>
+        <l n="31" xml:id="HY_MA_25_8_31">quos inter rethor famosus</l>
+        <l n="32" xml:id="HY_MA_25_8_32">et victorinus credidit</l>
+      </lg>
+      <lg n="9" xml:id="HY_MA_25_9">
+        <l n="33" xml:id="HY_MA_25_9_33">ecclesiae arce pollens</l>
+        <l n="34" xml:id="HY_MA_25_9_34">hanc aulam christo condidit</l>
+        <l n="35" xml:id="HY_MA_25_9_35">ambrosius mittens caecum</l>
+        <l n="36" xml:id="HY_MA_25_9_36">huc dalmatino littore</l>
+      </lg>
+      <lg n="10" xml:id="HY_MA_25_10">
+        <l n="37" xml:id="HY_MA_25_10_37">ocius ille venit</l>
+        <l n="38" xml:id="HY_MA_25_10_38">lumen recepit eminus</l>
+        <l n="39" xml:id="HY_MA_25_10_39">sisinii martirii</l>
+        <l n="40" xml:id="HY_MA_25_10_40">meritis et alexandri</l>
+      </lg>
+      <lg n="11" xml:id="HY_MA_25_11">
+        <l n="41" xml:id="HY_MA_25_11_41">gloria tibi domine</l>
+        <l n="42" xml:id="HY_MA_25_11_42">gloria unigenito</l>
+        <l n="43" xml:id="HY_MA_25_11_43">una cum sancto spiritu</l>
+        <l n="44" xml:id="HY_MA_25_11_44">in sempiterna saecula amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

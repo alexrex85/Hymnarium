@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_MA_36"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Iam lucis orto sidere</title>
+
+        <author>Anonymus saec. incerti</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">Mane. Ad Primam</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Manuale Ambrosianum</title>
+          <date>saec. XI</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">Mane. Ad Primam</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Iam lucis orto sidere</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_MA_36_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_MA_36_1_1">Iam lucis orto sidere:</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_MA_36_1_2">Deum precemur supplices:</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_MA_36_1_3">ut in diurnis actibus:</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_MA_36_1_4">nos servet a nocentibus.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_MA_36_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_MA_36_2_5">Linguam refrenans temperet:</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_MA_36_2_6">ne litis orror insonet:</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_MA_36_2_7">visum fovendo contegat:</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_MA_36_2_8">ne vanitates hauriat.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_MA_36_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_MA_36_3_9">Sint pura cordis intima:</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_MA_36_3_10">absistat et vecordia:</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_MA_36_3_11">carnis terat superbiam:</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_MA_36_3_12">potus cibique parcitas.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_MA_36_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_MA_36_4_13">Ut cum dies abscesserit:</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_MA_36_4_14">noctemque sors reduxerit:</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_MA_36_4_15">mundi per abstinentiam:</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_MA_36_4_16">ipsi canamus gloriam.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_MA_36_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_MA_36_5_17">Deo Patri sit gloria:</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_MA_36_5_18">eiusque soli Filio:</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_MA_36_5_19">cum Spiritu paraclito:</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_MA_36_5_20">et nunc et in perpetuum. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Manuale Ambrosianum</p>
+        <p type="annus">saec. XI</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_MA_27"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Christe cunctorum dominator alme</title>
+
+        <author>Ambrosius Mediolanensis</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Sapphicum</note>
+
+        <note type="commentarius">In Dedicatione Ecclesiae Maioris</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Manuale Ambrosianum</title>
+          <date>saec. XI</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">In Dedicatione Ecclesiae Maioris</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Christe cunctorum dominator alme</head>
+
+      <lg n="1" type="strophe_sapphica" xml:id="HY_MA_27_1">
+        <l n="1" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_1_1">Christe cunctorum, dominator alme:</l>
+        <l n="2" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_1_2">Patris aeterni Genitus ab ore:</l>
+        <l n="3" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_1_3">supplicum vota pariterque hymnum:</l>
+        <l n="4" type="adonius" xml:id="HY_MA_27_1_4">cerne benignus.</l>
+      </lg>
+      <lg n="2" type="strophe_sapphica" xml:id="HY_MA_27_2">
+        <l n="5" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_2_5">Cerne quod puro Deus in honore:</l>
+        <l n="6" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_2_6">plebs tua supplex resonet in aula:</l>
+        <l n="7" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_2_7">annua cuius revehunt colendum:</l>
+        <l n="8" type="adonius" xml:id="HY_MA_27_2_8">tempora festum.</l>
+      </lg>
+      <lg n="3" type="strophe_sapphica" xml:id="HY_MA_27_3">
+        <l n="9" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_3_9">Haec domus rite tibi dedicata:</l>
+        <l n="10" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_3_10">noscitur in qua populus sacratum:</l>
+        <l n="11" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_3_11">corpus assumit, bibit et beati:</l>
+        <l n="12" type="adonius" xml:id="HY_MA_27_3_12">sanguinis haustum.</l>
+      </lg>
+      <lg n="4" type="strophe_sapphica" xml:id="HY_MA_27_4">
+        <l n="13" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_4_13">Hic sacrosancti latices veternas:</l>
+        <l n="14" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_4_14">diluunt culpas, perimuntque noxas:</l>
+        <l n="15" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_4_15">chrismate vero genus ut creetur:</l>
+        <l n="16" type="adonius" xml:id="HY_MA_27_4_16">christicolarum.</l>
+      </lg>
+      <lg n="5" type="strophe_sapphica" xml:id="HY_MA_27_5">
+        <l n="17" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_5_17">Hic salus aegris, medicina fessis:</l>
+        <l n="18" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_5_18">lumen orbatis, veniaque nostris:</l>
+        <l n="19" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_5_19">fertur offensis, timor atque moeror:</l>
+        <l n="20" type="adonius" xml:id="HY_MA_27_5_20">pellitur omnis.</l>
+      </lg>
+      <lg n="6" type="strophe_sapphica" xml:id="HY_MA_27_6">
+        <l n="21" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_6_21">Daemonis saeva perit hic rapina:</l>
+        <l n="22" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_6_22">pervicax monstrum pavet, et retenta:</l>
+        <l n="23" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_6_23">corpora linquens, fugit in remotas:</l>
+        <l n="24" type="adonius" xml:id="HY_MA_27_6_24">ocius umbras.</l>
+      </lg>
+      <lg n="7" type="strophe_sapphica" xml:id="HY_MA_27_7">
+        <l n="25" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_7_25">Hic locus nempe vocitatur aula:</l>
+        <l n="26" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_7_26">regis immensi, niveaque caeli:</l>
+        <l n="27" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_7_27">porta, quae vitae patriam petentes:</l>
+        <l n="28" type="adonius" xml:id="HY_MA_27_7_28">accipit omnes.</l>
+      </lg>
+      <lg n="8" type="strophe_sapphica" xml:id="HY_MA_27_8">
+        <l n="29" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_8_29">Turbo quam nullus quatit, aut vagantes:</l>
+        <l n="30" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_8_30">diruunt venti, penetrantque nimbi:</l>
+        <l n="31" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_8_31">non tetris laedit piceus tenebris:</l>
+        <l n="32" type="adonius" xml:id="HY_MA_27_8_32">tartarus horrens.</l>
+      </lg>
+      <lg n="9" type="strophe_sapphica" xml:id="HY_MA_27_9">
+        <l n="33" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_9_33">Quaesumus ergo, Deus, ut serenum:</l>
+        <l n="34" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_9_34">annuas vultum, famulos gubernans:</l>
+        <l n="35" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_9_35">qui tui summo celebrant amore:</l>
+        <l n="36" type="adonius" xml:id="HY_MA_27_9_36">gaudia templi.</l>
+      </lg>
+      <lg n="10" type="strophe_sapphica" xml:id="HY_MA_27_10">
+        <l n="37" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_10_37">Nulla nos vitae cruciet molestas:</l>
+        <l n="38" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_10_38">sint dies laeti, placidaeque noctes:</l>
+        <l n="39" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_10_39">nullus ex nobis, pereunte mundo:</l>
+        <l n="40" type="adonius" xml:id="HY_MA_27_10_40">sentiat ignem.</l>
+      </lg>
+      <lg n="11" type="strophe_sapphica" xml:id="HY_MA_27_11">
+        <l n="41" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_11_41">Hic dies in quo tibi consecratam:</l>
+        <l n="42" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_11_42">conspicis aram, tribuas perenne:</l>
+        <l n="43" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_11_43">gaudium nobis, vigeatque longo:</l>
+        <l n="44" type="adonius" xml:id="HY_MA_27_11_44">temporis usu.</l>
+      </lg>
+      <lg n="12" type="strophe_sapphica" xml:id="HY_MA_27_12">
+        <l n="45" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_12_45">Gloria summum resonet Parentem:</l>
+        <l n="46" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_12_46">gloria Natum, pariterque sanctum:</l>
+        <l n="47" type="hendecasyllabus_sapphicus" xml:id="HY_MA_27_12_47">Spiritum; dulcis moduletur hymnus:</l>
+        <l n="48" type="adonius" xml:id="HY_MA_27_12_48">omne per aevum. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Manuale Ambrosianum</p>
+        <p type="annus">saec. XI</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Sapphicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

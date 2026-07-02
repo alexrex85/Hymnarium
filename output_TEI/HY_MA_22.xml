@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_MA_22"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Sacri triumphale tui</title>
+
+        <author>Anonymus saec. incerti</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">Natalis Sanctorum Nazari et Celsi</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Manuale Ambrosianum</title>
+          <date>saec. XI</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">Natalis Sanctorum Nazari et Celsi</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Sacri triumphale tui</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_MA_22_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_MA_22_1_1">Sacri triumphale tui:</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_MA_22_1_2">Christi bellator inclyte:</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_MA_22_1_3">quo alma fides et crucis:</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_MA_22_1_4">tropheum vernat praelii.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_MA_22_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_MA_22_2_5">Mysticis canora modis:</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_MA_22_2_6">turba laudem concinat:</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_MA_22_2_7">Nazari lux vitae decus:</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_MA_22_2_8">apostolorum particeps.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_MA_22_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_MA_22_3_9">Petri coronaris fide:</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_MA_22_3_10">Paulique dogma nobili:</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_MA_22_3_11">Lino unguente praesule:</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_MA_22_3_12">sancto muniris Spiritu.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_MA_22_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_MA_22_4_13">Celsum haeredem sanguinis:</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_MA_22_4_14">haeredem tanti nominis:</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_MA_22_4_15">pari coronatum fide:</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_MA_22_4_16">Christo libasti victimam.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_MA_22_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_MA_22_5_17">Caelo locans substantiam:</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_MA_22_5_18">aerugo quam non devorat:</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_MA_22_5_19">gentes trahens ad gratiam:</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_MA_22_5_20">sacra talenta duplicans.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_MA_22_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_MA_22_6_21">Tu elementum liquidum:</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_MA_22_6_22">fixis calcans vestigiis:</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_MA_22_6_23">liberos reddis patriae:</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_MA_22_6_24">equoris morti deditos.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_MA_22_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_MA_22_7_25">His ita gestis, inclite:</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_MA_22_7_26">sancto recisus vertice:</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_MA_22_7_27">insignem coronam ferens:</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_MA_22_7_28">vitae nitescis praemio.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_MA_22_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_MA_22_8_29">Suscipe vota precantum:</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_MA_22_8_30">precator egregie:</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_MA_22_8_31">verbi caelestis amator:</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_MA_22_8_32">et doctor evangelice.</l>
+      </lg>
+      <lg n="9" type="tetrastichon_iambicum" xml:id="HY_MA_22_9">
+        <l n="33" type="dimeter_iambicus" xml:id="HY_MA_22_9_33">Gloria tibi Domine:</l>
+        <l n="34" type="dimeter_iambicus" xml:id="HY_MA_22_9_34">gloria Unigenito:</l>
+        <l n="35" type="dimeter_iambicus" xml:id="HY_MA_22_9_35">una cum sancto Spiritu:</l>
+        <l n="36" type="dimeter_iambicus" xml:id="HY_MA_22_9_36">in sempiterna saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Manuale Ambrosianum</p>
+        <p type="annus">saec. XI</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

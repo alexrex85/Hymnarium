@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_MA_11"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Magnum salutis gaudium</title>
+
+        <author>Anonymus saec. incerti</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">Dominica in ramis palmarum</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Manuale Ambrosianum</title>
+          <date>saec. XI</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">Dominica in ramis palmarum</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Magnum salutis gaudium</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_MA_11_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_MA_11_1_1">Magnum salutis gaudium:</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_MA_11_1_2">laetetur omne saeculum:</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_MA_11_1_3">Ihesus redemptor gentium:</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_MA_11_1_4">sanavit orbem languidum.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_MA_11_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_MA_11_2_5">Sex ante paschae ferias:</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_MA_11_2_6">advenit in Bethaniam:</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_MA_11_2_7">ubi pie post triduum:</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_MA_11_2_8">resuscitavit Lazarum.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_MA_11_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_MA_11_3_9">Nardi Maria pistici:</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_MA_11_3_10">sumpsit libram mox optimi:</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_MA_11_3_11">unxit beatos Domini:</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_MA_11_3_12">pedes, rigando lacrymis.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_MA_11_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_MA_11_4_13">Post haec iugalis asinae:</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_MA_11_4_14">Ihesus supernus arbiter:</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_MA_11_4_15">pullo sedebat, inclytam:</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_MA_11_4_16">pergebat Yerosolimam.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_MA_11_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_MA_11_5_17">O quam stupenda pietas:</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_MA_11_5_18">mira Dei clementia:</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_MA_11_5_19">sessor aselli fieri:</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_MA_11_5_20">dignatur auctor saeculi.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_MA_11_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_MA_11_6_21">Olim propheta praescius:</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_MA_11_6_22">praedixit almo Spiritu:</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_MA_11_6_23">Exulta, dicens, filia:</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_MA_11_6_24">Syon, satis, et iubila.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_MA_11_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_MA_11_7_25">Rex ecce tuus humilis:</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_MA_11_7_26">noli timere, veniet:</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_MA_11_7_27">pullo iugalis praesidens:</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_MA_11_7_28">tibi benignus, patiens.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_MA_11_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_MA_11_8_29">Ramos virentes sumpserat:</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_MA_11_8_30">palma recisos tenera:</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_MA_11_8_31">turba praecessit obviam:</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_MA_11_8_32">Regi perhenni plurima.</l>
+      </lg>
+      <lg n="9" type="tetrastichon_iambicum" xml:id="HY_MA_11_9">
+        <l n="33" type="dimeter_iambicus" xml:id="HY_MA_11_9_33">Coetus sequens et praevius:</l>
+        <l n="34" type="dimeter_iambicus" xml:id="HY_MA_11_9_34">sanctoque plenus Spiritu:</l>
+        <l n="35" type="dimeter_iambicus" xml:id="HY_MA_11_9_35">clamabat, In altissimis:</l>
+        <l n="36" type="dimeter_iambicus" xml:id="HY_MA_11_9_36">osanna David filio.</l>
+      </lg>
+      <lg n="10" type="tetrastichon_iambicum" xml:id="HY_MA_11_10">
+        <l n="37" type="dimeter_iambicus" xml:id="HY_MA_11_10_37">Quidam salutis trophaeis:</l>
+        <l n="38" type="dimeter_iambicus" xml:id="HY_MA_11_10_38">viam tegebant vestibus:</l>
+        <l n="39" type="dimeter_iambicus" xml:id="HY_MA_11_10_39">pluresque flore candido;</l>
+        <l n="40" type="dimeter_iambicus" xml:id="HY_MA_11_10_40">iter parabant Domino.</l>
+      </lg>
+      <lg n="11" type="tetrastichon_iambicum" xml:id="HY_MA_11_11">
+        <l n="41" type="dimeter_iambicus" xml:id="HY_MA_11_11_41">Ad cuius omnis civitas:</l>
+        <l n="42" type="dimeter_iambicus" xml:id="HY_MA_11_11_42">commota ingressus tremuit:</l>
+        <l n="43" type="dimeter_iambicus" xml:id="HY_MA_11_11_43">hebrea proles aurea:</l>
+        <l n="44" type="dimeter_iambicus" xml:id="HY_MA_11_11_44">laudes ferebat debitas.</l>
+      </lg>
+      <lg n="12" type="tetrastichon_iambicum" xml:id="HY_MA_11_12">
+        <l n="45" type="dimeter_iambicus" xml:id="HY_MA_11_12_45">Nos ergo tanto iudici:</l>
+        <l n="46" type="dimeter_iambicus" xml:id="HY_MA_11_12_46">curramus omnes obviam:</l>
+        <l n="47" type="dimeter_iambicus" xml:id="HY_MA_11_12_47">palmas gerentes gloriae:</l>
+        <l n="48" type="dimeter_iambicus" xml:id="HY_MA_11_12_48">mente canamus sobria.</l>
+      </lg>
+      <lg n="13" type="tetrastichon_iambicum" xml:id="HY_MA_11_13">
+        <l n="49" type="dimeter_iambicus" xml:id="HY_MA_11_13_49">Honor, decus, imperium:</l>
+        <l n="50" type="dimeter_iambicus" xml:id="HY_MA_11_13_50">sit Trinitati unicae:</l>
+        <l n="51" type="dimeter_iambicus" xml:id="HY_MA_11_13_51">Patri, Nato, Paraclito:</l>
+        <l n="52" type="dimeter_iambicus" xml:id="HY_MA_11_13_52">per infinita saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Manuale Ambrosianum</p>
+        <p type="annus">saec. XI</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

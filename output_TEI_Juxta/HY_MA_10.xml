@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_MA_10">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_MA_10_1">
+        <l n="1" xml:id="HY_MA_10_1_1">agathae sacrae virginis</l>
+        <l n="2" xml:id="HY_MA_10_1_2">diem festum colimus</l>
+        <l n="3" xml:id="HY_MA_10_1_3">in quo devicto tyranno</l>
+        <l n="4" xml:id="HY_MA_10_1_4">palmam sumit martyrio</l>
+      </lg>
+      <lg n="2" xml:id="HY_MA_10_2">
+        <l n="5" xml:id="HY_MA_10_2_5">quintianus tyrannus</l>
+        <l n="6" xml:id="HY_MA_10_2_6">consularis siciliae</l>
+        <l n="7" xml:id="HY_MA_10_2_7">audiens famam virginis</l>
+        <l n="8" xml:id="HY_MA_10_2_8">fremere coepit invidus</l>
+      </lg>
+      <lg n="3" xml:id="HY_MA_10_3">
+        <l n="9" xml:id="HY_MA_10_3_9">vitiorum affectibus</l>
+        <l n="10" xml:id="HY_MA_10_3_10">mentem vexabat invidam</l>
+        <l n="11" xml:id="HY_MA_10_3_11">ut deo dicatam virginem</l>
+        <l n="12" xml:id="HY_MA_10_3_12">rabido ore perimeret</l>
+      </lg>
+      <lg n="4" xml:id="HY_MA_10_4">
+        <l n="13" xml:id="HY_MA_10_4_13">statim adsunt miseri</l>
+        <l n="14" xml:id="HY_MA_10_4_14">eius qui vellent pandere</l>
+        <l n="15" xml:id="HY_MA_10_4_15">religionem sanctissimam</l>
+        <l n="16" xml:id="HY_MA_10_4_16">quam tenet ab infantia</l>
+      </lg>
+      <lg n="5" xml:id="HY_MA_10_5">
+        <l n="17" xml:id="HY_MA_10_5_17">sisti iubet martyram</l>
+        <l n="18" xml:id="HY_MA_10_5_18">suis tribunalibus</l>
+        <l n="19" xml:id="HY_MA_10_5_19">et eam sic alloquitur</l>
+        <l n="20" xml:id="HY_MA_10_5_20">ut diis cervicem flecteret</l>
+      </lg>
+      <lg n="6" xml:id="HY_MA_10_6">
+        <l n="21" xml:id="HY_MA_10_6_21">sed dum nil valet insania</l>
+        <l n="22" xml:id="HY_MA_10_6_22">in mamam torquet virginem</l>
+        <l n="23" xml:id="HY_MA_10_6_23">et testas acutissimas</l>
+        <l n="24" xml:id="HY_MA_10_6_24">igni succensas adhibet</l>
+      </lg>
+      <lg n="7" xml:id="HY_MA_10_7">
+        <l n="25" xml:id="HY_MA_10_7_25">cuius medendis artubus</l>
+        <l n="26" xml:id="HY_MA_10_7_26">sanctus adest apostolus</l>
+        <l n="27" xml:id="HY_MA_10_7_27">qui verbo curat vulnera</l>
+        <l n="28" xml:id="HY_MA_10_7_28">quae tyrannus infixerat</l>
+      </lg>
+      <lg n="8" xml:id="HY_MA_10_8">
+        <l n="29" xml:id="HY_MA_10_8_29">dehinc ad sepulchrum veniens</l>
+        <l n="30" xml:id="HY_MA_10_8_30">iuvenis splendidissimus</l>
+        <l n="31" xml:id="HY_MA_10_8_31">mentem sanctam praedicat</l>
+        <l n="32" xml:id="HY_MA_10_8_32">patriaeque salutem plurimam</l>
+      </lg>
+      <lg n="9" xml:id="HY_MA_10_9">
+        <l n="33" xml:id="HY_MA_10_9_33">gloria tibi domine</l>
+        <l n="34" xml:id="HY_MA_10_9_34">gloria unigenito</l>
+        <l n="35" xml:id="HY_MA_10_9_35">una cum sancto spiritu</l>
+        <l n="36" xml:id="HY_MA_10_9_36">in sempiterna saecula amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

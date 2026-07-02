@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_MA_31"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Iesu corona celsior</title>
+
+        <author>Anonymus saec. incerti</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">In Natali Confessorum</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Manuale Ambrosianum</title>
+          <date>saec. XI</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">In Natali Confessorum</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Iesu corona celsior</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_MA_31_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_MA_31_1_1">Iesu corona celsior:</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_MA_31_1_2">et veritas sublimior:</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_MA_31_1_3">qui confitenti servulo:</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_MA_31_1_4">reddis perenne praemium.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_MA_31_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_MA_31_2_5">Da supplicanti coetui:</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_MA_31_2_6">obtentu huius optimi:</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_MA_31_2_7">remissionem criminum:</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_MA_31_2_8">rumpendo nexum vinculis.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_MA_31_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_MA_31_3_9">Anni recurso tempore:</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_MA_31_3_10">dies reluxit lumine:</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_MA_31_3_11">quo sanctus hic de corpore:</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_MA_31_3_12">polum migravit praepotens.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_MA_31_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_MA_31_4_13">Hic vana terrae gaudia:</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_MA_31_4_14">et lutulenta praedia:</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_MA_31_4_15">polluta sorde deputans:</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_MA_31_4_16">ovans tenet caelestia.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_MA_31_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_MA_31_5_17">Te, Christe, rex piissime:</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_MA_31_5_18">hic confitendo iugiter:</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_MA_31_5_19">calcavit hostem fortiter:</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_MA_31_5_20">superbum ac satellitem.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_MA_31_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_MA_31_6_21">Virtutum actu et fide:</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_MA_31_6_22">confessionis ordine:</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_MA_31_6_23">ieiuna membra deferens:</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_MA_31_6_24">dapes supernas optinet.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_MA_31_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_MA_31_7_25">Plus currit in certamine:</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_MA_31_7_26">confessor ipse sustinens:</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_MA_31_7_27">quam martyr ictum sufferens:</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_MA_31_7_28">mucrone fundens sanguinem.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_MA_31_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_MA_31_8_29">Proinde te, piissime:</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_MA_31_8_30">precamur omnes supplices:</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_MA_31_8_31">ut huius almi gratia:</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_MA_31_8_32">nobis remittas debita.</l>
+      </lg>
+      <lg n="9" type="tetrastichon_iambicum" xml:id="HY_MA_31_9">
+        <l n="33" type="dimeter_iambicus" xml:id="HY_MA_31_9_33">Gloria tibi Domine:</l>
+        <l n="34" type="dimeter_iambicus" xml:id="HY_MA_31_9_34">gloria Unigenito:</l>
+        <l n="35" type="dimeter_iambicus" xml:id="HY_MA_31_9_35">una cum sancto Spiritu:</l>
+        <l n="36" type="dimeter_iambicus" xml:id="HY_MA_31_9_36">in sempiterna saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Manuale Ambrosianum</p>
+        <p type="annus">saec. XI</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

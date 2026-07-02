@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_MA_11">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_MA_11_1">
+        <l n="1" xml:id="HY_MA_11_1_1">magnum salutis gaudium</l>
+        <l n="2" xml:id="HY_MA_11_1_2">laetetur omne saeculum</l>
+        <l n="3" xml:id="HY_MA_11_1_3">ihesus redemptor gentium</l>
+        <l n="4" xml:id="HY_MA_11_1_4">sanavit orbem languidum</l>
+      </lg>
+      <lg n="2" xml:id="HY_MA_11_2">
+        <l n="5" xml:id="HY_MA_11_2_5">sex ante paschae ferias</l>
+        <l n="6" xml:id="HY_MA_11_2_6">advenit in bethaniam</l>
+        <l n="7" xml:id="HY_MA_11_2_7">ubi pie post triduum</l>
+        <l n="8" xml:id="HY_MA_11_2_8">resuscitavit lazarum</l>
+      </lg>
+      <lg n="3" xml:id="HY_MA_11_3">
+        <l n="9" xml:id="HY_MA_11_3_9">nardi maria pistici</l>
+        <l n="10" xml:id="HY_MA_11_3_10">sumpsit libram mox optimi</l>
+        <l n="11" xml:id="HY_MA_11_3_11">unxit beatos domini</l>
+        <l n="12" xml:id="HY_MA_11_3_12">pedes rigando lacrymis</l>
+      </lg>
+      <lg n="4" xml:id="HY_MA_11_4">
+        <l n="13" xml:id="HY_MA_11_4_13">post haec iugalis asinae</l>
+        <l n="14" xml:id="HY_MA_11_4_14">ihesus supernus arbiter</l>
+        <l n="15" xml:id="HY_MA_11_4_15">pullo sedebat inclytam</l>
+        <l n="16" xml:id="HY_MA_11_4_16">pergebat yerosolimam</l>
+      </lg>
+      <lg n="5" xml:id="HY_MA_11_5">
+        <l n="17" xml:id="HY_MA_11_5_17">o quam stupenda pietas</l>
+        <l n="18" xml:id="HY_MA_11_5_18">mira dei clementia</l>
+        <l n="19" xml:id="HY_MA_11_5_19">sessor aselli fieri</l>
+        <l n="20" xml:id="HY_MA_11_5_20">dignatur auctor saeculi</l>
+      </lg>
+      <lg n="6" xml:id="HY_MA_11_6">
+        <l n="21" xml:id="HY_MA_11_6_21">olim propheta praescius</l>
+        <l n="22" xml:id="HY_MA_11_6_22">praedixit almo spiritu</l>
+        <l n="23" xml:id="HY_MA_11_6_23">exulta dicens filia</l>
+        <l n="24" xml:id="HY_MA_11_6_24">syon satis et iubila</l>
+      </lg>
+      <lg n="7" xml:id="HY_MA_11_7">
+        <l n="25" xml:id="HY_MA_11_7_25">rex ecce tuus humilis</l>
+        <l n="26" xml:id="HY_MA_11_7_26">noli timere veniet</l>
+        <l n="27" xml:id="HY_MA_11_7_27">pullo iugalis praesidens</l>
+        <l n="28" xml:id="HY_MA_11_7_28">tibi benignus patiens</l>
+      </lg>
+      <lg n="8" xml:id="HY_MA_11_8">
+        <l n="29" xml:id="HY_MA_11_8_29">ramos virentes sumpserat</l>
+        <l n="30" xml:id="HY_MA_11_8_30">palma recisos tenera</l>
+        <l n="31" xml:id="HY_MA_11_8_31">turba praecessit obviam</l>
+        <l n="32" xml:id="HY_MA_11_8_32">regi perhenni plurima</l>
+      </lg>
+      <lg n="9" xml:id="HY_MA_11_9">
+        <l n="33" xml:id="HY_MA_11_9_33">coetus sequens et praevius</l>
+        <l n="34" xml:id="HY_MA_11_9_34">sanctoque plenus spiritu</l>
+        <l n="35" xml:id="HY_MA_11_9_35">clamabat in altissimis</l>
+        <l n="36" xml:id="HY_MA_11_9_36">osanna david filio</l>
+      </lg>
+      <lg n="10" xml:id="HY_MA_11_10">
+        <l n="37" xml:id="HY_MA_11_10_37">quidam salutis trophaeis</l>
+        <l n="38" xml:id="HY_MA_11_10_38">viam tegebant vestibus</l>
+        <l n="39" xml:id="HY_MA_11_10_39">pluresque flore candido</l>
+        <l n="40" xml:id="HY_MA_11_10_40">iter parabant domino</l>
+      </lg>
+      <lg n="11" xml:id="HY_MA_11_11">
+        <l n="41" xml:id="HY_MA_11_11_41">ad cuius omnis civitas</l>
+        <l n="42" xml:id="HY_MA_11_11_42">commota ingressus tremuit</l>
+        <l n="43" xml:id="HY_MA_11_11_43">hebrea proles aurea</l>
+        <l n="44" xml:id="HY_MA_11_11_44">laudes ferebat debitas</l>
+      </lg>
+      <lg n="12" xml:id="HY_MA_11_12">
+        <l n="45" xml:id="HY_MA_11_12_45">nos ergo tanto iudici</l>
+        <l n="46" xml:id="HY_MA_11_12_46">curramus omnes obviam</l>
+        <l n="47" xml:id="HY_MA_11_12_47">palmas gerentes gloriae</l>
+        <l n="48" xml:id="HY_MA_11_12_48">mente canamus sobria</l>
+      </lg>
+      <lg n="13" xml:id="HY_MA_11_13">
+        <l n="49" xml:id="HY_MA_11_13_49">honor decus imperium</l>
+        <l n="50" xml:id="HY_MA_11_13_50">sit trinitati unicae</l>
+        <l n="51" xml:id="HY_MA_11_13_51">patri nato paraclito</l>
+        <l n="52" xml:id="HY_MA_11_13_52">per infinita saecula amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

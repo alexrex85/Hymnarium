@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_MA_25"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Summi vatis praeconium</title>
+
+        <author>Anonymus saec. incerti</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">Translatio Sanctorum Sisinii Martyrii et Alexandri et Depositio Sancti Simpliciani</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Manuale Ambrosianum</title>
+          <date>saec. XI</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">Translatio Sanctorum Sisinii Martyrii et Alexandri et Depositio Sancti Simpliciani</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Summi vatis praeconium</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_MA_25_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_MA_25_1_1">Summi vatis praeconium:</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_MA_25_1_2">Simpliciani canimus:</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_MA_25_1_3">qui vitae cursum explicans:</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_MA_25_1_4">confessor Dei extitit.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_MA_25_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_MA_25_2_5">Tunc sacer ille praecessor:</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_MA_25_2_6">insignivit Ambrosius:</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_MA_25_2_7">vicarium sedis dignum:</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_MA_25_2_8">praedixit tunc oraculo.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_MA_25_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_MA_25_3_9">O quam felix successio:</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_MA_25_3_10">praeclara nunc haereditas:</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_MA_25_3_11">signifera missa voce:</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_MA_25_3_12">trinis modis distinctio.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_MA_25_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_MA_25_4_13">Laetus pastor grandaevus:</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_MA_25_4_14">sed licet simplex moribus:</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_MA_25_4_15">sanctitas comes fuit:</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_MA_25_4_16">ab annis puerilibus.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_MA_25_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_MA_25_5_17">Doctrina potens claruit:</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_MA_25_5_18">toto orbe notissimus:</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_MA_25_5_19">multa tractans divina:</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_MA_25_5_20">ingentia volumina.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_MA_25_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_MA_25_6_21">Augustinus scriptis pulsat:</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_MA_25_6_22">ut agitet ingenium:</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_MA_25_6_23">quaestionum; ludit forma:</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_MA_25_6_24">epistolari problema.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_MA_25_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_MA_25_7_25">Verbum Dei fructificans:</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_MA_25_7_26">in populorum cordibus:</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_MA_25_7_27">praelatus Romae habitus:</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_MA_25_7_28">praedicator egregius.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_MA_25_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_MA_25_8_29">Multitudo innumera:</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_MA_25_8_30">per eum baptizata est:</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_MA_25_8_31">quos inter rethor famosus:</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_MA_25_8_32">et Victorinus credidit.</l>
+      </lg>
+      <lg n="9" type="tetrastichon_iambicum" xml:id="HY_MA_25_9">
+        <l n="33" type="dimeter_iambicus" xml:id="HY_MA_25_9_33">Ecclesiae arce pollens:</l>
+        <l n="34" type="dimeter_iambicus" xml:id="HY_MA_25_9_34">hanc aulam Christo condidit:</l>
+        <l n="35" type="dimeter_iambicus" xml:id="HY_MA_25_9_35">Ambrosius mittens caecum:</l>
+        <l n="36" type="dimeter_iambicus" xml:id="HY_MA_25_9_36">huc dalmatino littore.</l>
+      </lg>
+      <lg n="10" type="tetrastichon_iambicum" xml:id="HY_MA_25_10">
+        <l n="37" type="dimeter_iambicus" xml:id="HY_MA_25_10_37">Ocius ille venit:</l>
+        <l n="38" type="dimeter_iambicus" xml:id="HY_MA_25_10_38">lumen recepit eminus:</l>
+        <l n="39" type="dimeter_iambicus" xml:id="HY_MA_25_10_39">Sisinii, Martirii:</l>
+        <l n="40" type="dimeter_iambicus" xml:id="HY_MA_25_10_40">meritis et Alexandri.</l>
+      </lg>
+      <lg n="11" type="tetrastichon_iambicum" xml:id="HY_MA_25_11">
+        <l n="41" type="dimeter_iambicus" xml:id="HY_MA_25_11_41">Gloria tibi Domine:</l>
+        <l n="42" type="dimeter_iambicus" xml:id="HY_MA_25_11_42">gloria Unigenito:</l>
+        <l n="43" type="dimeter_iambicus" xml:id="HY_MA_25_11_43">una cum sancto Spiritu:</l>
+        <l n="44" type="dimeter_iambicus" xml:id="HY_MA_25_11_44">in sempiterna saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Manuale Ambrosianum</p>
+        <p type="annus">saec. XI</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

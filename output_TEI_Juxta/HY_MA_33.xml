@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_MA_33">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_MA_33_1">
+        <l n="1" xml:id="HY_MA_33_1_1">aeterne rerum conditor</l>
+        <l n="2" xml:id="HY_MA_33_1_2">noctem diemque qui regis</l>
+        <l n="3" xml:id="HY_MA_33_1_3">et temporum das tempora</l>
+        <l n="4" xml:id="HY_MA_33_1_4">ut alleves fastidium</l>
+      </lg>
+      <lg n="2" xml:id="HY_MA_33_2">
+        <l n="5" xml:id="HY_MA_33_2_5">praeco diei iam sonat</l>
+        <l n="6" xml:id="HY_MA_33_2_6">noctis profundae pervigil</l>
+        <l n="7" xml:id="HY_MA_33_2_7">nocturna lux viantibus</l>
+        <l n="8" xml:id="HY_MA_33_2_8">a nocte noctem segregans</l>
+      </lg>
+      <lg n="3" xml:id="HY_MA_33_3">
+        <l n="9" xml:id="HY_MA_33_3_9">hoc excitatus lucifer</l>
+        <l n="10" xml:id="HY_MA_33_3_10">solvit polum caligine</l>
+        <l n="11" xml:id="HY_MA_33_3_11">hoc omnis errorum chorus</l>
+        <l n="12" xml:id="HY_MA_33_3_12">vias nocendi deserit</l>
+      </lg>
+      <lg n="4" xml:id="HY_MA_33_4">
+        <l n="13" xml:id="HY_MA_33_4_13">hoc nauta vires collegit</l>
+        <l n="14" xml:id="HY_MA_33_4_14">pontique mitescunt freta</l>
+        <l n="15" xml:id="HY_MA_33_4_15">hoc ipsa petra ecclesiae</l>
+        <l n="16" xml:id="HY_MA_33_4_16">canente culpam diluit</l>
+      </lg>
+      <lg n="5" xml:id="HY_MA_33_5">
+        <l n="17" xml:id="HY_MA_33_5_17">surgamus ergo strenue</l>
+        <l n="18" xml:id="HY_MA_33_5_18">gallus iacentes excitat</l>
+        <l n="19" xml:id="HY_MA_33_5_19">et somnolentos increpat</l>
+        <l n="20" xml:id="HY_MA_33_5_20">gallus negantem arguit</l>
+      </lg>
+      <lg n="6" xml:id="HY_MA_33_6">
+        <l n="21" xml:id="HY_MA_33_6_21">gallo canente spes redit</l>
+        <l n="22" xml:id="HY_MA_33_6_22">aegris salus refunditur</l>
+        <l n="23" xml:id="HY_MA_33_6_23">mucro latronis conditur</l>
+        <l n="24" xml:id="HY_MA_33_6_24">lapsis fides revertitur</l>
+      </lg>
+      <lg n="7" xml:id="HY_MA_33_7">
+        <l n="25" xml:id="HY_MA_33_7_25">ihesu paventes respice</l>
+        <l n="26" xml:id="HY_MA_33_7_26">et nos videndo corrige</l>
+        <l n="27" xml:id="HY_MA_33_7_27">si respicis lapsus cavent</l>
+        <l n="28" xml:id="HY_MA_33_7_28">fletuque culpa solvitur</l>
+      </lg>
+      <lg n="8" xml:id="HY_MA_33_8">
+        <l n="29" xml:id="HY_MA_33_8_29">tu lux refulge sensibus</l>
+        <l n="30" xml:id="HY_MA_33_8_30">mentisque somnum discute</l>
+        <l n="31" xml:id="HY_MA_33_8_31">te nostra vox primum sonet</l>
+        <l n="32" xml:id="HY_MA_33_8_32">et ora solvamus tibi</l>
+      </lg>
+      <lg n="9" xml:id="HY_MA_33_9">
+        <l n="33" xml:id="HY_MA_33_9_33">gloria tibi domine</l>
+        <l n="34" xml:id="HY_MA_33_9_34">gloria unigenito</l>
+        <l n="35" xml:id="HY_MA_33_9_35">una cum sancto spiritu</l>
+        <l n="36" xml:id="HY_MA_33_9_36">in sempiterna saecula amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

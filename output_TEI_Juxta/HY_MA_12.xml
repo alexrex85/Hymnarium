@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_MA_12">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_MA_12_1">
+        <l n="1" xml:id="HY_MA_12_1_1">hymnum dicamus domino</l>
+        <l n="2" xml:id="HY_MA_12_1_2">laudes deo cum cantico</l>
+        <l n="3" xml:id="HY_MA_12_1_3">qui nos crucis patibulo</l>
+        <l n="4" xml:id="HY_MA_12_1_4">suo redemit sanguine</l>
+      </lg>
+      <lg n="2" xml:id="HY_MA_12_2">
+        <l n="5" xml:id="HY_MA_12_2_5">die decursa ad vesperum</l>
+        <l n="6" xml:id="HY_MA_12_2_6">qua christus morti traditur</l>
+        <l n="7" xml:id="HY_MA_12_2_7">ad coenam venit impius</l>
+        <l n="8" xml:id="HY_MA_12_2_8">qui erat christi proditor</l>
+      </lg>
+      <lg n="3" xml:id="HY_MA_12_3">
+        <l n="9" xml:id="HY_MA_12_3_9">iesus futura nunciat</l>
+        <l n="10" xml:id="HY_MA_12_3_10">coenantibus discipulis</l>
+        <l n="11" xml:id="HY_MA_12_3_11">unus ex discumbentibus</l>
+        <l n="12" xml:id="HY_MA_12_3_12">ipse me traditurus est</l>
+      </lg>
+      <lg n="4" xml:id="HY_MA_12_4">
+        <l n="13" xml:id="HY_MA_12_4_13">iudas mercator pessimus</l>
+        <l n="14" xml:id="HY_MA_12_4_14">osculo petit dominum</l>
+        <l n="15" xml:id="HY_MA_12_4_15">ille ut agnus innocens</l>
+        <l n="16" xml:id="HY_MA_12_4_16">non negat iudae osculum</l>
+      </lg>
+      <lg n="5" xml:id="HY_MA_12_5">
+        <l n="17" xml:id="HY_MA_12_5_17">denariorum numero</l>
+        <l n="18" xml:id="HY_MA_12_5_18">christus iudaeis traditur</l>
+        <l n="19" xml:id="HY_MA_12_5_19">innocens et innoxius</l>
+        <l n="20" xml:id="HY_MA_12_5_20">quem iudas tradit impius</l>
+      </lg>
+      <lg n="6" xml:id="HY_MA_12_6">
+        <l n="21" xml:id="HY_MA_12_6_21">praeses pilatus proclamat</l>
+        <l n="22" xml:id="HY_MA_12_6_22">nullam culpam invenio</l>
+        <l n="23" xml:id="HY_MA_12_6_23">ablutis aqua manibus</l>
+        <l n="24" xml:id="HY_MA_12_6_24">christum iudaeis tradidit</l>
+      </lg>
+      <lg n="7" xml:id="HY_MA_12_7">
+        <l n="25" xml:id="HY_MA_12_7_25">fallaces iudaei impii</l>
+        <l n="26" xml:id="HY_MA_12_7_26">latronem petunt vivere</l>
+        <l n="27" xml:id="HY_MA_12_7_27">christum accusant graviter</l>
+        <l n="28" xml:id="HY_MA_12_7_28">crucifigatur reus est</l>
+      </lg>
+      <lg n="8" xml:id="HY_MA_12_8">
+        <l n="29" xml:id="HY_MA_12_8_29">barabas dimittitur</l>
+        <l n="30" xml:id="HY_MA_12_8_30">qui reus mortis fuerat</l>
+        <l n="31" xml:id="HY_MA_12_8_31">vita mundi suspenditur</l>
+        <l n="32" xml:id="HY_MA_12_8_32">per quem resurgunt mortui</l>
+      </lg>
+      <lg n="9" xml:id="HY_MA_12_9">
+        <l n="33" xml:id="HY_MA_12_9_33">gloria tibi domine</l>
+        <l n="34" xml:id="HY_MA_12_9_34">gloria unigenito</l>
+        <l n="35" xml:id="HY_MA_12_9_35">una cum sancto spiritu</l>
+        <l n="36" xml:id="HY_MA_12_9_36">in sempiterna saecula amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

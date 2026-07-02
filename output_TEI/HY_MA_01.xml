@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_MA_01"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Bellator armis inclitus</title>
+
+        <author>Anonymus saec. incerti</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">Depositio Sancti Martini Episcopi</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Manuale Ambrosianum</title>
+          <date>saec. XI</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">Depositio Sancti Martini Episcopi</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Bellator armis inclitus</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_MA_01_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_MA_01_1_1">Bellator armis inclitus:</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_MA_01_1_2">Martinus actu nobilis:</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_MA_01_1_3">quae gesserit miracula:</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_MA_01_1_4">hymnis canamus debitis.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_MA_01_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_MA_01_2_5">Qui frigoris sub tempore:</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_MA_01_2_6">dum clamide nudum tegit:</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_MA_01_2_7">mox Christo ipsam concidit:</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_MA_01_2_8">se veste tectum prodidit.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_MA_01_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_MA_01_3_9">Tres arte sancta pallidos:</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_MA_01_3_10">resuscitavit mortuos:</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_MA_01_3_11">de febre catecuminum:</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_MA_01_3_12">et alterum suspendio.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_MA_01_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_MA_01_4_13">Orationis ambitu:</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_MA_01_4_14">latro sepultus proditur:</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_MA_01_4_15">qua non cadebat impetu:</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_MA_01_4_16">pinus reflexa ducitur.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_MA_01_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_MA_01_5_17">Profana dum succendere:</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_MA_01_5_18">taere flammam repulit:</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_MA_01_5_19">quo extincta sunt incendia imbris:</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_MA_01_5_20">fuit praesentia.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_MA_01_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_MA_01_6_21">Humore de paralisi:</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_MA_01_6_22">curat puellam debilem:</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_MA_01_6_23">morbique rasit fomitem:</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_MA_01_6_24">sancti liquoris unguine.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_MA_01_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_MA_01_7_25">Pacem leproso dans viro:</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_MA_01_7_26">sordes fugavit ulcerum:</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_MA_01_7_27">et quod lavaret morbidum:</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_MA_01_7_28">Iordanis est in osculo.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_MA_01_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_MA_01_8_29">His et per orbem cognitis:</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_MA_01_8_30">in gentibus miraculis:</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_MA_01_8_31">possessor alti spiritus:</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_MA_01_8_32">nunc regnat in caelestibus.</l>
+      </lg>
+      <lg n="9" type="tetrastichon_iambicum" xml:id="HY_MA_01_9">
+        <l n="33" type="dimeter_iambicus" xml:id="HY_MA_01_9_33">Gloria tibi Domine:</l>
+        <l n="34" type="dimeter_iambicus" xml:id="HY_MA_01_9_34">gloria Unigenito:</l>
+        <l n="35" type="dimeter_iambicus" xml:id="HY_MA_01_9_35">una cum sancto Spiritu:</l>
+        <l n="36" type="dimeter_iambicus" xml:id="HY_MA_01_9_36">in sempiterna saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Manuale Ambrosianum</p>
+        <p type="annus">saec. XI</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

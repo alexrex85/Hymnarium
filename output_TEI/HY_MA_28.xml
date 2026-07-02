@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_MA_28"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Sacratum hoc templum Dei</title>
+
+        <author>Anonymus saec. incerti</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">In Dedicatione Templi</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Manuale Ambrosianum</title>
+          <date>saec. XI</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">In Dedicatione Templi</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Sacratum hoc templum Dei</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_MA_28_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_MA_28_1_1">Sacratum hoc templum Dei:</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_MA_28_1_2">altaris renovatio:</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_MA_28_1_3">nos recurrentes annuas:</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_MA_28_1_4">laudes Deo referimus.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_MA_28_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_MA_28_2_5">Altare magnum hoc Dei:</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_MA_28_2_6">sacratum est hoc die:</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_MA_28_2_7">in cuius honore sedulo:</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_MA_28_2_8">omnes curvamus genua.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_MA_28_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_MA_28_3_9">Precantes autem Dominum:</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_MA_28_3_10">qui solus invisilibis:</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_MA_28_3_11">ut nos semper in hoc loco:</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_MA_28_3_12">sanctificari iubeat.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_MA_28_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_MA_28_4_13">Vota solventes hic Deo:</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_MA_28_4_14">sanctisque eius omnibus:</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_MA_28_4_15">quorum sacrae reliquiae:</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_MA_28_4_16">templum ornarunt hoc Deo.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_MA_28_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_MA_28_5_17">Omnis qui hic ingreditur:</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_MA_28_5_18">sanctificatus exeat:</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_MA_28_5_19">semper orando Domino:</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_MA_28_5_20">purificatus maneat.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_MA_28_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_MA_28_6_21">Caerimoniarum hostias:</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_MA_28_6_22">ad hoc altare iugiter:</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_MA_28_6_23">nos offerentes pariter:</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_MA_28_6_24">devotis semper mentibus.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_MA_28_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_MA_28_7_25">Sanctificet nos Dominus:</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_MA_28_7_26">in hoc templo sancto suo:</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_MA_28_7_27">in quo et nos solemniter:</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_MA_28_7_28">sacrum munus offerimus.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_MA_28_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_MA_28_8_29">Quem, fratres charissimi:</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_MA_28_8_30">et Christum eius Filium:</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_MA_28_8_31">simulque sanctum Spiritum:</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_MA_28_8_32">hymnis laudemus iugiter.</l>
+      </lg>
+      <lg n="9" type="tetrastichon_iambicum" xml:id="HY_MA_28_9">
+        <l n="33" type="dimeter_iambicus" xml:id="HY_MA_28_9_33">Gloria tibi Domine:</l>
+        <l n="34" type="dimeter_iambicus" xml:id="HY_MA_28_9_34">gloria Unigenito:</l>
+        <l n="35" type="dimeter_iambicus" xml:id="HY_MA_28_9_35">una cum sancto Spiritu:</l>
+        <l n="36" type="dimeter_iambicus" xml:id="HY_MA_28_9_36">in sempiterna saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Manuale Ambrosianum</p>
+        <p type="annus">saec. XI</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

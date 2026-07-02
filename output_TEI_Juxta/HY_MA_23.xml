@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_MA_23">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_MA_23_1">
+        <l n="1" xml:id="HY_MA_23_1_1">magni palmam certaminis</l>
+        <l n="2" xml:id="HY_MA_23_1_2">invicta fides contulit</l>
+        <l n="3" xml:id="HY_MA_23_1_3">pro christo dimicantibus</l>
+        <l n="4" xml:id="HY_MA_23_1_4">de caelo datur calculus</l>
+      </lg>
+      <lg n="2" xml:id="HY_MA_23_2">
+        <l n="5" xml:id="HY_MA_23_2_5">sic fortis xystus athleta</l>
+        <l n="6" xml:id="HY_MA_23_2_6">petri sequens martyrium</l>
+        <l n="7" xml:id="HY_MA_23_2_7">ornavit mox ecclesiam</l>
+        <l n="8" xml:id="HY_MA_23_2_8">confessionis titulo</l>
+      </lg>
+      <lg n="3" xml:id="HY_MA_23_3">
+        <l n="9" xml:id="HY_MA_23_3_9">ortus athenis et altus</l>
+        <l n="10" xml:id="HY_MA_23_3_10">philosophorum studiis</l>
+        <l n="11" xml:id="HY_MA_23_3_11">mutavit artem artium</l>
+        <l n="12" xml:id="HY_MA_23_3_12">praeceptor apostolicus</l>
+      </lg>
+      <lg n="4" xml:id="HY_MA_23_4">
+        <l n="13" xml:id="HY_MA_23_4_13">nam carnifex tyrannidis</l>
+        <l n="14" xml:id="HY_MA_23_4_14">fervens ut leo rabiens</l>
+        <l n="15" xml:id="HY_MA_23_4_15">advectans secum martyres</l>
+        <l n="16" xml:id="HY_MA_23_4_16">abdon et semnem perimit</l>
+      </lg>
+      <lg n="5" xml:id="HY_MA_23_5">
+        <l n="17" xml:id="HY_MA_23_5_17">deinc ad xystum properans</l>
+        <l n="18" xml:id="HY_MA_23_5_18">vincla catenas carcerem</l>
+        <l n="19" xml:id="HY_MA_23_5_19">minatur interniciem</l>
+        <l n="20" xml:id="HY_MA_23_5_20">gladiali sententia</l>
+      </lg>
+      <lg n="6" xml:id="HY_MA_23_6">
+        <l n="21" xml:id="HY_MA_23_6_21">tunc pius ille pontifex</l>
+        <l n="22" xml:id="HY_MA_23_6_22">accersiens laurentium</l>
+        <l n="23" xml:id="HY_MA_23_6_23">levitae fidelissimo</l>
+        <l n="24" xml:id="HY_MA_23_6_24">commendavit ecclesiam</l>
+      </lg>
+      <lg n="7" xml:id="HY_MA_23_7">
+        <l n="25" xml:id="HY_MA_23_7_25">uterque consecuti sunt</l>
+        <l n="26" xml:id="HY_MA_23_7_26">agonis sui bravium</l>
+        <l n="27" xml:id="HY_MA_23_7_27">ensis et craticulae</l>
+        <l n="28" xml:id="HY_MA_23_7_28">coronam dedit passio</l>
+      </lg>
+      <lg n="8" xml:id="HY_MA_23_8">
+        <l n="29" xml:id="HY_MA_23_8_29">iungamur ergo socii</l>
+        <l n="30" xml:id="HY_MA_23_8_30">hymnum gerentes domino</l>
+        <l n="31" xml:id="HY_MA_23_8_31">ut horum interventibus</l>
+        <l n="32" xml:id="HY_MA_23_8_32">nostra purgentur crimina</l>
+      </lg>
+      <lg n="9" xml:id="HY_MA_23_9">
+        <l n="33" xml:id="HY_MA_23_9_33">gloria tibi domine</l>
+        <l n="34" xml:id="HY_MA_23_9_34">gloria unigenito</l>
+        <l n="35" xml:id="HY_MA_23_9_35">una cum sancto spiritu</l>
+        <l n="36" xml:id="HY_MA_23_9_36">in sempiterna saecula amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

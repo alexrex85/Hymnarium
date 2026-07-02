@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_MA_35">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_MA_35_1">
+        <l n="1" xml:id="HY_MA_35_1_1">deus creator omnium</l>
+        <l n="2" xml:id="HY_MA_35_1_2">polique rector vestiens</l>
+        <l n="3" xml:id="HY_MA_35_1_3">diem decoro lumine</l>
+        <l n="4" xml:id="HY_MA_35_1_4">noctem soporis gratia</l>
+      </lg>
+      <lg n="2" xml:id="HY_MA_35_2">
+        <l n="5" xml:id="HY_MA_35_2_5">artus solutos ut quies</l>
+        <l n="6" xml:id="HY_MA_35_2_6">reddat laboris usui</l>
+        <l n="7" xml:id="HY_MA_35_2_7">mentesque fessas allevet</l>
+        <l n="8" xml:id="HY_MA_35_2_8">luctusque solvat anxios</l>
+      </lg>
+      <lg n="3" xml:id="HY_MA_35_3">
+        <l n="9" xml:id="HY_MA_35_3_9">grates peracto iam die</l>
+        <l n="10" xml:id="HY_MA_35_3_10">et noctis exortu preces</l>
+        <l n="11" xml:id="HY_MA_35_3_11">votis reos ut adiuves</l>
+        <l n="12" xml:id="HY_MA_35_3_12">hymnum canentes solvimus</l>
+      </lg>
+      <lg n="4" xml:id="HY_MA_35_4">
+        <l n="13" xml:id="HY_MA_35_4_13">te cordis ima concinant</l>
+        <l n="14" xml:id="HY_MA_35_4_14">te vox sonora concrepet</l>
+        <l n="15" xml:id="HY_MA_35_4_15">te diligat castus amor</l>
+        <l n="16" xml:id="HY_MA_35_4_16">te mens adoret sobria</l>
+      </lg>
+      <lg n="5" xml:id="HY_MA_35_5">
+        <l n="17" xml:id="HY_MA_35_5_17">et cum profunda clauserit</l>
+        <l n="18" xml:id="HY_MA_35_5_18">diem caligo noctium</l>
+        <l n="19" xml:id="HY_MA_35_5_19">fides tenebras nesciat</l>
+        <l n="20" xml:id="HY_MA_35_5_20">et nox fide reluceat</l>
+      </lg>
+      <lg n="6" xml:id="HY_MA_35_6">
+        <l n="21" xml:id="HY_MA_35_6_21">dormire mentem ne sinas</l>
+        <l n="22" xml:id="HY_MA_35_6_22">dormire culpa noverit</l>
+        <l n="23" xml:id="HY_MA_35_6_23">castos fides refrigerans</l>
+        <l n="24" xml:id="HY_MA_35_6_24">somni vaporem temperet</l>
+      </lg>
+      <lg n="7" xml:id="HY_MA_35_7">
+        <l n="25" xml:id="HY_MA_35_7_25">exuta sensu lubrico</l>
+        <l n="26" xml:id="HY_MA_35_7_26">te cordis alta somnient</l>
+        <l n="27" xml:id="HY_MA_35_7_27">ne hostis invidi dolo</l>
+        <l n="28" xml:id="HY_MA_35_7_28">pavor quietos suscitet</l>
+      </lg>
+      <lg n="8" xml:id="HY_MA_35_8">
+        <l n="29" xml:id="HY_MA_35_8_29">christum rogamus et patrem</l>
+        <l n="30" xml:id="HY_MA_35_8_30">christi patrisque spiritum</l>
+        <l n="31" xml:id="HY_MA_35_8_31">unum potens per omnia</l>
+        <l n="32" xml:id="HY_MA_35_8_32">fove precantes trinitas</l>
+      </lg>
+      <lg n="9" xml:id="HY_MA_35_9">
+        <l n="33" xml:id="HY_MA_35_9_33">gloria tibi domine</l>
+        <l n="34" xml:id="HY_MA_35_9_34">gloria unigenito</l>
+        <l n="35" xml:id="HY_MA_35_9_35">una cum sancto spiritu</l>
+        <l n="36" xml:id="HY_MA_35_9_36">in sempiterna saecula amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_MA_08"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Inluminans altissimus</title>
+
+        <author>Ambrosius Mediolanensis</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">Epiphania Domini</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Manuale Ambrosianum</title>
+          <date>saec. XI</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">Epiphania Domini</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Inluminans altissimus</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_MA_08_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_MA_08_1_1">Inluminans altissimus:</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_MA_08_1_2">micantium astrorum globos:</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_MA_08_1_3">pax, vita, lumen, veritas:</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_MA_08_1_4">Ihesu fave precantibus.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_MA_08_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_MA_08_2_5">Seu mystico baptismate:</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_MA_08_2_6">fluenta Iordanis retro:</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_MA_08_2_7">conversa condam tertio:</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_MA_08_2_8">praesenti sacraris die.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_MA_08_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_MA_08_3_9">Seu stella partum Virginis:</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_MA_08_3_10">caelo micans signaveris:</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_MA_08_3_11">et hoc adoratum die:</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_MA_08_3_12">praesepe Magos duxeris.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_MA_08_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_MA_08_4_13">Vel hydriis plenis aqua:</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_MA_08_4_14">vini saporem infuderis:</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_MA_08_4_15">hausit minister conscius:</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_MA_08_4_16">quod ipse non impleverat.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_MA_08_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_MA_08_5_17">Aquas colorari videns:</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_MA_08_5_18">inebriari flumina:</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_MA_08_5_19">mutata elementa stupent:</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_MA_08_5_20">transire in usus alteros.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_MA_08_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_MA_08_6_21">Sic quinque millibus viris:</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_MA_08_6_22">dum quinque panes dividunt:</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_MA_08_6_23">edentium sub dentibus:</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_MA_08_6_24">in ore crescebat cibus.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_MA_08_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_MA_08_7_25">Multiplicabatur magis:</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_MA_08_7_26">dispendio panis suo:</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_MA_08_7_27">quis haec videns mirabitur:</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_MA_08_7_28">iuges meatus fontium.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_MA_08_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_MA_08_8_29">Inter manus frangentium:</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_MA_08_8_30">panis rigatur profluus:</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_MA_08_8_31">intacta quae non frangerat:</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_MA_08_8_32">fragmenta subrepunt viri.</l>
+      </lg>
+      <lg n="9" type="tetrastichon_iambicum" xml:id="HY_MA_08_9">
+        <l n="33" type="dimeter_iambicus" xml:id="HY_MA_08_9_33">Gloria tibi Domine:</l>
+        <l n="34" type="dimeter_iambicus" xml:id="HY_MA_08_9_34">gloria Unigenito:</l>
+        <l n="35" type="dimeter_iambicus" xml:id="HY_MA_08_9_35">una cum sancto Spiritu:</l>
+        <l n="36" type="dimeter_iambicus" xml:id="HY_MA_08_9_36">in sempiterna saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Manuale Ambrosianum</p>
+        <p type="annus">saec. XI</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

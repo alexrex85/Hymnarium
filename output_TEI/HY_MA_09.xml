@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_MA_09"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Agnes beatae virginis</title>
+
+        <author>Ambrosius Mediolanensis</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">Sanctae Agnetis Virginis</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Manuale Ambrosianum</title>
+          <date>saec. XI</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">Sanctae Agnetis Virginis</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Agnes beatae virginis</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_MA_09_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_MA_09_1_1">Agnes beatae virginis:</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_MA_09_1_2">natalis est quo spiritum:</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_MA_09_1_3">caelo refudit debitum:</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_MA_09_1_4">pio sacrata sanguine.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_MA_09_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_MA_09_2_5">Matura martyrio fuit:</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_MA_09_2_6">matura nondum nuptiis:</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_MA_09_2_7">nutabat in viris fides:</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_MA_09_2_8">cedebat effessus senex.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_MA_09_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_MA_09_3_9">Metu parentes territi:</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_MA_09_3_10">claustrum pudoris auxerant:</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_MA_09_3_11">solvit fores custodiae:</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_MA_09_3_12">fides teneri nescia.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_MA_09_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_MA_09_4_13">Prodire quis nuptum putet:</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_MA_09_4_14">sic laeta vultu ducitur:</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_MA_09_4_15">novas vero ferens opes:</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_MA_09_4_16">dotata censu sanguinis.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_MA_09_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_MA_09_5_17">Aras nefandi numinis:</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_MA_09_5_18">adolere tedis cogitur:</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_MA_09_5_19">respondit, Haud tales faces:</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_MA_09_5_20">sumpsere Christi virgines.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_MA_09_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_MA_09_6_21">Hic ignis extinguit fidem:</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_MA_09_6_22">haec flamma lumen eripit:</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_MA_09_6_23">hic hic ferite, ut profluo:</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_MA_09_6_24">cruore restinguam focos.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_MA_09_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_MA_09_7_25">Percussa quam pompam tulit?</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_MA_09_7_26">Nam veste se totam tegens:</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_MA_09_7_27">curam pudoris praestitit:</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_MA_09_7_28">ne quis retectam cerneret.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_MA_09_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_MA_09_8_29">In morte vivebat pudor:</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_MA_09_8_30">vultumque texerat manu:</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_MA_09_8_31">terram genu flexo petit:</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_MA_09_8_32">lapsu verecundo cadens.</l>
+      </lg>
+      <lg n="9" type="tetrastichon_iambicum" xml:id="HY_MA_09_9">
+        <l n="33" type="dimeter_iambicus" xml:id="HY_MA_09_9_33">Gloria tibi Domine:</l>
+        <l n="34" type="dimeter_iambicus" xml:id="HY_MA_09_9_34">gloria Unigenito:</l>
+        <l n="35" type="dimeter_iambicus" xml:id="HY_MA_09_9_35">una cum sancto Spiritu:</l>
+        <l n="36" type="dimeter_iambicus" xml:id="HY_MA_09_9_36">in sempiterna saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Manuale Ambrosianum</p>
+        <p type="annus">saec. XI</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

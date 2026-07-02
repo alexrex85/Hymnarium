@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_MA_15">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_MA_15_1">
+        <l n="1" xml:id="HY_MA_15_1_1">iam christus astra ascenderat</l>
+        <l n="2" xml:id="HY_MA_15_1_2">regressus unde venerat</l>
+        <l n="3" xml:id="HY_MA_15_1_3">promisso patris munere</l>
+        <l n="4" xml:id="HY_MA_15_1_4">sanctum daturus spiritum</l>
+      </lg>
+      <lg n="2" xml:id="HY_MA_15_2">
+        <l n="5" xml:id="HY_MA_15_2_5">sollemnis surgebat dies</l>
+        <l n="6" xml:id="HY_MA_15_2_6">quo mystico septemplici</l>
+        <l n="7" xml:id="HY_MA_15_2_7">orbis volutus septies</l>
+        <l n="8" xml:id="HY_MA_15_2_8">signat beata tempora</l>
+      </lg>
+      <lg n="3" xml:id="HY_MA_15_3">
+        <l n="9" xml:id="HY_MA_15_3_9">cum hora cunctis tertia</l>
+        <l n="10" xml:id="HY_MA_15_3_10">repente mundus intonat</l>
+        <l n="11" xml:id="HY_MA_15_3_11">apostolis orantibus</l>
+        <l n="12" xml:id="HY_MA_15_3_12">deum venisse nuntians</l>
+      </lg>
+      <lg n="4" xml:id="HY_MA_15_4">
+        <l n="13" xml:id="HY_MA_15_4_13">de patris ergo lumine</l>
+        <l n="14" xml:id="HY_MA_15_4_14">decorus ignis almus est</l>
+        <l n="15" xml:id="HY_MA_15_4_15">qui fida christi pectora</l>
+        <l n="16" xml:id="HY_MA_15_4_16">calore verbi compleat</l>
+      </lg>
+      <lg n="5" xml:id="HY_MA_15_5">
+        <l n="17" xml:id="HY_MA_15_5_17">impleta gaudent viscera</l>
+        <l n="18" xml:id="HY_MA_15_5_18">afflata sancto lumine</l>
+        <l n="19" xml:id="HY_MA_15_5_19">voces diverse consonant</l>
+        <l n="20" xml:id="HY_MA_15_5_20">fantur dei magnalia</l>
+      </lg>
+      <lg n="6" xml:id="HY_MA_15_6">
+        <l n="21" xml:id="HY_MA_15_6_21">ex omni gente cogitur</l>
+        <l n="22" xml:id="HY_MA_15_6_22">graecus latinus barbarus</l>
+        <l n="23" xml:id="HY_MA_15_6_23">cunctisque admirantibus</l>
+        <l n="24" xml:id="HY_MA_15_6_24">linguis loquuntur omnium</l>
+      </lg>
+      <lg n="7" xml:id="HY_MA_15_7">
+        <l n="25" xml:id="HY_MA_15_7_25">iudaea tunc incredula</l>
+        <l n="26" xml:id="HY_MA_15_7_26">vesano turba spiritu</l>
+        <l n="27" xml:id="HY_MA_15_7_27">ructare musti crapulam</l>
+        <l n="28" xml:id="HY_MA_15_7_28">alumnos christi concrepat</l>
+      </lg>
+      <lg n="8" xml:id="HY_MA_15_8">
+        <l n="29" xml:id="HY_MA_15_8_29">sed signis et virtutibus</l>
+        <l n="30" xml:id="HY_MA_15_8_30">occurrit et docet petrus</l>
+        <l n="31" xml:id="HY_MA_15_8_31">falsa profari perfidos</l>
+        <l n="32" xml:id="HY_MA_15_8_32">iohele teste comprobans</l>
+      </lg>
+      <lg n="9" xml:id="HY_MA_15_9">
+        <l n="33" xml:id="HY_MA_15_9_33">gloria tibi domine</l>
+        <l n="34" xml:id="HY_MA_15_9_34">gloria unigenito</l>
+        <l n="35" xml:id="HY_MA_15_9_35">una cum sancto spiritu</l>
+        <l n="36" xml:id="HY_MA_15_9_36">in sempiterna saecula amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

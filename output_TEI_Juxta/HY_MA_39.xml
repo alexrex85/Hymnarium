@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_MA_39">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_MA_39_1">
+        <l n="1" xml:id="HY_MA_39_1_1">rector potens verax deus</l>
+        <l n="2" xml:id="HY_MA_39_1_2">qui temperas rerum vices</l>
+        <l n="3" xml:id="HY_MA_39_1_3">splendore mane instruis</l>
+        <l n="4" xml:id="HY_MA_39_1_4">et ignibus meridiem</l>
+      </lg>
+      <lg n="2" xml:id="HY_MA_39_2">
+        <l n="5" xml:id="HY_MA_39_2_5">extingue flammas litium</l>
+        <l n="6" xml:id="HY_MA_39_2_6">aufer calorem noctium</l>
+        <l n="7" xml:id="HY_MA_39_2_7">confer salutem corporum</l>
+        <l n="8" xml:id="HY_MA_39_2_8">veramque pacem cordium</l>
+      </lg>
+      <lg n="3" xml:id="HY_MA_39_3">
+        <l n="9" xml:id="HY_MA_39_3_9">praesta pater piissime</l>
+        <l n="10" xml:id="HY_MA_39_3_10">patrique compar unice</l>
+        <l n="11" xml:id="HY_MA_39_3_11">cum spiritu paraclito</l>
+        <l n="12" xml:id="HY_MA_39_3_12">regnans per omne saeculum amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

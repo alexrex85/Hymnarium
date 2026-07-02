@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_MA_03">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_MA_03_1">
+        <l n="1" xml:id="HY_MA_03_1_1">miraculum laudabile</l>
+        <l n="2" xml:id="HY_MA_03_1_2">canite omnes populi</l>
+        <l n="3" xml:id="HY_MA_03_1_3">quod datum est ecclesiae</l>
+        <l n="4" xml:id="HY_MA_03_1_4">fluctuanti in saeculo</l>
+      </lg>
+      <lg n="2" xml:id="HY_MA_03_2">
+        <l n="5" xml:id="HY_MA_03_2_5">ambrosium vatem magnum</l>
+        <l n="6" xml:id="HY_MA_03_2_6">praedestinatum a deo</l>
+        <l n="7" xml:id="HY_MA_03_2_7">tempore quo diabolus</l>
+        <l n="8" xml:id="HY_MA_03_2_8">foedaverat templa dei</l>
+      </lg>
+      <lg n="3" xml:id="HY_MA_03_3">
+        <l n="9" xml:id="HY_MA_03_3_9">christus qui numquam deserit</l>
+        <l n="10" xml:id="HY_MA_03_3_10">quos suo redemit sanguine</l>
+        <l n="11" xml:id="HY_MA_03_3_11">direxit virum inclitum</l>
+        <l n="12" xml:id="HY_MA_03_3_12">ut arrium destrueret</l>
+      </lg>
+      <lg n="4" xml:id="HY_MA_03_4">
+        <l n="13" xml:id="HY_MA_03_4_13">infulas dum gerit saeculi</l>
+        <l n="14" xml:id="HY_MA_03_4_14">adquisivit paradisi</l>
+        <l n="15" xml:id="HY_MA_03_4_15">ius dum portat gladii</l>
+        <l n="16" xml:id="HY_MA_03_4_16">suscepit evangelii</l>
+      </lg>
+      <lg n="5" xml:id="HY_MA_03_5">
+        <l n="17" xml:id="HY_MA_03_5_17">mysterium incognitum</l>
+        <l n="18" xml:id="HY_MA_03_5_18">altissimus quod noverat</l>
+        <l n="19" xml:id="HY_MA_03_5_19">nondum ablutus lavacro</l>
+        <l n="20" xml:id="HY_MA_03_5_20">pontifex eligitur</l>
+      </lg>
+      <lg n="6" xml:id="HY_MA_03_6">
+        <l n="21" xml:id="HY_MA_03_6_21">ingressus est ecclesiam</l>
+        <l n="22" xml:id="HY_MA_03_6_22">plebem sedare turbidam</l>
+        <l n="23" xml:id="HY_MA_03_6_23">cunctorum ora conclamant</l>
+        <l n="24" xml:id="HY_MA_03_6_24">ambrosium episcopum</l>
+      </lg>
+      <lg n="7" xml:id="HY_MA_03_7">
+        <l n="25" xml:id="HY_MA_03_7_25">arrii perfidia</l>
+        <l n="26" xml:id="HY_MA_03_7_26">purgatur de ecclesia</l>
+        <l n="27" xml:id="HY_MA_03_7_27">cuncta concrepant agmina</l>
+        <l n="28" xml:id="HY_MA_03_7_28">nec desunt christi munera</l>
+      </lg>
+      <lg n="8" xml:id="HY_MA_03_8">
+        <l n="29" xml:id="HY_MA_03_8_29">nox tetra cedat lumini</l>
+        <l n="30" xml:id="HY_MA_03_8_30">confundantur haeretici</l>
+        <l n="31" xml:id="HY_MA_03_8_31">adest tantum piissimus</l>
+        <l n="32" xml:id="HY_MA_03_8_32">qui purget mentes infidas</l>
+      </lg>
+      <lg n="9" xml:id="HY_MA_03_9">
+        <l n="33" xml:id="HY_MA_03_9_33">virtus ex alto data est</l>
+        <l n="34" xml:id="HY_MA_03_9_34">ambrosio in baptismo</l>
+        <l n="35" xml:id="HY_MA_03_9_35">statim ut renatus est</l>
+        <l n="36" xml:id="HY_MA_03_9_36">coepit fugare daemones</l>
+      </lg>
+      <lg n="10" xml:id="HY_MA_03_10">
+        <l n="37" xml:id="HY_MA_03_10_37">suscepit ecclesiam</l>
+        <l n="38" xml:id="HY_MA_03_10_38">gubernavit intrepidus</l>
+        <l n="39" xml:id="HY_MA_03_10_39">confessor esse meruit</l>
+        <l n="40" xml:id="HY_MA_03_10_40">dum arrianis non cedit</l>
+      </lg>
+      <lg n="11" xml:id="HY_MA_03_11">
+        <l n="41" xml:id="HY_MA_03_11_41">gloria tibi domine</l>
+        <l n="42" xml:id="HY_MA_03_11_42">gloria unigenito</l>
+        <l n="43" xml:id="HY_MA_03_11_43">una cum sancto spiritu</l>
+        <l n="44" xml:id="HY_MA_03_11_44">in sempiterna saecula amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

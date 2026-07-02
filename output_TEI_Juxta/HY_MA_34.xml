@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_MA_34">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_MA_34_1">
+        <l n="1" xml:id="HY_MA_34_1_1">splendor paternae gloriae</l>
+        <l n="2" xml:id="HY_MA_34_1_2">de luce lucem proferens</l>
+        <l n="3" xml:id="HY_MA_34_1_3">lux lucis et fons luminis</l>
+        <l n="4" xml:id="HY_MA_34_1_4">dies dierum illuminans</l>
+      </lg>
+      <lg n="2" xml:id="HY_MA_34_2">
+        <l n="5" xml:id="HY_MA_34_2_5">verusque sol inlabere</l>
+        <l n="6" xml:id="HY_MA_34_2_6">micans nitore perpeti</l>
+        <l n="7" xml:id="HY_MA_34_2_7">iubarque sancti spiritus</l>
+        <l n="8" xml:id="HY_MA_34_2_8">infunde nostris sensibus</l>
+      </lg>
+      <lg n="3" xml:id="HY_MA_34_3">
+        <l n="9" xml:id="HY_MA_34_3_9">votis vocemus et patrem</l>
+        <l n="10" xml:id="HY_MA_34_3_10">patrem perennis gloriae</l>
+        <l n="11" xml:id="HY_MA_34_3_11">pater potentis gratiae</l>
+        <l n="12" xml:id="HY_MA_34_3_12">culpam releget lubricam</l>
+      </lg>
+      <lg n="4" xml:id="HY_MA_34_4">
+        <l n="13" xml:id="HY_MA_34_4_13">informet actus strenuos</l>
+        <l n="14" xml:id="HY_MA_34_4_14">dentem retundat invidi</l>
+        <l n="15" xml:id="HY_MA_34_4_15">casus secundet asperos</l>
+        <l n="16" xml:id="HY_MA_34_4_16">donet gerendi gratiam</l>
+      </lg>
+      <lg n="5" xml:id="HY_MA_34_5">
+        <l n="17" xml:id="HY_MA_34_5_17">mentem gubernet et regat</l>
+        <l n="18" xml:id="HY_MA_34_5_18">casto fideli corpore</l>
+        <l n="19" xml:id="HY_MA_34_5_19">fides calore ferveat</l>
+        <l n="20" xml:id="HY_MA_34_5_20">fraudis venena nesciat</l>
+      </lg>
+      <lg n="6" xml:id="HY_MA_34_6">
+        <l n="21" xml:id="HY_MA_34_6_21">christusque nobis sit cibus</l>
+        <l n="22" xml:id="HY_MA_34_6_22">potusque noster sit fides</l>
+        <l n="23" xml:id="HY_MA_34_6_23">laeti bibamus sobriam</l>
+        <l n="24" xml:id="HY_MA_34_6_24">ebrietatem spiritus</l>
+      </lg>
+      <lg n="7" xml:id="HY_MA_34_7">
+        <l n="25" xml:id="HY_MA_34_7_25">laetus dies hic transeat</l>
+        <l n="26" xml:id="HY_MA_34_7_26">pudor sit ut diluculum</l>
+        <l n="27" xml:id="HY_MA_34_7_27">fides velut meridies</l>
+        <l n="28" xml:id="HY_MA_34_7_28">crepusculum mens nesciat</l>
+      </lg>
+      <lg n="8" xml:id="HY_MA_34_8">
+        <l n="29" xml:id="HY_MA_34_8_29">aurora cursus provehat</l>
+        <l n="30" xml:id="HY_MA_34_8_30">aurora totus prodeat</l>
+        <l n="31" xml:id="HY_MA_34_8_31">in patre totus filius</l>
+        <l n="32" xml:id="HY_MA_34_8_32">et totus in verbo pater</l>
+      </lg>
+      <lg n="9" xml:id="HY_MA_34_9">
+        <l n="33" xml:id="HY_MA_34_9_33">gloria tibi domine</l>
+        <l n="34" xml:id="HY_MA_34_9_34">gloria unigenito</l>
+        <l n="35" xml:id="HY_MA_34_9_35">una cum sancto spiritu</l>
+        <l n="36" xml:id="HY_MA_34_9_36">in sempiterna saecula amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

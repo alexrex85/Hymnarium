@@ -1,0 +1,54 @@
+---
+Titulus: Hymnum dicamus Domino
+Auctor: Anonymus saec. incerti
+Curator: Alexander Re Ph.D.
+Metrum: Dimetrum iambicum
+Notae: Feria V de Authentica
+Fons: Manuale Ambrosianum
+Annus: saec. XI
+---
+
+Hymnum dicamus Domino:
+laudes Deo cum cantico:
+qui nos crucis patibulo:
+suo redemit sanguine.
+
+Die decursa ad vesperum:
+qua Christus morti traditur:
+ad coenam venit impius:
+qui erat Christi proditor.
+
+Iesus futura nunciat:
+coenantibus discipulis:
+Unus ex discumbentibus:
+ipse me traditurus est.
+
+Iudas mercator pessimus:
+osculo petit Dominum:
+ille ut agnus innocens:
+non negat Iudae osculum.
+
+Denariorum numero:
+Christus Iudaeis traditur:
+innocens et innoxius:
+quem Iudas tradit impius.
+
+Praeses Pilatus proclamat:
+Nullam culpam invenio:
+ablutis aqua manibus:
+Christum Iudaeis tradidit.
+
+Fallaces Iudaei impii:
+latronem petunt vivere:
+Christum accusant graviter:
+Crucifigatur, reus est.
+
+Barabas dimittitur:
+qui reus mortis fuerat:
+Vita mundi suspenditur:
+per quem resurgunt mortui.
+
+Gloria tibi Domine:
+gloria Unigenito:
+una cum sancto Spiritu:
+in sempiterna saecula. Amen.

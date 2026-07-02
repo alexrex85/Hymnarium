@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+
+<html lang="la">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Quaerere Hymnos</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body class="index-page">
+
+    <header class="main-header">
+
+        <h1>Instrumentum investigationis hymnorum</h1>
+
+    </header>
+
+    <main>
+
+        <p>Quaere secundum campos <strong>Textus</strong>, vel <strong>Auctor</strong>, vel <strong>Fons</strong>.</p>
+
+        <p>Utere operatoribus logicis dictis “Booleanis”
+        <code>AND</code>, <code>OR</code>, <code>NOT</code>, <code>XOR</code>
+        in campo <strong>Textus</strong>, et inter campos <strong>Auctor</strong> vel <strong>Fons</strong>.</p>
+
+        <section class="search-form">
+
+            <div class="search-vertical-flex">
+
+                <div class="search-group">
+
+                    <label for="textus"><strong>Textus</strong></label>
+                    <input type="text" id="textus" placeholder="deus AND christe" autocomplete="off">
+
+                </div>
+
+                <div class="operator-group">
+
+                    <select id="operatorAuctor" name="operatorAuctor">
+                        <option value="AND">AND</option>
+                        <option value="OR">OR</option>
+                        <option value="NOT">NOT</option>
+                        <option value="XOR">XOR</option>
+                    </select>
+
+                </div>
+
+                <div class="search-group">
+
+                    <label for="auctor"><strong>Auctor</strong></label>
+                    <input type="text" id="auctor" list="auctores" placeholder="ambrosius">
+                    <datalist id="auctores"></datalist>
+
+                </div>
+
+                <div class="operator-group">
+
+                    <select id="operatorFons" name="operatorFons">
+                        <option value="AND">AND</option>
+                        <option value="OR">OR</option>
+                        <option value="NOT">NOT</option>
+                        <option value="XOR">XOR</option>
+                    </select>
+
+                </div>
+
+                <div class="search-group">
+
+                    <label for="fons"><strong>Fons</strong></label>
+                    <input type="text" id="fons" list="fontes" placeholder="breviarium">
+                    <datalist id="fontes"></datalist>
+
+                </div>
+
+            </div>
+
+            <button id="searchButton">Quaere</button>
+
+        </section>
+
+        <section id="resultsSection" class="hidden-section">
+
+            <hr>
+
+            <p id="resultCount">0 eventus</p>
+
+            <div id="results"></div>
+
+        </section>
+
+        <script src="02_search_index.js"></script>
+
+    </main>
+
+</body>
+
+</html>

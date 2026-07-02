@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_MA_16">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_MA_16_1">
+        <l n="1" xml:id="HY_MA_16_1_1">gesta sanctorum martyrum</l>
+        <l n="2" xml:id="HY_MA_16_1_2">meminisse iocundum est</l>
+        <l n="3" xml:id="HY_MA_16_1_3">et in eorum laudibus</l>
+        <l n="4" xml:id="HY_MA_16_1_4">deo canere gloriam</l>
+      </lg>
+      <lg n="2" xml:id="HY_MA_16_2">
+        <l n="5" xml:id="HY_MA_16_2_5">georgius christi miles</l>
+        <l n="6" xml:id="HY_MA_16_2_6">hortus est capadotiae</l>
+        <l n="7" xml:id="HY_MA_16_2_7">qui vana mundi respuit</l>
+        <l n="8" xml:id="HY_MA_16_2_8">mercatus est caelestia</l>
+      </lg>
+      <lg n="3" xml:id="HY_MA_16_3">
+        <l n="9" xml:id="HY_MA_16_3_9">pecuniam quam detulerat</l>
+        <l n="10" xml:id="HY_MA_16_3_10">propter honorem fragilem</l>
+        <l n="11" xml:id="HY_MA_16_3_11">fide repletus domini</l>
+        <l n="12" xml:id="HY_MA_16_3_12">stipem dedit pauperibus</l>
+      </lg>
+      <lg n="4" xml:id="HY_MA_16_4">
+        <l n="13" xml:id="HY_MA_16_4_13">tunc compulsus a principe</l>
+        <l n="14" xml:id="HY_MA_16_4_14">saxis vota persolvere</l>
+        <l n="15" xml:id="HY_MA_16_4_15">quos ille per fidem christi</l>
+        <l n="16" xml:id="HY_MA_16_4_16">profundum mersit abyssi</l>
+      </lg>
+      <lg n="5" xml:id="HY_MA_16_5">
+        <l n="17" xml:id="HY_MA_16_5_17">ira accensus tyrannus</l>
+        <l n="18" xml:id="HY_MA_16_5_18">poenam invexit martyri</l>
+        <l n="19" xml:id="HY_MA_16_5_19">flagella saeva carceres</l>
+        <l n="20" xml:id="HY_MA_16_5_20">seras sive sartagines</l>
+      </lg>
+      <lg n="6" xml:id="HY_MA_16_6">
+        <l n="21" xml:id="HY_MA_16_6_21">quos ille non contremuit</l>
+        <l n="22" xml:id="HY_MA_16_6_22">confortatus a domino</l>
+        <l n="23" xml:id="HY_MA_16_6_23">sed magis in populo</l>
+        <l n="24" xml:id="HY_MA_16_6_24">fructus divinos intulit</l>
+      </lg>
+      <lg n="7" xml:id="HY_MA_16_7">
+        <l n="25" xml:id="HY_MA_16_7_25">reginam alexandriam</l>
+        <l n="26" xml:id="HY_MA_16_7_26">vocavit ad martyrium</l>
+        <l n="27" xml:id="HY_MA_16_7_27">contempsit mundi thesauros</l>
+        <l n="28" xml:id="HY_MA_16_7_28">dei coronam meruit</l>
+      </lg>
+      <lg n="8" xml:id="HY_MA_16_8">
+        <l n="29" xml:id="HY_MA_16_8_29">bis ternis annis et uno</l>
+        <l n="30" xml:id="HY_MA_16_8_30">triumphat mundi principem</l>
+        <l n="31" xml:id="HY_MA_16_8_31">cervice caesa gladio</l>
+        <l n="32" xml:id="HY_MA_16_8_32">migravit ad caelestia</l>
+      </lg>
+      <lg n="9" xml:id="HY_MA_16_9">
+        <l n="33" xml:id="HY_MA_16_9_33">gloria tibi domine</l>
+        <l n="34" xml:id="HY_MA_16_9_34">gloria unigenito</l>
+        <l n="35" xml:id="HY_MA_16_9_35">una cum sancto spiritu</l>
+        <l n="36" xml:id="HY_MA_16_9_36">in sempiterna saecula amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

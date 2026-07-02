@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_MA_21">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_MA_21_1">
+        <l n="1" xml:id="HY_MA_21_1_1">apostolorum passio</l>
+        <l n="2" xml:id="HY_MA_21_1_2">diem sacravit saeculi</l>
+        <l n="3" xml:id="HY_MA_21_1_3">petri triumphum nobilem</l>
+        <l n="4" xml:id="HY_MA_21_1_4">pauli coronam praeferens</l>
+      </lg>
+      <lg n="2" xml:id="HY_MA_21_2">
+        <l n="5" xml:id="HY_MA_21_2_5">coniunxit aequales viros</l>
+        <l n="6" xml:id="HY_MA_21_2_6">cruor triumphalis necis</l>
+        <l n="7" xml:id="HY_MA_21_2_7">deum secutos praesules</l>
+        <l n="8" xml:id="HY_MA_21_2_8">christi coronavit fides</l>
+      </lg>
+      <lg n="3" xml:id="HY_MA_21_3">
+        <l n="9" xml:id="HY_MA_21_3_9">primus petrus apostolus</l>
+        <l n="10" xml:id="HY_MA_21_3_10">nec paulus impar gratia</l>
+        <l n="11" xml:id="HY_MA_21_3_11">electionis vas sacrae</l>
+        <l n="12" xml:id="HY_MA_21_3_12">petri adaequavit fidem</l>
+      </lg>
+      <lg n="4" xml:id="HY_MA_21_4">
+        <l n="13" xml:id="HY_MA_21_4_13">verso crucis vestigio</l>
+        <l n="14" xml:id="HY_MA_21_4_14">symon honorem dans deo</l>
+        <l n="15" xml:id="HY_MA_21_4_15">suspensus ascendit dati</l>
+        <l n="16" xml:id="HY_MA_21_4_16">non immemor oraculi</l>
+      </lg>
+      <lg n="5" xml:id="HY_MA_21_5">
+        <l n="17" xml:id="HY_MA_21_5_17">praecinctus ut dictum est senex</l>
+        <l n="18" xml:id="HY_MA_21_5_18">et elevatus ab altero</l>
+        <l n="19" xml:id="HY_MA_21_5_19">quo nollet ivit sed volens</l>
+        <l n="20" xml:id="HY_MA_21_5_20">mortem subegit asperam</l>
+      </lg>
+      <lg n="6" xml:id="HY_MA_21_6">
+        <l n="21" xml:id="HY_MA_21_6_21">hinc roma celsum verticem</l>
+        <l n="22" xml:id="HY_MA_21_6_22">devotionis extulit</l>
+        <l n="23" xml:id="HY_MA_21_6_23">fundata tali sanguine</l>
+        <l n="24" xml:id="HY_MA_21_6_24">et vate tanto nobilis</l>
+      </lg>
+      <lg n="7" xml:id="HY_MA_21_7">
+        <l n="25" xml:id="HY_MA_21_7_25">tantae per urbis ambitum</l>
+        <l n="26" xml:id="HY_MA_21_7_26">stipata tendunt agmina</l>
+        <l n="27" xml:id="HY_MA_21_7_27">trinis celebratur viis</l>
+        <l n="28" xml:id="HY_MA_21_7_28">festum sacrorum martyrum</l>
+      </lg>
+      <lg n="8" xml:id="HY_MA_21_8">
+        <l n="29" xml:id="HY_MA_21_8_29">prodire quis mundum putet</l>
+        <l n="30" xml:id="HY_MA_21_8_30">concurrere plebem poli</l>
+        <l n="31" xml:id="HY_MA_21_8_31">electa gentium caput</l>
+        <l n="32" xml:id="HY_MA_21_8_32">sedes magistri gentium</l>
+      </lg>
+      <lg n="9" xml:id="HY_MA_21_9">
+        <l n="33" xml:id="HY_MA_21_9_33">gloria tibi domine</l>
+        <l n="34" xml:id="HY_MA_21_9_34">gloria unigenito</l>
+        <l n="35" xml:id="HY_MA_21_9_35">una cum sancto spiritu</l>
+        <l n="36" xml:id="HY_MA_21_9_36">in sempiterna saecula amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

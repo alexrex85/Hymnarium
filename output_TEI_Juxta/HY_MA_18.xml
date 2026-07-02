@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_MA_18">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_MA_18_1">
+        <l n="1" xml:id="HY_MA_18_1_1">regi polorum debitas</l>
+        <l n="2" xml:id="HY_MA_18_1_2">cuncti canamus gratias</l>
+        <l n="3" xml:id="HY_MA_18_1_3">opem aulae qui contulit</l>
+        <l n="4" xml:id="HY_MA_18_1_4">mediolani conditae</l>
+      </lg>
+      <lg n="2" xml:id="HY_MA_18_2">
+        <l n="5" xml:id="HY_MA_18_2_5">quae pietatis munere</l>
+        <l n="6" xml:id="HY_MA_18_2_6">bonos alendo reficit</l>
+        <l n="7" xml:id="HY_MA_18_2_7">sancto munita spiritu</l>
+        <l n="8" xml:id="HY_MA_18_2_8">fide coruscans fulgida</l>
+      </lg>
+      <lg n="3" xml:id="HY_MA_18_3">
+        <l n="9" xml:id="HY_MA_18_3_9">grex ille acceptus deo</l>
+        <l n="10" xml:id="HY_MA_18_3_10">nutritus a pastoribus</l>
+        <l n="11" xml:id="HY_MA_18_3_11">vitae perennis pascua</l>
+        <l n="12" xml:id="HY_MA_18_3_12">ditis sumendo permanet</l>
+      </lg>
+      <lg n="4" xml:id="HY_MA_18_4">
+        <l n="13" xml:id="HY_MA_18_4_13">magno quem auxit dogmate</l>
+        <l n="14" xml:id="HY_MA_18_4_14">confessor dionisius</l>
+        <l n="15" xml:id="HY_MA_18_4_15">fidem tenens catholicam</l>
+        <l n="16" xml:id="HY_MA_18_4_16">turbam pavit credentium</l>
+      </lg>
+      <lg n="5" xml:id="HY_MA_18_5">
+        <l n="17" xml:id="HY_MA_18_5_17">saeva eundem concio</l>
+        <l n="18" xml:id="HY_MA_18_5_18">arianorum imprimit</l>
+        <l n="19" xml:id="HY_MA_18_5_19">valvas tenentes delubri</l>
+        <l n="20" xml:id="HY_MA_18_5_20">quaerunt athletas capere</l>
+      </lg>
+      <lg n="6" xml:id="HY_MA_18_6">
+        <l n="21" xml:id="HY_MA_18_6_21">at ille christum obsecrans</l>
+        <l n="22" xml:id="HY_MA_18_6_22">vigil in aula extitit</l>
+        <l n="23" xml:id="HY_MA_18_6_23">divina cum orthodoxis</l>
+        <l n="24" xml:id="HY_MA_18_6_24">patrat libens officia</l>
+      </lg>
+      <lg n="7" xml:id="HY_MA_18_7">
+        <l n="25" xml:id="HY_MA_18_7_25">tunc palatini comites</l>
+        <l n="26" xml:id="HY_MA_18_7_26">vi rapuerunt praesules</l>
+        <l n="27" xml:id="HY_MA_18_7_27">eusebium dionisium</l>
+        <l n="28" xml:id="HY_MA_18_7_28">cum iisdem et luciferum</l>
+      </lg>
+      <lg n="8" xml:id="HY_MA_18_8">
+        <l n="29" xml:id="HY_MA_18_8_29">hos deprecemur sedule</l>
+        <l n="30" xml:id="HY_MA_18_8_30">christi captos pro nomine</l>
+        <l n="31" xml:id="HY_MA_18_8_31">sacris ut horum meritis</l>
+        <l n="32" xml:id="HY_MA_18_8_32">caeli fruamur gaudiis</l>
+      </lg>
+      <lg n="9" xml:id="HY_MA_18_9">
+        <l n="33" xml:id="HY_MA_18_9_33">gloria tibi domine</l>
+        <l n="34" xml:id="HY_MA_18_9_34">gloria unigenito</l>
+        <l n="35" xml:id="HY_MA_18_9_35">una cum sancto spiritu</l>
+        <l n="36" xml:id="HY_MA_18_9_36">in sempiterna saecula amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,3 +1,89 @@
+# File generali di sistema
+[Dd]esktop.ini
+[Tt]humbs.db
+.DS_Store
+
+# ---------------------------------------- #
+
+# MS Office
+~$*
+
+*.tmp
+*.temp
+
+# Word
+*.asd
+*.wbk
+
+# Excel
+*.xlk
+
+# ---------------------------------------- #
+
+# TeX / LaTeX / LyX
+
+# File ausiliari
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.idx
+*.ilg
+*.ind
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+
+# Glossari e acronimi
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.glsdefs
+
+# Nomenclature
+*.nlo
+*.nls
+
+# BibLaTeX / Biber
+*-blx.bib
+
+# Minted
+_minted-*/
+*.pyg
+
+# Beamer
+*.nav
+*.snm
+
+# TikZ esternalizzato
+*.dpth
+*.md5
+
+# Latexmk
+*.latexmk
+
+# Arara
+*.vrb
+
+# Backup LyX
+*.lyx~
+
+# File temporanei LyX
+*.bak
+
+# ---------------------------------------- #
+
+# Python
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_MA_10"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Agathae sacrae virginis</title>
+
+        <author>Anonymus saec. incerti</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">Sanctae Agathae Virginis</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Manuale Ambrosianum</title>
+          <date>saec. XI</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">Sanctae Agathae Virginis</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Agathae sacrae virginis</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_MA_10_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_MA_10_1_1">Agathae sacrae virginis:</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_MA_10_1_2">diem festum colimus:</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_MA_10_1_3">in quo devicto tyranno:</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_MA_10_1_4">palmam sumit martyrio.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_MA_10_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_MA_10_2_5">Quintianus tyrannus:</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_MA_10_2_6">consularis Siciliae:</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_MA_10_2_7">audiens famam virginis:</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_MA_10_2_8">fremere coepit invidus.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_MA_10_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_MA_10_3_9">Vitiorum affectibus:</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_MA_10_3_10">mentem vexabat invidam:</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_MA_10_3_11">ut Deo dicatam virginem:</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_MA_10_3_12">rabido ore perimeret.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_MA_10_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_MA_10_4_13">Statim adsunt miseri:</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_MA_10_4_14">eius qui vellent pandere:</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_MA_10_4_15">religionem sanctissimam:</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_MA_10_4_16">quam tenet ab infantia.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_MA_10_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_MA_10_5_17">Sisti iubet martyram:</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_MA_10_5_18">suis tribunalibus:</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_MA_10_5_19">et eam sic alloquitur:</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_MA_10_5_20">ut diis cervicem flecteret.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_MA_10_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_MA_10_6_21">Sed dum nil valet insania:</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_MA_10_6_22">in mamam torquet virginem:</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_MA_10_6_23">et testas acutissimas:</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_MA_10_6_24">igni succensas adhibet.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_MA_10_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_MA_10_7_25">Cuius medendis artubus:</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_MA_10_7_26">sanctus adest Apostolus:</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_MA_10_7_27">qui verbo curat vulnera:</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_MA_10_7_28">quae tyrannus infixerat.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_MA_10_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_MA_10_8_29">Dehinc ad sepulchrum veniens:</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_MA_10_8_30">iuvenis splendidissimus:</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_MA_10_8_31">mentem sanctam praedicat:</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_MA_10_8_32">patriaeque salutem plurimam.</l>
+      </lg>
+      <lg n="9" type="tetrastichon_iambicum" xml:id="HY_MA_10_9">
+        <l n="33" type="dimeter_iambicus" xml:id="HY_MA_10_9_33">Gloria tibi Domine:</l>
+        <l n="34" type="dimeter_iambicus" xml:id="HY_MA_10_9_34">gloria Unigenito:</l>
+        <l n="35" type="dimeter_iambicus" xml:id="HY_MA_10_9_35">una cum sancto Spiritu:</l>
+        <l n="36" type="dimeter_iambicus" xml:id="HY_MA_10_9_36">in sempiterna saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Manuale Ambrosianum</p>
+        <p type="annus">saec. XI</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

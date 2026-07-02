@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_MA_13"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Hic est dies verus Dei</title>
+
+        <author>Ambrosius Mediolanensis</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">Sabbato Sancto</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Manuale Ambrosianum</title>
+          <date>saec. XI</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">Sabbato Sancto</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Hic est dies verus Dei</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_MA_13_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_MA_13_1_1">Hic est dies verus Dei:</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_MA_13_1_2">sancto serenus lumine:</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_MA_13_1_3">quo diluit sanguis sacer:</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_MA_13_1_4">probrosa mundi crimina.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_MA_13_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_MA_13_2_5">Fidem refundens perditis:</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_MA_13_2_6">caecosque visu inluminans:</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_MA_13_2_7">quem non gravi solvit metu:</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_MA_13_2_8">latronis absolutio?</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_MA_13_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_MA_13_3_9">Qui praemium mutans cruce:</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_MA_13_3_10">Ihesum brevi quaesivit fide:</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_MA_13_3_11">iustusque praevio gradu:</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_MA_13_3_12">pervenit in regnum Dei.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_MA_13_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_MA_13_4_13">Opus stupent et Angeli:</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_MA_13_4_14">poenam videntes corporis:</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_MA_13_4_15">Christoque adhaerentem reum:</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_MA_13_4_16">vitam beatam carpere.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_MA_13_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_MA_13_5_17">Mysterium mirabile:</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_MA_13_5_18">ut abluat mundi luem:</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_MA_13_5_19">peccata tollat omnium:</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_MA_13_5_20">carnis vitia mundans caro.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_MA_13_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_MA_13_6_21">Quid hoc potest sublimius:</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_MA_13_6_22">ut culpa quaerat gratiam:</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_MA_13_6_23">metumque solvat charitas:</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_MA_13_6_24">reddatque mors vitam novam.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_MA_13_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_MA_13_7_25">Hamum sibi mors devoret:</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_MA_13_7_26">suisque se nodis liget:</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_MA_13_7_27">moriatur vita omnium:</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_MA_13_7_28">resurgat vita omnium.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_MA_13_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_MA_13_8_29">Cum mors per omnes transeat:</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_MA_13_8_30">omnes resurgant mortui:</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_MA_13_8_31">consumpta mors ictu suo:</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_MA_13_8_32">perisse [se] sola gemat.</l>
+      </lg>
+      <lg n="9" type="tetrastichon_iambicum" xml:id="HY_MA_13_9">
+        <l n="33" type="dimeter_iambicus" xml:id="HY_MA_13_9_33">Gloria tibi Domine:</l>
+        <l n="34" type="dimeter_iambicus" xml:id="HY_MA_13_9_34">gloria Unigenito:</l>
+        <l n="35" type="dimeter_iambicus" xml:id="HY_MA_13_9_35">una cum sancto Spiritu:</l>
+        <l n="36" type="dimeter_iambicus" xml:id="HY_MA_13_9_36">in sempiterna saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Manuale Ambrosianum</p>
+        <p type="annus">saec. XI</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

@@ -1,0 +1,338 @@
+[
+  {
+    "incipit": "Bellator armis inclitus",
+    "file": "HY_MA_01.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Post Petrum primum principem",
+    "file": "HY_MA_02.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Miraculum laudabile",
+    "file": "HY_MA_03.html",
+    "auctor": "Maximianus",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Mysterium Ecclesiae",
+    "file": "HY_MA_04.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Intende qui regis Israel",
+    "file": "HY_MA_05.html",
+    "auctor": "Ambrosius Mediolanensis",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Stephani primi martyris",
+    "file": "HY_MA_06.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Amore Christi nobilis",
+    "file": "HY_MA_07.html",
+    "auctor": "Ambrosius Mediolanensis",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Inluminans altissimus",
+    "file": "HY_MA_08.html",
+    "auctor": "Ambrosius Mediolanensis",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Agnes beatae virginis",
+    "file": "HY_MA_09.html",
+    "auctor": "Ambrosius Mediolanensis",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Agathae sacrae virginis",
+    "file": "HY_MA_10.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Magnum salutis gaudium",
+    "file": "HY_MA_11.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Hymnum dicamus Domino",
+    "file": "HY_MA_12.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Hic est dies verus Dei",
+    "file": "HY_MA_13.html",
+    "auctor": "Ambrosius Mediolanensis",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Optatus votis omnium",
+    "file": "HY_MA_14.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Iam Christus astra ascenderat",
+    "file": "HY_MA_15.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Gesta sanctorum martyrum",
+    "file": "HY_MA_16.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Victor Nabor Felix pii",
+    "file": "HY_MA_17.html",
+    "auctor": "Ambrosius Mediolanensis",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Regi polorum debitas",
+    "file": "HY_MA_18.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Grates tibi Iesu novas",
+    "file": "HY_MA_19.html",
+    "auctor": "Ambrosius Mediolanensis",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Almi prophetae progenies pia",
+    "file": "HY_MA_20.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Hendecasyllabum Alcaicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Apostolorum passio",
+    "file": "HY_MA_21.html",
+    "auctor": "Ambrosius Mediolanensis",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Sacri triumphale tui",
+    "file": "HY_MA_22.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Magni palmam certaminis",
+    "file": "HY_MA_23.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Apostolorum supparem",
+    "file": "HY_MA_24.html",
+    "auctor": "Ambrosius Mediolanensis",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Summi vatis praeconium",
+    "file": "HY_MA_25.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Mysteriorum signifer",
+    "file": "HY_MA_26.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Christe cunctorum dominator alme",
+    "file": "HY_MA_27.html",
+    "auctor": "Ambrosius Mediolanensis",
+    "metrum": "Sapphicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Sacratum hoc templum Dei",
+    "file": "HY_MA_28.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Deus tuorum militum",
+    "file": "HY_MA_29.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Aeterna Christi munera",
+    "file": "HY_MA_30.html",
+    "auctor": "Ambrosius Mediolanensis",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Iesu corona celsior",
+    "file": "HY_MA_31.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Iesu corona virginum",
+    "file": "HY_MA_32.html",
+    "auctor": "Ambrosius Mediolanensis",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Aeterne rerum Conditor",
+    "file": "HY_MA_33.html",
+    "auctor": "Ambrosius Mediolanensis",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Splendor paternae gloriae",
+    "file": "HY_MA_34.html",
+    "auctor": "Ambrosius Mediolanensis",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Deus Creator omnium",
+    "file": "HY_MA_35.html",
+    "auctor": "Ambrosius Mediolanensis",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Iam lucis orto sidere",
+    "file": "HY_MA_36.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Iam surgit hora tertia",
+    "file": "HY_MA_37.html",
+    "auctor": "Ambrosius Mediolanensis",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Nunc sancte nobis Spiritus",
+    "file": "HY_MA_38.html",
+    "auctor": "Ambrosius Mediolanensis (dubius)",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Rector potens verax Deus",
+    "file": "HY_MA_39.html",
+    "auctor": "Ambrosius Mediolanensis (dubius)",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Rerum Deus tenax vigor",
+    "file": "HY_MA_40.html",
+    "auctor": "Ambrosius Mediolanensis (dubius)",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Christe qui lux es et dies",
+    "file": "HY_MA_41.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  },
+  {
+    "incipit": "Te lucis ante terminum",
+    "file": "HY_MA_42.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Manuale Ambrosianum",
+    "annus": "saec. XI"
+  }
+]
