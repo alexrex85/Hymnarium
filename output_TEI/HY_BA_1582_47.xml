@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1582_47"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Aeterna Christi munera</title>
+
+        <author>Ambrosius Mediolanensis</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">In natali unius Apostoli, ad Laudes et ad Vesperas</note>
+        <note type="commentarius">In natali plurium Apostolorum, ad Laudes et ad Vesperas</note>
+        <note type="commentarius">In natali unius Martyris – De Martyre et Pontifice, ad Laudes et ad Vesperas</note>
+        <note type="commentarius">In natali plurium Martyrum, ad Laudes et ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1582</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">In natali unius Apostoli, ad Laudes et ad Vesperas</p>
+      <p type="notae">In natali plurium Apostolorum, ad Laudes et ad Vesperas</p>
+      <p type="notae">In natali unius Martyris – De Martyre et Pontifice, ad Laudes et ad Vesperas</p>
+      <p type="notae">In natali plurium Martyrum, ad Laudes et ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Aeterna Christi munera</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1582_47_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1582_47_1_1">Aeterna Christi munera,</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1582_47_1_2">et martyrum victorias,</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1582_47_1_3">laudes ferentes debitas,</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1582_47_1_4">laetis canamus mentibus.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1582_47_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1582_47_2_5">Ecclesiarum principes,</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1582_47_2_6">belli triumphales duces,</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1582_47_2_7">coelestis aulae milites,</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1582_47_2_8">et vera mundi lumina.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1582_47_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1582_47_3_9">Terrore victo saeculi,</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1582_47_3_10">poenisque spretis corporis,</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1582_47_3_11">mortis sacrae compendio,</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1582_47_3_12">lucem beatam possident.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1582_47_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1582_47_4_13">Traduntur igni martyres,</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1582_47_4_14">et bestiarum dentibus,</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1582_47_4_15">armata saevis ungulis,</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1582_47_4_16">tortoris insani manus.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1582_47_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1582_47_5_17">Nudata pendent viscera,</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1582_47_5_18">sanguis sacratus funditur:</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1582_47_5_19">sed permanent immobiles,</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1582_47_5_20">vitae perennis gratia.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_BA_1582_47_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_BA_1582_47_6_21">Devota sanctorum fides,</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_BA_1582_47_6_22">invicta spes credentium,</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_BA_1582_47_6_23">perfecta Christi charitas,</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_BA_1582_47_6_24">mundi triumphat principem.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_BA_1582_47_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_BA_1582_47_7_25">In his paterna charitas,</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_BA_1582_47_7_26">in his voluntas Spiritus,</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_BA_1582_47_7_27">exultat in his Filius,</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_BA_1582_47_7_28">coelum repletur gaudio.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_BA_1582_47_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_BA_1582_47_8_29">Te nunc, Redemptor, quaesumus</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_BA_1582_47_8_30">ut martyrum consortio</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_BA_1582_47_8_31">iungas precantes servulos</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_BA_1582_47_8_32">in sempiterna saecula.</l>
+      </lg>
+      <lg n="9" type="tetrastichon_iambicum" xml:id="HY_BA_1582_47_9">
+        <l n="33" type="dimeter_iambicus" xml:id="HY_BA_1582_47_9_33">Gloria tibi Domine,</l>
+        <l n="34" type="dimeter_iambicus" xml:id="HY_BA_1582_47_9_34">gloria Unigenito,</l>
+        <l n="35" type="dimeter_iambicus" xml:id="HY_BA_1582_47_9_35">una cum sancto Spiritu,</l>
+        <l n="36" type="dimeter_iambicus" xml:id="HY_BA_1582_47_9_36">in sempiterna saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1582</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

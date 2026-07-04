@@ -1,6 +1,5 @@
 let searchData = [];
 
-/* Normalizzazione del testo */
 function normalize(text) {
     return text
         .normalize("NFD")
@@ -9,18 +8,16 @@ function normalize(text) {
         .trim();
 }
 
-/* Caricamento di 02_search_index.json */
-fetch("02_search_index.json")
+fetch("02_versus_index.json")
     .then(response => response.json())
     .then(data => {
         searchData = data;
         populateDatalists();
     })
     .catch(error => {
-        console.error("Errore nel caricamento dei dati:", error);
+        console.error("Error...", error);
     });
 
-/* Popolamento automatico datalist */
 function populateDatalists() {
     const auctores = [...new Set(searchData.map(item => item.auctor))].sort();
     const fontes = [...new Set(searchData.map(item => item.fons))].sort();
@@ -45,7 +42,6 @@ function populateDatalists() {
     });
 }
 
-/* Operatori booleani (AND, OR, NOT, XOR) */
 function evaluateTextQuery(query, text) {
     if (!query) return true;
 
@@ -93,11 +89,9 @@ function evaluateTextQuery(query, text) {
     return result;
 }
 
-/* Tag <mark> per evidenziazione */
 function highlightText(text, query) {
     if (!query) return text;
 
-    // Isola le parole chiave escludendo gli operatori booleani
     const words = query
         .split(/\s+/)
         .filter(word => {
@@ -109,7 +103,6 @@ function highlightText(text, query) {
 
     words.forEach(word => {
         if (word.trim().length === 0) return;
-        // Crea una regex insensibile al maiuscolo/minuscolo per avvolgere la parola nel tag <mark>
         const regex = new RegExp("(" + word + ")", "gi");
         output = output.replace(regex, "<mark>$1</mark>");
     });
@@ -117,7 +110,6 @@ function highlightText(text, query) {
     return output;
 }
 
-/* Esecuzione della ricerca */
 function performSearch() {
     const textQuery = document.getElementById("textus").value.trim();
     const auctorQuery = normalize(document.getElementById("auctor").value);
@@ -126,20 +118,17 @@ function performSearch() {
     const opAuctor = document.getElementById("operatorAuctor").value;
     const opFons = document.getElementById("operatorFons").value;
 
-    // Mostra la sezione dei risultati
     const resultsSection = document.getElementById("resultsSection");
     if (resultsSection) {
         resultsSection.classList.remove("hidden-section");
     }
 
-    // Salva la stringa cercata in memoria per passarla alle pagine degli inni
     if (textQuery) {
         sessionStorage.setItem("lastSearchQuery", textQuery);
     } else {
         sessionStorage.removeItem("lastSearchQuery");
     }
 
-    // Filtra l'array dei dati incrociando i campi e gli operatori scelti
     const results = searchData.filter(item => {
         const textMatch = evaluateTextQuery(textQuery, item.textus_norm);
         const auctorMatch = !auctorQuery || normalize(item.auctor).includes(auctorQuery);
@@ -171,7 +160,6 @@ function performSearch() {
     renderResults(results, textQuery);
 }
 
-/* Stampa dei risultati */
 function renderResults(results, textQuery) {
     const container = document.getElementById("results");
     const count = document.getElementById("resultCount");
@@ -210,7 +198,6 @@ function renderResults(results, textQuery) {
     });
 }
 
-/* Assegnazione degli eventi */
 document.getElementById("searchButton").addEventListener("click", performSearch);
 
 [document.getElementById("textus"), document.getElementById("auctor"), document.getElementById("fons")].forEach(input => {

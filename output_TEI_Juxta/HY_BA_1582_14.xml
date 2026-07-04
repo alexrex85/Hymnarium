@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_BA_1582_14">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_BA_1582_14_1">
+        <l n="1" xml:id="HY_BA_1582_14_1_1">stephano primo martyri</l>
+        <l n="2" xml:id="HY_BA_1582_14_1_2">cantemus novum canticum</l>
+        <l n="3" xml:id="HY_BA_1582_14_1_3">quod dulce sit psallentibus</l>
+        <l n="4" xml:id="HY_BA_1582_14_1_4">opem ferat credentibus</l>
+      </lg>
+      <lg n="2" xml:id="HY_BA_1582_14_2">
+        <l n="5" xml:id="HY_BA_1582_14_2_5">psallamus hoc discipuli</l>
+        <l n="6" xml:id="HY_BA_1582_14_2_6">laudem dicamus martyri</l>
+        <l n="7" xml:id="HY_BA_1582_14_2_7">qui primus post redemptorem</l>
+        <l n="8" xml:id="HY_BA_1582_14_2_8">christi secutus est crucem</l>
+      </lg>
+      <lg n="3" xml:id="HY_BA_1582_14_3">
+        <l n="9" xml:id="HY_BA_1582_14_3_9">hic enim per apostolos</l>
+        <l n="10" xml:id="HY_BA_1582_14_3_10">probatus in laudem dei</l>
+        <l n="11" xml:id="HY_BA_1582_14_3_11">vexilla morte rapuit</l>
+        <l n="12" xml:id="HY_BA_1582_14_3_12">ut praeferretur omnibus</l>
+      </lg>
+      <lg n="4" xml:id="HY_BA_1582_14_4">
+        <l n="13" xml:id="HY_BA_1582_14_4_13">o praeferenda gloria</l>
+        <l n="14" xml:id="HY_BA_1582_14_4_14">o beata victoria</l>
+        <l n="15" xml:id="HY_BA_1582_14_4_15">ut meruisse stephanum</l>
+        <l n="16" xml:id="HY_BA_1582_14_4_16">ut sequeretur dominum</l>
+      </lg>
+      <lg n="5" xml:id="HY_BA_1582_14_5">
+        <l n="17" xml:id="HY_BA_1582_14_5_17">ipse martyr egregius</l>
+        <l n="18" xml:id="HY_BA_1582_14_5_18">amore christi praedicans</l>
+        <l n="19" xml:id="HY_BA_1582_14_5_19">sancto repletus spiritu</l>
+        <l n="20" xml:id="HY_BA_1582_14_5_20">vultum gerens angelicum</l>
+      </lg>
+      <lg n="6" xml:id="HY_BA_1582_14_6">
+        <l n="21" xml:id="HY_BA_1582_14_6_21">ille levatis oculis</l>
+        <l n="22" xml:id="HY_BA_1582_14_6_22">vidit patrem cum filio</l>
+        <l n="23" xml:id="HY_BA_1582_14_6_23">monstrans in coelis vivere</l>
+        <l n="24" xml:id="HY_BA_1582_14_6_24">quem plebs quaerebat perdere</l>
+      </lg>
+      <lg n="7" xml:id="HY_BA_1582_14_7">
+        <l n="25" xml:id="HY_BA_1582_14_7_25">iudaei magis saeviunt</l>
+        <l n="26" xml:id="HY_BA_1582_14_7_26">saxaque praensant manibus</l>
+        <l n="27" xml:id="HY_BA_1582_14_7_27">currebant ut occiderent</l>
+        <l n="28" xml:id="HY_BA_1582_14_7_28">sacratum christi militem</l>
+      </lg>
+      <lg n="8" xml:id="HY_BA_1582_14_8">
+        <l n="29" xml:id="HY_BA_1582_14_8_29">iste paratus vertice</l>
+        <l n="30" xml:id="HY_BA_1582_14_8_30">gaudens suscepit lapides</l>
+        <l n="31" xml:id="HY_BA_1582_14_8_31">rogans pro eis dominum</l>
+        <l n="32" xml:id="HY_BA_1582_14_8_32">gaudens tradidit spiritum</l>
+      </lg>
+      <lg n="9" xml:id="HY_BA_1582_14_9">
+        <l n="33" xml:id="HY_BA_1582_14_9_33">gloria tibi domine</l>
+        <l n="34" xml:id="HY_BA_1582_14_9_34">qui natus es de virgine</l>
+        <l n="35" xml:id="HY_BA_1582_14_9_35">cum patre et sancto spiritu</l>
+        <l n="36" xml:id="HY_BA_1582_14_9_36">in sempiterna saecula amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

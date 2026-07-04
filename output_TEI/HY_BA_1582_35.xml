@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1582_35"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Victor Nabor Felix pii</title>
+
+        <author>Ambrosius Mediolanensis</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">Sancti Victoris Martyris, ad Laudes et ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1582</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">Sancti Victoris Martyris, ad Laudes et ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Victor Nabor Felix pii</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1582_35_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1582_35_1_1">Victor, Nabor, Foelix, pii</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1582_35_1_2">Mediolani martyres</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1582_35_1_3">solo hospites, Mauri genus,</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1582_35_1_4">terrisque nostris advenae.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1582_35_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1582_35_2_5">Torrens arena quos dedit,</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1582_35_2_6">anhela solis aestibus:</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1582_35_2_7">extremaque terrae finium,</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1582_35_2_8">exulque nostri nominis.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1582_35_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1582_35_3_9">Suscepit hospites Padus,</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1582_35_3_10">mercede magna sanguinis:</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1582_35_3_11">sancto replevit Spiritu</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1582_35_3_12">almae fides Ecclesiae.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1582_35_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1582_35_4_13">Et se coronavit trium</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1582_35_4_14">cruore sacro martyrum:</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1582_35_4_15">castrisque raptos impiis,</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1582_35_4_16">Christo sacravit milites.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1582_35_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1582_35_5_17">Profecit ad fidem labor</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1582_35_5_18">armisque docti bellicis,</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1582_35_5_19">pro rege vitam ponere,</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1582_35_5_20">decere pro Christo pati.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_BA_1582_35_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_BA_1582_35_6_21">Non tela quaerunt ferrea,</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_BA_1582_35_6_22">non arma Christi milites:</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_BA_1582_35_6_23">munitus armis ambulat,</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_BA_1582_35_6_24">veram fidem, qui possidet.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_BA_1582_35_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_BA_1582_35_7_25">Scutum vero sua est fides,</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_BA_1582_35_7_26">et mors triumphus, quem invidens:</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_BA_1582_35_7_27">nobis tyrannus ad oppidum</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_BA_1582_35_7_28">laudense misit martyres.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_BA_1582_35_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_BA_1582_35_8_29">Sed reddiderunt hostias</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_BA_1582_35_8_30">raptis quadrigis corpora:</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_BA_1582_35_8_31">revecti in ora principum</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_BA_1582_35_8_32">plaustri triumphalis modo.</l>
+      </lg>
+      <lg n="9" type="tetrastichon_iambicum" xml:id="HY_BA_1582_35_9">
+        <l n="33" type="dimeter_iambicus" xml:id="HY_BA_1582_35_9_33">Gloria tibi Domine,</l>
+        <l n="34" type="dimeter_iambicus" xml:id="HY_BA_1582_35_9_34">gloria Unigenito,</l>
+        <l n="35" type="dimeter_iambicus" xml:id="HY_BA_1582_35_9_35">una cum sancto Spiritu,</l>
+        <l n="36" type="dimeter_iambicus" xml:id="HY_BA_1582_35_9_36">in sempiterna saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1582</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

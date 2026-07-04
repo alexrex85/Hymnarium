@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1582_50"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Iesu corona virginum</title>
+
+        <author>Ambrosius Mediolanensis</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">In natali Virginis Martyris, ad Laudes et ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1582</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">In natali Virginis Martyris, ad Laudes et ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Iesu corona virginum</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1582_50_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1582_50_1_1">Iesu, corona virginum,</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1582_50_1_2">quem mater illa concepit,</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1582_50_1_3">quem sola virgo parturit,</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1582_50_1_4">haec vota clemens accipe.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1582_50_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1582_50_2_5">Qui pascis inter lilia,</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1582_50_2_6">septus choreis virginum,</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1582_50_2_7">sponsus decorus gloria,</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1582_50_2_8">sponsisque reddens praemia.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1582_50_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1582_50_3_9">Quocumque pergis, virgines</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1582_50_3_10">sequuntur, atque laudibus</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1582_50_3_11">post te canentes cursitant,</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1582_50_3_12">hymnosque dulces personant.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1582_50_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1582_50_4_13">Te deprecamur largius,</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1582_50_4_14">nostris adauge mentibus,</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1582_50_4_15">nescire prorsus omnia,</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1582_50_4_16">corruptionis vulnera.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1582_50_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1582_50_5_17">Gloria tibi Domine,</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1582_50_5_18">gloria Unigenito,</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1582_50_5_19">una cum sancto Spiritu,</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1582_50_5_20">in sempiterna saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1582</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

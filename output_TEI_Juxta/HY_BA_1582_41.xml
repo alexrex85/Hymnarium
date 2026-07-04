@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_BA_1582_41">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_BA_1582_41_1">
+        <l n="1" xml:id="HY_BA_1582_41_1_1">apollinaris martyris</l>
+        <l n="2" xml:id="HY_BA_1582_41_1_2">piis triumphum vocibus</l>
+        <l n="3" xml:id="HY_BA_1582_41_1_3">laetisque palmam mentibus</l>
+        <l n="4" xml:id="HY_BA_1582_41_1_4">promat fidelis concio</l>
+      </lg>
+      <lg n="2" xml:id="HY_BA_1582_41_2">
+        <l n="5" xml:id="HY_BA_1582_41_2_5">petri ravennam iussibus</l>
+        <l n="6" xml:id="HY_BA_1582_41_2_6">pergens oculis lumina</l>
+        <l n="7" xml:id="HY_BA_1582_41_2_7">prius dedit quam moenia</l>
+        <l n="8" xml:id="HY_BA_1582_41_2_8">intraret iesum praedicans</l>
+      </lg>
+      <lg n="3" xml:id="HY_BA_1582_41_3">
+        <l n="9" xml:id="HY_BA_1582_41_3_9">theclam tribuni coniugem</l>
+        <l n="10" xml:id="HY_BA_1582_41_3_10">aegram cubante lectulo</l>
+        <l n="11" xml:id="HY_BA_1582_41_3_11">reddens saluti pristinae</l>
+        <l n="12" xml:id="HY_BA_1582_41_3_12">plures vocavit ad fidem</l>
+      </lg>
+      <lg n="4" xml:id="HY_BA_1582_41_4">
+        <l n="13" xml:id="HY_BA_1582_41_4_13">mutam rogatus visere</l>
+        <l n="14" xml:id="HY_BA_1582_41_4_14">iens puellam spiritu</l>
+        <l n="15" xml:id="HY_BA_1582_41_4_15">curavit a nequissimo</l>
+        <l n="16" xml:id="HY_BA_1582_41_4_16">fandique morem contulit</l>
+      </lg>
+      <lg n="5" xml:id="HY_BA_1582_41_5">
+        <l n="17" xml:id="HY_BA_1582_41_5_17">vitam refudit filiae</l>
+        <l n="18" xml:id="HY_BA_1582_41_5_18">ruffi solutae corpore</l>
+        <l n="19" xml:id="HY_BA_1582_41_5_19">mortisque vinclis liberam</l>
+        <l n="20" xml:id="HY_BA_1582_41_5_20">christo sacravit virginem</l>
+      </lg>
+      <lg n="6" xml:id="HY_BA_1582_41_6">
+        <l n="21" xml:id="HY_BA_1582_41_6_21">squalore leprae sordidum</l>
+        <l n="22" xml:id="HY_BA_1582_41_6_22">monens fideli pectore</l>
+        <l n="23" xml:id="HY_BA_1582_41_6_23">regem supernum credere</l>
+        <l n="24" xml:id="HY_BA_1582_41_6_24">tingens sanavit gurgite</l>
+      </lg>
+      <lg n="7" xml:id="HY_BA_1582_41_7">
+        <l n="25" xml:id="HY_BA_1582_41_7_25">tauri carentem lumine</l>
+        <l n="26" xml:id="HY_BA_1582_41_7_26">pulsis tenebris filium</l>
+        <l n="27" xml:id="HY_BA_1582_41_7_27">phoebum serenis visibus</l>
+        <l n="28" xml:id="HY_BA_1582_41_7_28">perfecit orans cernere</l>
+      </lg>
+      <lg n="8" xml:id="HY_BA_1582_41_8">
+        <l n="29" xml:id="HY_BA_1582_41_8_29">hic inter aras daemonum</l>
+        <l n="30" xml:id="HY_BA_1582_41_8_30">delubra solus diruit</l>
+        <l n="31" xml:id="HY_BA_1582_41_8_31">caedum famemque pertulit</l>
+        <l n="32" xml:id="HY_BA_1582_41_8_32">caelo refudit spiritum</l>
+      </lg>
+      <lg n="9" xml:id="HY_BA_1582_41_9">
+        <l n="33" xml:id="HY_BA_1582_41_9_33">gloria tibi domine</l>
+        <l n="34" xml:id="HY_BA_1582_41_9_34">gloria unigenito</l>
+        <l n="35" xml:id="HY_BA_1582_41_9_35">una cum sancto spiritu</l>
+        <l n="36" xml:id="HY_BA_1582_41_9_36">in sempiterna saecula amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1582_09"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Te lucis ante terminum</title>
+
+        <author>Anonymus saec. incerti</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">Ad Completorium</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1582</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">Ad Completorium</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Te lucis ante terminum</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1582_09_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1582_09_1_1">Te lucis ante terminum,</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1582_09_1_2">rerum Creator poscimus,</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1582_09_1_3">ut solita clementia,</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1582_09_1_4">sis praesul ad custodiam.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1582_09_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1582_09_2_5">Procul recedant somnia,</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1582_09_2_6">et noctium phantasmata:</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1582_09_2_7">hostemque nostrum comprime,</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1582_09_2_8">ne polluantur corpora.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1582_09_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1582_09_3_9">Praesta Pater piissime,</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1582_09_3_10">per Iesum Christum Dominum:</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1582_09_3_11">qui tecum in perpetuum</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1582_09_3_12">regnat cum sancto Spiritu. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1582</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

@@ -1,5 +1,437 @@
 [
   {
+    "incipit": "Aeterne rerum Conditor",
+    "file": "HY_BA_1582_01.html",
+    "auctor": "Ambrosius Mediolanensis",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Splendor paternae gloriae",
+    "file": "HY_BA_1582_02.html",
+    "auctor": "Ambrosius Mediolanensis",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Iam lucis orto sidere",
+    "file": "HY_BA_1582_03.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Iam surgit hora tertia",
+    "file": "HY_BA_1582_04.html",
+    "auctor": "Ambrosius Mediolanensis",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Nunc sancte nobis Spiritus",
+    "file": "HY_BA_1582_05.html",
+    "auctor": "Ambrosius Mediolanensis (dubius)",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Rector potens verax Deus",
+    "file": "HY_BA_1582_06.html",
+    "auctor": "Ambrosius Mediolanensis (dubius)",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Rerum Deus tenax vigor",
+    "file": "HY_BA_1582_07.html",
+    "auctor": "Ambrosius Mediolanensis (dubius)",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Deus Creator omnium",
+    "file": "HY_BA_1582_08.html",
+    "auctor": "Ambrosius Mediolanensis",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Te lucis ante terminum",
+    "file": "HY_BA_1582_09.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Christe qui lux es et dies",
+    "file": "HY_BA_1582_10.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Conditor alme syderum",
+    "file": "HY_BA_1582_11.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Mysterium Ecclesiae",
+    "file": "HY_BA_1582_12.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Mysterium Ecclesiae",
+    "file": "HY_BA_1582_12a.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Vere gratia plena es",
+    "file": "HY_BA_1582_12b.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Intende qui regis Israel",
+    "file": "HY_BA_1582_13.html",
+    "auctor": "Ambrosius Mediolanensis",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Stephano primo martyri",
+    "file": "HY_BA_1582_14.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Amore Christi nobilis",
+    "file": "HY_BA_1582_15.html",
+    "auctor": "Ambrosius Mediolanensis",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Illuminans altissimus",
+    "file": "HY_BA_1582_16.html",
+    "auctor": "Ambrosius Mediolanensis",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Audi benigne Conditor",
+    "file": "HY_BA_1582_17.html",
+    "auctor": "Gregorius Magnus (dubius)",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Iam Christe sol iustitiae",
+    "file": "HY_BA_1582_18.html",
+    "auctor": "Gregorius Magnus (dubius)",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Ex more docti mystico",
+    "file": "HY_BA_1582_19.html",
+    "auctor": "Gregorius Magnus (dubius)",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Vexilla Regis prodeunt",
+    "file": "HY_BA_1582_20.html",
+    "auctor": "Venantius Fortunatus",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Hymnum dicamus Domino",
+    "file": "HY_BA_1582_21.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Hic est dies verus Dei",
+    "file": "HY_BA_1582_22.html",
+    "auctor": "Ambrosius Mediolanensis",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Optatus votis omnium",
+    "file": "HY_BA_1582_23.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Iam Christus astra ascenderat",
+    "file": "HY_BA_1582_24.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Verbum supernum prodiens",
+    "file": "HY_BA_1582_25.html",
+    "auctor": "Thomas Aquinas",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Pange lingua gloriosi Corporis mysterium",
+    "file": "HY_BA_1582_26.html",
+    "auctor": "Thomas Aquinas",
+    "metrum": "Tetrametrum trochaicum catalepticum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Christe cunctorum dominator alme",
+    "file": "HY_BA_1582_27.html",
+    "auctor": "Ambrosius Mediolanensis",
+    "metrum": "Sapphicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Bellator armis inclytus",
+    "file": "HY_BA_1582_28.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Post Petrum primum principem",
+    "file": "HY_BA_1582_29.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Miraculum laudabile",
+    "file": "HY_BA_1582_30.html",
+    "auctor": "Maximianus",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Quodcumque vinclis super terram strinxeris",
+    "file": "HY_BA_1582_31.html",
+    "auctor": "Paulinus Aquileiensis",
+    "metrum": "Trimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Agnes beatae virginis",
+    "file": "HY_BA_1582_32.html",
+    "auctor": "Ambrosius Mediolanensis",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Beate martyr prospera",
+    "file": "HY_BA_1582_33.html",
+    "auctor": "Aurelius Prudentius Clemens",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Agathae sacrae virginis",
+    "file": "HY_BA_1582_34.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Victor Nabor Felix pii",
+    "file": "HY_BA_1582_35.html",
+    "auctor": "Ambrosius Mediolanensis",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Regi polorum debitas",
+    "file": "HY_BA_1582_36.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Grates tibi Iesu novas",
+    "file": "HY_BA_1582_37.html",
+    "auctor": "Ambrosius Mediolanensis",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Almi prophetae progenies pia",
+    "file": "HY_BA_1582_38.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Hendecasyllabum Alcaicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Apostolorum passio",
+    "file": "HY_BA_1582_39.html",
+    "auctor": "Ambrosius Mediolanensis",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Caelorum regi psallite",
+    "file": "HY_BA_1582_40.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Apollinaris martyris",
+    "file": "HY_BA_1582_41.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Sacri triumphale tui",
+    "file": "HY_BA_1582_42.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Gaude mater pietatis in valle gementium",
+    "file": "HY_BA_1582_43.html",
+    "auctor": "Iacobus Aegidius Setabitanus",
+    "metrum": "Tetrametrum trochaicum catalepticum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Apostolorum supparem",
+    "file": "HY_BA_1582_44.html",
+    "auctor": "Ambrosius Mediolanensis",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Summi vatis praeconium",
+    "file": "HY_BA_1582_45.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Mysteriorum signifer",
+    "file": "HY_BA_1582_46.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Aeterna Christi munera",
+    "file": "HY_BA_1582_47.html",
+    "auctor": "Ambrosius Mediolanensis",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Deus tuorum militum",
+    "file": "HY_BA_1582_48.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Iesu corona celsior",
+    "file": "HY_BA_1582_49.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Iesu corona virginum",
+    "file": "HY_BA_1582_50.html",
+    "auctor": "Ambrosius Mediolanensis",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Haec vera Christi famula",
+    "file": "HY_BA_1582_51.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
+    "incipit": "Memento salutis auctor",
+    "file": "HY_BA_1582_52.html",
+    "auctor": "Anonymus saec. incerti",
+    "metrum": "Dimetrum iambicum",
+    "fons": "Breviarium Ambrosianum",
+    "annus": "1582"
+  },
+  {
     "incipit": "Bellator armis inclitus",
     "file": "HY_MA_01.html",
     "auctor": "Anonymus saec. incerti",

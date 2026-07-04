@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1582_12a"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Mysterium Ecclesiae</title>
+
+        <author>Anonymus saec. incerti</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">Officium Beatae Mariae, ad Matutinum</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1582</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">Officium Beatae Mariae, ad Matutinum</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Mysterium Ecclesiae</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1582_12a_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1582_12a_1_1">Mysterium Ecclesiae</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1582_12a_1_2">hymnum Christo referimus</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1582_12a_1_3">quem genuit Puerpera,</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1582_12a_1_4">Verbum Patris in Filio.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1582_12a_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1582_12a_2_5">Sola in sexu foemina</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1582_12a_2_6">electa es in saeculo:</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1582_12a_2_7">quae meruisti Dominum</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1582_12a_2_8">sanctum portare in utero.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1582_12a_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1582_12a_3_9">Vates antiqui temporis,</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1582_12a_3_10">praedixerat quod factum est:</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1582_12a_3_11">quia virgo conciperet,</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1582_12a_3_12">et pareret Emmanuel.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1582_12a_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1582_12a_4_13">Mysterium hoc magnum est,</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1582_12a_4_14">Mariae quod concessum est:</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1582_12a_4_15">ut Deum, per quem omnia,</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1582_12a_4_16">ex se videret prodere.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1582_12a_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1582_12a_5_17">Gloria tibi Domine</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1582_12a_5_18">qui natus es de Virgine:</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1582_12a_5_19">cum Patre, et sancto Spiritu</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1582_12a_5_20">in sempiterna saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1582</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

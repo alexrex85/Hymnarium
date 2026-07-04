@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_BA_1582_50">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_BA_1582_50_1">
+        <l n="1" xml:id="HY_BA_1582_50_1_1">iesu corona virginum</l>
+        <l n="2" xml:id="HY_BA_1582_50_1_2">quem mater illa concepit</l>
+        <l n="3" xml:id="HY_BA_1582_50_1_3">quem sola virgo parturit</l>
+        <l n="4" xml:id="HY_BA_1582_50_1_4">haec vota clemens accipe</l>
+      </lg>
+      <lg n="2" xml:id="HY_BA_1582_50_2">
+        <l n="5" xml:id="HY_BA_1582_50_2_5">qui pascis inter lilia</l>
+        <l n="6" xml:id="HY_BA_1582_50_2_6">septus choreis virginum</l>
+        <l n="7" xml:id="HY_BA_1582_50_2_7">sponsus decorus gloria</l>
+        <l n="8" xml:id="HY_BA_1582_50_2_8">sponsisque reddens praemia</l>
+      </lg>
+      <lg n="3" xml:id="HY_BA_1582_50_3">
+        <l n="9" xml:id="HY_BA_1582_50_3_9">quocumque pergis virgines</l>
+        <l n="10" xml:id="HY_BA_1582_50_3_10">sequuntur atque laudibus</l>
+        <l n="11" xml:id="HY_BA_1582_50_3_11">post te canentes cursitant</l>
+        <l n="12" xml:id="HY_BA_1582_50_3_12">hymnosque dulces personant</l>
+      </lg>
+      <lg n="4" xml:id="HY_BA_1582_50_4">
+        <l n="13" xml:id="HY_BA_1582_50_4_13">te deprecamur largius</l>
+        <l n="14" xml:id="HY_BA_1582_50_4_14">nostris adauge mentibus</l>
+        <l n="15" xml:id="HY_BA_1582_50_4_15">nescire prorsus omnia</l>
+        <l n="16" xml:id="HY_BA_1582_50_4_16">corruptionis vulnera</l>
+      </lg>
+      <lg n="5" xml:id="HY_BA_1582_50_5">
+        <l n="17" xml:id="HY_BA_1582_50_5_17">gloria tibi domine</l>
+        <l n="18" xml:id="HY_BA_1582_50_5_18">gloria unigenito</l>
+        <l n="19" xml:id="HY_BA_1582_50_5_19">una cum sancto spiritu</l>
+        <l n="20" xml:id="HY_BA_1582_50_5_20">in sempiterna saecula amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1582_30"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Miraculum laudabile</title>
+
+        <author>Maximianus</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">In Ordinatione Sancti Ambrosii Episcopi, ad Laudes et ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1582</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">In Ordinatione Sancti Ambrosii Episcopi, ad Laudes et ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Miraculum laudabile</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1582_30_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1582_30_1_1">Miraculum laudabile</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1582_30_1_2">canamus omnes populi</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1582_30_1_3">quod datum est ecclesiae</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1582_30_1_4">in fluctuanti saeculo.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1582_30_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1582_30_2_5">Ambrosium vatem magnum,</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1582_30_2_6">praedestinatum a Deo,</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1582_30_2_7">diabolus quo tempore</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1582_30_2_8">foedaverat templa Dei.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1582_30_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1582_30_3_9">Christus, qui numquam deserit</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1582_30_3_10">suo redemptos sanguine,</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1582_30_3_11">virum direxit inclytum,</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1582_30_3_12">ut Arrium destrueret.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1582_30_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1582_30_4_13">Is infulas dum saeculi</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1582_30_4_14">fert, quaesiit claves poli,</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1582_30_4_15">iusque dum portat gladii,</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1582_30_4_16">suscepit Evangelii.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1582_30_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1582_30_5_17">Mysterium incognitum</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1582_30_5_18">altissimus, quod noverat</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1582_30_5_19">nondum ablutus lavacro</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1582_30_5_20">pontifex eligitur.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_BA_1582_30_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_BA_1582_30_6_21">Ingressus est ecclesiam</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_BA_1582_30_6_22">plebem sedare turbidam:</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_BA_1582_30_6_23">cunctorum ora conclamant</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_BA_1582_30_6_24">Ambrosium episcopum.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_BA_1582_30_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_BA_1582_30_7_25">Arrii tunc perfidia</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_BA_1582_30_7_26">purgatur ex ecclesia</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_BA_1582_30_7_27">cuncta concrepant agmina</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_BA_1582_30_7_28">nec desunt Christi munera.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_BA_1582_30_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_BA_1582_30_8_29">Nox tetra cedat lumini,</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_BA_1582_30_8_30">confundantur haeretici,</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_BA_1582_30_8_31">adest tantum piissimus</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_BA_1582_30_8_32">qui purget mentes perfidas.</l>
+      </lg>
+      <lg n="9" type="tetrastichon_iambicum" xml:id="HY_BA_1582_30_9">
+        <l n="33" type="dimeter_iambicus" xml:id="HY_BA_1582_30_9_33">Virtus ex alto data est,</l>
+        <l n="34" type="dimeter_iambicus" xml:id="HY_BA_1582_30_9_34">Ambrosio in baptismate,</l>
+        <l n="35" type="dimeter_iambicus" xml:id="HY_BA_1582_30_9_35">nam statim ut renatus est,</l>
+        <l n="36" type="dimeter_iambicus" xml:id="HY_BA_1582_30_9_36">coepit fugare daemones.</l>
+      </lg>
+      <lg n="10" type="tetrastichon_iambicum" xml:id="HY_BA_1582_30_10">
+        <l n="37" type="dimeter_iambicus" xml:id="HY_BA_1582_30_10_37">Suscepit is ecclesiam,</l>
+        <l n="38" type="dimeter_iambicus" xml:id="HY_BA_1582_30_10_38">gubernavit intrepidus,</l>
+        <l n="39" type="dimeter_iambicus" xml:id="HY_BA_1582_30_10_39">confessor esse meruit</l>
+        <l n="40" type="dimeter_iambicus" xml:id="HY_BA_1582_30_10_40">dum Arrianis non cedit.</l>
+      </lg>
+      <lg n="11" type="tetrastichon_iambicum" xml:id="HY_BA_1582_30_11">
+        <l n="41" type="dimeter_iambicus" xml:id="HY_BA_1582_30_11_41">Gloria tibi Domine,</l>
+        <l n="42" type="dimeter_iambicus" xml:id="HY_BA_1582_30_11_42">gloria Unigenito,</l>
+        <l n="43" type="dimeter_iambicus" xml:id="HY_BA_1582_30_11_43">una cum sancto Spiritu,</l>
+        <l n="44" type="dimeter_iambicus" xml:id="HY_BA_1582_30_11_44">in sempiterna saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1582</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

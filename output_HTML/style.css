@@ -10,7 +10,6 @@ body {
     color: #222;
 }
 
-/* Tutti i blocchi strutturali, i titoli e gli elementi di controllo usano Montserrat */
 h1, h2, h3, th, header, nav, footer, button, .result-title, .line-number {
     font-family: "Montserrat", "Arial", sans-serif;
 }
@@ -183,7 +182,7 @@ tbody tr:nth-child(even) { background-color: #f7f7f7; }
 tbody tr:hover { background-color: #f0f4f8; }
 
 
-/* === STRUMENTO DI RICERCA === */
+/* === STRUMENTI DI RICERCA === */
 
 .search-form {
     max-width: 900px;
@@ -220,15 +219,23 @@ tbody tr:hover { background-color: #f0f4f8; }
     box-sizing: border-box;
 }
 
-/* ECCEZIONE MANUTENUTA: Gli operatori forzano il monospace del codice */
-.operator-group select {
-    font-family: monospace;
+.operator-group select, .search-group select, .sort-bibliography {
     font-size: 15pt;
     font-weight: bold;
+    font-family: inherit;
     padding: 0.4rem 1rem;
     border: 1px solid #aaa;
     border-radius: 4px;
     background-color: #fcfcfc;
+    cursor: pointer;
+}
+
+.operator-group select {
+    font-family: monospace;
+}
+
+.search-group select {
+    font-family: inherit;
 }
 
 #searchButton {
@@ -323,4 +330,30 @@ mark {
 
 .line-text {
     flex: 1;
+}
+
+
+/* === PAGINE BIBLIOGRAFICHE === */
+
+.bib-target {
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+}
+
+.bib-item {
+    font-size: 16pt;
+    line-height: 1.6;
+    margin-bottom: 1.2rem;
+    padding-left: 2.5rem;
+    text-indent: -2.5rem;
+    text-align: justify;
+}
+
+.bib-item a {
+    color: #003366;
+    font-weight: bold;
+}
+
+.bib-item a:hover {
+    text-decoration: underline;
 }

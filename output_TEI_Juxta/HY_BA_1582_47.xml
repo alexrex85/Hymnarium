@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_BA_1582_47">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_BA_1582_47_1">
+        <l n="1" xml:id="HY_BA_1582_47_1_1">aeterna christi munera</l>
+        <l n="2" xml:id="HY_BA_1582_47_1_2">et martyrum victorias</l>
+        <l n="3" xml:id="HY_BA_1582_47_1_3">laudes ferentes debitas</l>
+        <l n="4" xml:id="HY_BA_1582_47_1_4">laetis canamus mentibus</l>
+      </lg>
+      <lg n="2" xml:id="HY_BA_1582_47_2">
+        <l n="5" xml:id="HY_BA_1582_47_2_5">ecclesiarum principes</l>
+        <l n="6" xml:id="HY_BA_1582_47_2_6">belli triumphales duces</l>
+        <l n="7" xml:id="HY_BA_1582_47_2_7">coelestis aulae milites</l>
+        <l n="8" xml:id="HY_BA_1582_47_2_8">et vera mundi lumina</l>
+      </lg>
+      <lg n="3" xml:id="HY_BA_1582_47_3">
+        <l n="9" xml:id="HY_BA_1582_47_3_9">terrore victo saeculi</l>
+        <l n="10" xml:id="HY_BA_1582_47_3_10">poenisque spretis corporis</l>
+        <l n="11" xml:id="HY_BA_1582_47_3_11">mortis sacrae compendio</l>
+        <l n="12" xml:id="HY_BA_1582_47_3_12">lucem beatam possident</l>
+      </lg>
+      <lg n="4" xml:id="HY_BA_1582_47_4">
+        <l n="13" xml:id="HY_BA_1582_47_4_13">traduntur igni martyres</l>
+        <l n="14" xml:id="HY_BA_1582_47_4_14">et bestiarum dentibus</l>
+        <l n="15" xml:id="HY_BA_1582_47_4_15">armata saevis ungulis</l>
+        <l n="16" xml:id="HY_BA_1582_47_4_16">tortoris insani manus</l>
+      </lg>
+      <lg n="5" xml:id="HY_BA_1582_47_5">
+        <l n="17" xml:id="HY_BA_1582_47_5_17">nudata pendent viscera</l>
+        <l n="18" xml:id="HY_BA_1582_47_5_18">sanguis sacratus funditur</l>
+        <l n="19" xml:id="HY_BA_1582_47_5_19">sed permanent immobiles</l>
+        <l n="20" xml:id="HY_BA_1582_47_5_20">vitae perennis gratia</l>
+      </lg>
+      <lg n="6" xml:id="HY_BA_1582_47_6">
+        <l n="21" xml:id="HY_BA_1582_47_6_21">devota sanctorum fides</l>
+        <l n="22" xml:id="HY_BA_1582_47_6_22">invicta spes credentium</l>
+        <l n="23" xml:id="HY_BA_1582_47_6_23">perfecta christi charitas</l>
+        <l n="24" xml:id="HY_BA_1582_47_6_24">mundi triumphat principem</l>
+      </lg>
+      <lg n="7" xml:id="HY_BA_1582_47_7">
+        <l n="25" xml:id="HY_BA_1582_47_7_25">in his paterna charitas</l>
+        <l n="26" xml:id="HY_BA_1582_47_7_26">in his voluntas spiritus</l>
+        <l n="27" xml:id="HY_BA_1582_47_7_27">exultat in his filius</l>
+        <l n="28" xml:id="HY_BA_1582_47_7_28">coelum repletur gaudio</l>
+      </lg>
+      <lg n="8" xml:id="HY_BA_1582_47_8">
+        <l n="29" xml:id="HY_BA_1582_47_8_29">te nunc redemptor quaesumus</l>
+        <l n="30" xml:id="HY_BA_1582_47_8_30">ut martyrum consortio</l>
+        <l n="31" xml:id="HY_BA_1582_47_8_31">iungas precantes servulos</l>
+        <l n="32" xml:id="HY_BA_1582_47_8_32">in sempiterna saecula</l>
+      </lg>
+      <lg n="9" xml:id="HY_BA_1582_47_9">
+        <l n="33" xml:id="HY_BA_1582_47_9_33">gloria tibi domine</l>
+        <l n="34" xml:id="HY_BA_1582_47_9_34">gloria unigenito</l>
+        <l n="35" xml:id="HY_BA_1582_47_9_35">una cum sancto spiritu</l>
+        <l n="36" xml:id="HY_BA_1582_47_9_36">in sempiterna saecula amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

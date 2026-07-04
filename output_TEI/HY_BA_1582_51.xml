@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1582_51"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Haec vera Christi famula</title>
+
+        <author>Anonymus saec. incerti</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">In natali Sanctae Matronae, ad Laudes et ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1582</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">In natali Sanctae Matronae, ad Laudes et ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Haec vera Christi famula</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1582_51_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1582_51_1_1">Haec vera Christi famula,</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1582_51_1_2">inventa sine macula,</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1582_51_1_3">Deum amavit sedula,</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1582_51_1_4">cum quo regnat per saecula.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1582_51_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1582_51_2_5">Igne flagrabat fidei,</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1582_51_2_6">amore succensa Dei:</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1582_51_2_7">signis effulgens variis</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1582_51_2_8">coeli potitur praemiis.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1582_51_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1582_51_3_9">Haec de valle miseriae</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1582_51_3_10">in patriam laetitiae</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1582_51_3_11">ad summum regem gloriae</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1582_51_3_12">laeta pervenit hodie.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1582_51_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1582_51_4_13">Laus uni Deo, et trino:</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1582_51_4_14">qui nos beatae precibus,</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1582_51_4_15">peracto vitae termino,</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1582_51_4_16">coniungat caeli civibus. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1582</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

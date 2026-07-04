@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_BA_1582_52">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_BA_1582_52_1">
+        <l n="1" xml:id="HY_BA_1582_52_1_1">memento salutis auctor</l>
+        <l n="2" xml:id="HY_BA_1582_52_1_2">quod nostri quondam corporis</l>
+        <l n="3" xml:id="HY_BA_1582_52_1_3">ex illibata virgine</l>
+        <l n="4" xml:id="HY_BA_1582_52_1_4">nascendo formam sumpseris</l>
+      </lg>
+      <lg n="2" xml:id="HY_BA_1582_52_2">
+        <l n="5" xml:id="HY_BA_1582_52_2_5">maria mater gratiae</l>
+        <l n="6" xml:id="HY_BA_1582_52_2_6">mater misericordiae</l>
+        <l n="7" xml:id="HY_BA_1582_52_2_7">tu nos ab hoste protege</l>
+        <l n="8" xml:id="HY_BA_1582_52_2_8">et hora mortis suscipe</l>
+      </lg>
+      <lg n="3" xml:id="HY_BA_1582_52_3">
+        <l n="9" xml:id="HY_BA_1582_52_3_9">gloria tibi domine</l>
+        <l n="10" xml:id="HY_BA_1582_52_3_10">qui natus es de virgine</l>
+        <l n="11" xml:id="HY_BA_1582_52_3_11">cum patre et sancto spiritu</l>
+        <l n="12" xml:id="HY_BA_1582_52_3_12">in sempiterna saecula amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

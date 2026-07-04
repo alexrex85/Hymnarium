@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1582_31"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Quodcumque vinclis super terram strinxeris</title>
+
+        <author>Paulinus Aquileiensis</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Trimetrum iambicum</note>
+
+        <note type="commentarius">Cathedra Sancti Petri Apostoli, ad Laudes et ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1582</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">Cathedra Sancti Petri Apostoli, ad Laudes et ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Quodcumque vinclis super terram strinxeris</head>
+
+      <lg n="1" type="pentastichon_iambicum" xml:id="HY_BA_1582_31_1">
+        <l n="1" type="trimeter_iambicus" xml:id="HY_BA_1582_31_1_1">Quodcumque vinclis super terram strinxeris,</l>
+        <l n="2" type="trimeter_iambicus" xml:id="HY_BA_1582_31_1_2">erit in astris religatum fortiter:</l>
+        <l n="3" type="trimeter_iambicus" xml:id="HY_BA_1582_31_1_3">et quod resolvis in terris arbitrio,</l>
+        <l n="4" type="trimeter_iambicus" xml:id="HY_BA_1582_31_1_4">erit solutum super coeli radium.</l>
+        <l n="5" type="trimeter_iambicus" xml:id="HY_BA_1582_31_1_5">In fine mundi iudex erit saeculi.</l>
+      </lg>
+      <lg n="2" type="pentastichon_iambicum" xml:id="HY_BA_1582_31_2">
+        <l n="6" type="trimeter_iambicus" xml:id="HY_BA_1582_31_2_6">Gloria Deo per immensa saecula,</l>
+        <l n="7" type="trimeter_iambicus" xml:id="HY_BA_1582_31_2_7">sit tibi, Nate, decus, et imperium,</l>
+        <l n="8" type="trimeter_iambicus" xml:id="HY_BA_1582_31_2_8">honor, potestas, Sanctoque Spiritui,</l>
+        <l n="9" type="trimeter_iambicus" xml:id="HY_BA_1582_31_2_9">sit Trinitati salus individua</l>
+        <l n="10" type="trimeter_iambicus" xml:id="HY_BA_1582_31_2_10">per infinita saecula saeculorum. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1582</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Trimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

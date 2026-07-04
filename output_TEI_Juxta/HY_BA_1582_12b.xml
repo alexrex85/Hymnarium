@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_BA_1582_12b">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_BA_1582_12b_1">
+        <l n="1" xml:id="HY_BA_1582_12b_1_1">vere gratia plena es</l>
+        <l n="2" xml:id="HY_BA_1582_12b_1_2">et gloriosa permanes</l>
+        <l n="3" xml:id="HY_BA_1582_12b_1_3">quia ex te natus est christus</l>
+        <l n="4" xml:id="HY_BA_1582_12b_1_4">per quem facta sunt omnia</l>
+      </lg>
+      <lg n="2" xml:id="HY_BA_1582_12b_2">
+        <l n="5" xml:id="HY_BA_1582_12b_2_5">pastores qui audierant</l>
+        <l n="6" xml:id="HY_BA_1582_12b_2_6">cantari deo gloriam</l>
+        <l n="7" xml:id="HY_BA_1582_12b_2_7">cucurrerunt in bethlehem</l>
+        <l n="8" xml:id="HY_BA_1582_12b_2_8">natum videre dominum</l>
+      </lg>
+      <lg n="3" xml:id="HY_BA_1582_12b_3">
+        <l n="9" xml:id="HY_BA_1582_12b_3_9">sic magi ab ortu solis</l>
+        <l n="10" xml:id="HY_BA_1582_12b_3_10">per syderis indicium</l>
+        <l n="11" xml:id="HY_BA_1582_12b_3_11">portantes typum gentium</l>
+        <l n="12" xml:id="HY_BA_1582_12b_3_12">primi obtulerunt munera</l>
+      </lg>
+      <lg n="4" xml:id="HY_BA_1582_12b_4">
+        <l n="13" xml:id="HY_BA_1582_12b_4_13">rogemus ergo populi</l>
+        <l n="14" xml:id="HY_BA_1582_12b_4_14">dei matrem et virginem</l>
+        <l n="15" xml:id="HY_BA_1582_12b_4_15">ut ipsa nobis impetret</l>
+        <l n="16" xml:id="HY_BA_1582_12b_4_16">pacem et indulgentiam</l>
+      </lg>
+      <lg n="5" xml:id="HY_BA_1582_12b_5">
+        <l n="17" xml:id="HY_BA_1582_12b_5_17">gloria tibi domine</l>
+        <l n="18" xml:id="HY_BA_1582_12b_5_18">qui natus es de virgine</l>
+        <l n="19" xml:id="HY_BA_1582_12b_5_19">cum patre et sancto spiritu</l>
+        <l n="20" xml:id="HY_BA_1582_12b_5_20">in sempiterna saecula amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

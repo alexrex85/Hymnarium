@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_BA_1582_04">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_BA_1582_04_1">
+        <l n="1" xml:id="HY_BA_1582_04_1_1">iam surgit hora tertia</l>
+        <l n="2" xml:id="HY_BA_1582_04_1_2">qua christus ascendit crucem</l>
+        <l n="3" xml:id="HY_BA_1582_04_1_3">nil insolens mens cogitet</l>
+        <l n="4" xml:id="HY_BA_1582_04_1_4">intendat affectum precis</l>
+      </lg>
+      <lg n="2" xml:id="HY_BA_1582_04_2">
+        <l n="5" xml:id="HY_BA_1582_04_2_5">qui corde christum suscipit</l>
+        <l n="6" xml:id="HY_BA_1582_04_2_6">innoxium sensum gerit</l>
+        <l n="7" xml:id="HY_BA_1582_04_2_7">votisque praestat sedulis</l>
+        <l n="8" xml:id="HY_BA_1582_04_2_8">sanctum mereri spiritum</l>
+      </lg>
+      <lg n="3" xml:id="HY_BA_1582_04_3">
+        <l n="9" xml:id="HY_BA_1582_04_3_9">haec hora quae finem dedit</l>
+        <l n="10" xml:id="HY_BA_1582_04_3_10">diri veterno criminis</l>
+        <l n="11" xml:id="HY_BA_1582_04_3_11">mortisque regnum diruit</l>
+        <l n="12" xml:id="HY_BA_1582_04_3_12">culpamque ab aevo sustulit</l>
+      </lg>
+      <lg n="4" xml:id="HY_BA_1582_04_4">
+        <l n="13" xml:id="HY_BA_1582_04_4_13">hinc iam beata tempora</l>
+        <l n="14" xml:id="HY_BA_1582_04_4_14">christi coepere gratiam</l>
+        <l n="15" xml:id="HY_BA_1582_04_4_15">fidei replevit veritas</l>
+        <l n="16" xml:id="HY_BA_1582_04_4_16">totum per orbem ecclesias</l>
+      </lg>
+      <lg n="5" xml:id="HY_BA_1582_04_5">
+        <l n="17" xml:id="HY_BA_1582_04_5_17">celso triumphi vertice</l>
+        <l n="18" xml:id="HY_BA_1582_04_5_18">matri loquebatur suae</l>
+        <l n="19" xml:id="HY_BA_1582_04_5_19">en filius mater tuus</l>
+        <l n="20" xml:id="HY_BA_1582_04_5_20">apostole en mater tua</l>
+      </lg>
+      <lg n="6" xml:id="HY_BA_1582_04_6">
+        <l n="21" xml:id="HY_BA_1582_04_6_21">praetenta nuptae foedera</l>
+        <l n="22" xml:id="HY_BA_1582_04_6_22">alto docens mysterio</l>
+        <l n="23" xml:id="HY_BA_1582_04_6_23">ne virginis partus sacer</l>
+        <l n="24" xml:id="HY_BA_1582_04_6_24">matris pudorem laederet</l>
+      </lg>
+      <lg n="7" xml:id="HY_BA_1582_04_7">
+        <l n="25" xml:id="HY_BA_1582_04_7_25">cui fidem in caelestibus</l>
+        <l n="26" xml:id="HY_BA_1582_04_7_26">iesus dedit miraculis</l>
+        <l n="27" xml:id="HY_BA_1582_04_7_27">nec credidit plebs impia</l>
+        <l n="28" xml:id="HY_BA_1582_04_7_28">qui credidit salvus erit</l>
+      </lg>
+      <lg n="8" xml:id="HY_BA_1582_04_8">
+        <l n="29" xml:id="HY_BA_1582_04_8_29">nos credimus natum deum</l>
+        <l n="30" xml:id="HY_BA_1582_04_8_30">partumque virginis sacrae</l>
+        <l n="31" xml:id="HY_BA_1582_04_8_31">peccata qui mundi tulit</l>
+        <l n="32" xml:id="HY_BA_1582_04_8_32">ad dexteram sedens patris</l>
+      </lg>
+      <lg n="9" xml:id="HY_BA_1582_04_9">
+        <l n="33" xml:id="HY_BA_1582_04_9_33">gloria tibi domine</l>
+        <l n="34" xml:id="HY_BA_1582_04_9_34">gloria unigenito</l>
+        <l n="35" xml:id="HY_BA_1582_04_9_35">una cum sancto spiritu</l>
+        <l n="36" xml:id="HY_BA_1582_04_9_36">in sempiterna saecula amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

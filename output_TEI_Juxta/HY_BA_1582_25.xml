@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_BA_1582_25">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_BA_1582_25_1">
+        <l n="1" xml:id="HY_BA_1582_25_1_1">verbum supernum prodiens</l>
+        <l n="2" xml:id="HY_BA_1582_25_1_2">nec patris linquens dexteram</l>
+        <l n="3" xml:id="HY_BA_1582_25_1_3">ad opus suum exiens</l>
+        <l n="4" xml:id="HY_BA_1582_25_1_4">venit ad vitae vesperam</l>
+      </lg>
+      <lg n="2" xml:id="HY_BA_1582_25_2">
+        <l n="5" xml:id="HY_BA_1582_25_2_5">in mortem a discipulo</l>
+        <l n="6" xml:id="HY_BA_1582_25_2_6">suis tradendus aemulis</l>
+        <l n="7" xml:id="HY_BA_1582_25_2_7">prius in vitae ferculo</l>
+        <l n="8" xml:id="HY_BA_1582_25_2_8">se tradidit discipulis</l>
+      </lg>
+      <lg n="3" xml:id="HY_BA_1582_25_3">
+        <l n="9" xml:id="HY_BA_1582_25_3_9">quibus sub bina specie</l>
+        <l n="10" xml:id="HY_BA_1582_25_3_10">carnem dedit et sanguinem</l>
+        <l n="11" xml:id="HY_BA_1582_25_3_11">ut duplicis substantiae</l>
+        <l n="12" xml:id="HY_BA_1582_25_3_12">totum cibaret hominem</l>
+      </lg>
+      <lg n="4" xml:id="HY_BA_1582_25_4">
+        <l n="13" xml:id="HY_BA_1582_25_4_13">se nascens dedit socium</l>
+        <l n="14" xml:id="HY_BA_1582_25_4_14">convescens in edulium</l>
+        <l n="15" xml:id="HY_BA_1582_25_4_15">se moriens in pretium</l>
+        <l n="16" xml:id="HY_BA_1582_25_4_16">se regnans dat in praemium</l>
+      </lg>
+      <lg n="5" xml:id="HY_BA_1582_25_5">
+        <l n="17" xml:id="HY_BA_1582_25_5_17">o salutaris hostia</l>
+        <l n="18" xml:id="HY_BA_1582_25_5_18">quae coeli pandis ostium</l>
+        <l n="19" xml:id="HY_BA_1582_25_5_19">bella premunt hostilia</l>
+        <l n="20" xml:id="HY_BA_1582_25_5_20">da robur fer auxilium</l>
+      </lg>
+      <lg n="6" xml:id="HY_BA_1582_25_6">
+        <l n="21" xml:id="HY_BA_1582_25_6_21">uni trinoque domino</l>
+        <l n="22" xml:id="HY_BA_1582_25_6_22">sit sempiterna gloria</l>
+        <l n="23" xml:id="HY_BA_1582_25_6_23">qui vitam sine termino</l>
+        <l n="24" xml:id="HY_BA_1582_25_6_24">nobis donet in patria amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

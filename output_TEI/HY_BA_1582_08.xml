@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1582_08"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Deus Creator omnium</title>
+
+        <author>Ambrosius Mediolanensis</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">Ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1582</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">Ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Deus Creator omnium</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1582_08_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1582_08_1_1">Deus Creator omnium,</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1582_08_1_2">polique rector vestiens</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1582_08_1_3">diem decoro lumine,</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1582_08_1_4">noctem soporis gratia.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1582_08_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1582_08_2_5">Artus solutos ut quies</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1582_08_2_6">reddat laboris usui,</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1582_08_2_7">mentesque fessas allevet,</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1582_08_2_8">luctusque solvat anxios.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1582_08_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1582_08_3_9">Grates, peracto iam die,</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1582_08_3_10">et noctis exortu, preces,</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1582_08_3_11">votis, reos ut adiuves,</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1582_08_3_12">hymnum, canentes solvimus.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1582_08_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1582_08_4_13">Te cordis ima concinant,</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1582_08_4_14">te vox sonora concrepet,</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1582_08_4_15">te diligat castus amor,</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1582_08_4_16">te mens adoret sobria.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1582_08_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1582_08_5_17">Ut cum profunda clauserit</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1582_08_5_18">diem caligo noctium,</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1582_08_5_19">fides tenebras nesciat,</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1582_08_5_20">et nox fide reluceat.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_BA_1582_08_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_BA_1582_08_6_21">Dormire mentem ne sinas,</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_BA_1582_08_6_22">dormire culpa noverit:</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_BA_1582_08_6_23">castos fides refrigerans,</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_BA_1582_08_6_24">somni vaporem temperet.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_BA_1582_08_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_BA_1582_08_7_25">Exuta sensu lubrico</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_BA_1582_08_7_26">te cordis alta somnient:</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_BA_1582_08_7_27">ne hostis invidi dolo</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_BA_1582_08_7_28">pavor quietos suscitet.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_BA_1582_08_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_BA_1582_08_8_29">Christum rogamus et Patrem,</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_BA_1582_08_8_30">Christi Patrisque Spiritum:</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_BA_1582_08_8_31">unum potens per omnia,</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_BA_1582_08_8_32">fove precantes Trinitas.</l>
+      </lg>
+      <lg n="9" type="tetrastichon_iambicum" xml:id="HY_BA_1582_08_9">
+        <l n="33" type="dimeter_iambicus" xml:id="HY_BA_1582_08_9_33">Gloria tibi Domine,</l>
+        <l n="34" type="dimeter_iambicus" xml:id="HY_BA_1582_08_9_34">gloria Unigenito,</l>
+        <l n="35" type="dimeter_iambicus" xml:id="HY_BA_1582_08_9_35">una cum sancto Spiritu,</l>
+        <l n="36" type="dimeter_iambicus" xml:id="HY_BA_1582_08_9_36">in sempiterna saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1582</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

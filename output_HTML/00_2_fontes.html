@@ -38,11 +38,65 @@
 
         <h2>Fontes</h2>
 
-            <div class="text">
+        <div class="text">
 
-                <p>Usque adhuc hi fontes, tam manuscripti quam impressi, in catalogo comprehenduntur:</p>
+            <p>Usque adhuc hi fontes, tam manuscripti quam impressi, in catalogo comprehenduntur.</p>
+
+        </div>
+
+        <div class="bib-wrapper">
+
+            <h3>Opera manuscripta</h3>
+            
+            <div class="search-form" style="margin: 0.5rem 0 1.5rem 0; text-align: left;">
+
+                <div class="search-group" style="align-items: flex-start;">
+
+                    <select class="sort-bibliography">
+                        <option value="author">Ordina secundum: Auctorem</option>
+                        <option value="year">Ordina secundum: Annum (ab antiquissimo)</option>
+                        <option value="title">Ordina secundum: Titulum</option>
+                    </select>
+
+                </div>
 
             </div>
+
+            <div class="bib-target" data-source="00_2_manuscripta.json"> <!-- NOME DELL'ARCHIVIO JSON -->
+
+                <p>Opera manuscripta...</p>
+
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="bib-wrapper">
+
+            <h3>Opera typis impressa</h3>
+            
+            <div class="search-form" style="margin: 0.5rem 0 1.5rem 0; text-align: left;">
+
+                <div class="search-group" style="align-items: flex-start;">
+
+                    <select class="sort-bibliography">
+                        <option value="author">Ordina secundum: Auctorem</option>
+                        <option value="year">Ordina secundum: Annum (ab antiquissimo)</option>
+                        <option value="title">Ordina secundum: Titulum</option>
+                    </select>
+
+                </div>
+
+            </div>
+
+            <div class="bib-target" data-source="00_2_impressa.json"> <!-- NOME DELL'ARCHIVIO JSON -->
+
+                <p>Opera typis impressa...</p>
+
+            </div>
+        </div>
+
+        <script src="00_2_fontes.js"></script>
 
     </main>
 

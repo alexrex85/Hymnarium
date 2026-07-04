@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1582_39"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Apostolorum passio</title>
+
+        <author>Ambrosius Mediolanensis</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">In Festo Sanctorum Petri et Pauli, ad Laudes et ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1582</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">In Festo Sanctorum Petri et Pauli, ad Laudes et ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Apostolorum passio</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1582_39_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1582_39_1_1">Apostolorum passio,</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1582_39_1_2">diem sacravit saeculis,</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1582_39_1_3">Petri triumphum nobilem,</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1582_39_1_4">Pauli coronam praeferens.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1582_39_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1582_39_2_5">Coniunxit aequales viros,</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1582_39_2_6">cruor triumphalis necis,</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1582_39_2_7">dum [se] secutos praesules,</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1582_39_2_8">Christi coronavit fides.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1582_39_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1582_39_3_9">Primus Petrus apostolus,</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1582_39_3_10">nec Paulus impar gratia,</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1582_39_3_11">electionis vas sacrae,</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1582_39_3_12">Petri adaequavit fidem.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1582_39_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1582_39_4_13">Verso crucis vestigio,</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1582_39_4_14">Simon honorem dans Deo,</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1582_39_4_15">suspensus ascendit, dati</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1582_39_4_16">non immemor oraculi.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1582_39_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1582_39_5_17">Praecinctus, ut dictum est, senex,</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1582_39_5_18">et elevatus ab altero,</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1582_39_5_19">quo nollet ivit, sed volens</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1582_39_5_20">mortem subegit asperam.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_BA_1582_39_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_BA_1582_39_6_21">Hinc Roma celsum verticem</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_BA_1582_39_6_22">devotionis extulit,</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_BA_1582_39_6_23">fundata tali sanguine,</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_BA_1582_39_6_24">et vate tanto nobili.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_BA_1582_39_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_BA_1582_39_7_25">Tantae per urbis ambitum,</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_BA_1582_39_7_26">stipata tendunt agmina:</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_BA_1582_39_7_27">trinis celebratur viis,</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_BA_1582_39_7_28">festum sacrorum martyrum.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_BA_1582_39_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_BA_1582_39_8_29">Prodire quis mundum putet,</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_BA_1582_39_8_30">concurrere plebem Poli,</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_BA_1582_39_8_31">electa gentium caput,</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_BA_1582_39_8_32">sedes magistri gentium.</l>
+      </lg>
+      <lg n="9" type="tetrastichon_iambicum" xml:id="HY_BA_1582_39_9">
+        <l n="33" type="dimeter_iambicus" xml:id="HY_BA_1582_39_9_33">Gloria tibi Domine,</l>
+        <l n="34" type="dimeter_iambicus" xml:id="HY_BA_1582_39_9_34">gloria Unigenito,</l>
+        <l n="35" type="dimeter_iambicus" xml:id="HY_BA_1582_39_9_35">una cum sancto Spiritu,</l>
+        <l n="36" type="dimeter_iambicus" xml:id="HY_BA_1582_39_9_36">in sempiterna saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1582</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

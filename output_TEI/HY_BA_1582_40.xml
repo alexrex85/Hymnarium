@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1582_40"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Caelorum regi psallite</title>
+
+        <author>Anonymus saec. incerti</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">Sanctae Mariae Magdalenae, ad Laudes et ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1582</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">Sanctae Mariae Magdalenae, ad Laudes et ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Caelorum regi psallite</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1582_40_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1582_40_1_1">Caelorum regi psallite</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1582_40_1_2">sancti iucundo carmine,</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1582_40_1_3">qui noxios non desinit</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1582_40_1_4">convocare ne pereant.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1582_40_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1582_40_2_5">Maria soror Lazari</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1582_40_2_6">multis gravata vitiis</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1582_40_2_7">ad pedes eius corruit,</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1582_40_2_8">est facta miserabilis.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1582_40_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1582_40_3_9">Accessit devotissima</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1582_40_3_10">ingenti cum fiducia,</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1582_40_3_11">magna mittens suspiria,</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1582_40_3_12">repleta Dei gratia.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1582_40_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1582_40_4_13">Pedes rigabat lacrimis</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1582_40_4_14">tergebat atque crinibus,</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1582_40_4_15">unguenta fundens optima,</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1582_40_4_16">plura simul dat oscula.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1582_40_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1582_40_5_17">Quod cernens Simon invidus</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1582_40_5_18">submurmurat interius:</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1582_40_5_19">Propheta, dicens, si foret</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1582_40_5_20">istius acta nosceret.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_BA_1582_40_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_BA_1582_40_6_21">Sed qui de caelo venerat</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_BA_1582_40_6_22">salvare quod perierat,</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_BA_1582_40_6_23">quaerere quod erraverat,</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_BA_1582_40_6_24">flenti seipsum praeparat.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_BA_1582_40_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_BA_1582_40_7_25">Mox sensit eius Maria</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_BA_1582_40_7_26">eloquia dulcissima:</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_BA_1582_40_7_27">Dimitto tibi omnia</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_BA_1582_40_7_28">quae tu patrasti crimina.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_BA_1582_40_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_BA_1582_40_8_29">Sic delinquentes faciant</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_BA_1582_40_8_30">qui salvari desiderant,</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_BA_1582_40_8_31">perpetuum ne pereant</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_BA_1582_40_8_32">sed regna caeli capiant.</l>
+      </lg>
+      <lg n="9" type="tetrastichon_iambicum" xml:id="HY_BA_1582_40_9">
+        <l n="33" type="dimeter_iambicus" xml:id="HY_BA_1582_40_9_33">Gloria tibi Domine,</l>
+        <l n="34" type="dimeter_iambicus" xml:id="HY_BA_1582_40_9_34">gloria Unigenito,</l>
+        <l n="35" type="dimeter_iambicus" xml:id="HY_BA_1582_40_9_35">una cum sancto Spiritu,</l>
+        <l n="36" type="dimeter_iambicus" xml:id="HY_BA_1582_40_9_36">in sempiterna saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1582</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

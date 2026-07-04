@@ -2,7 +2,7 @@ import os
 import re
 from pathlib import Path
 
-# --- registro metrico ---
+# --- registro metrico: da aggiornare se si aggiungono nuovi tipi di strofe! ---
 METRIC_REGISTRY = {
     "Dimetrum iambicum": {
         "lg_type": "tetrastichon_iambicum", 
@@ -64,7 +64,6 @@ def transform_logic(md_content, file_id):
 
     titulus = meta.get('Titulus', '')
 
-    # --- elaborazione delle note ---
     raw_notae = meta.get('Notae', '')
 
     note_items = [
@@ -73,7 +72,6 @@ def transform_logic(md_content, file_id):
         if n.strip()
     ]
 
-    # --- note nel teiHeader ---
     notes_xml = "\n".join(
         [
             f'        <note type="commentarius">{n}</note>'
@@ -81,7 +79,6 @@ def transform_logic(md_content, file_id):
         ]
     )
 
-    # --- note nel front ---
     front_notes_xml = "\n".join(
         [
             f'      <p type="notae">{n}</p>'
@@ -89,7 +86,6 @@ def transform_logic(md_content, file_id):
         ]
     )
 
-    # --- teiHeader ---
     header = f"""  <teiHeader>
 
     <fileDesc>
@@ -134,7 +130,6 @@ def transform_logic(md_content, file_id):
 
   </teiHeader>"""
 
-    # --- body poetico ---
     body_text = parts[2].strip()
 
     stanzas = re.split(r'\n\s*\n', body_text)
@@ -187,7 +182,6 @@ def transform_logic(md_content, file_id):
             + "\n      </lg>"
         )
 
-    # --- composizione finale TEI ---
     return f"""<?xml version="1.0" encoding="UTF-8"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0"

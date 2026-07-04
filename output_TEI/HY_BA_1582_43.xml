@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1582_43"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Gaude mater pietatis in valle gementium</title>
+
+        <author>Iacobus Aegidius Setabitanus</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Tetrametrum trochaicum catalepticum</note>
+
+        <note type="commentarius">Transfiguratio Domini, ad Laudes et ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1582</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">Transfiguratio Domini, ad Laudes et ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Gaude mater pietatis in valle gementium</head>
+
+      <lg n="1" type="tristichon_trochaicum" xml:id="HY_BA_1582_43_1">
+        <l n="1" type="dimeter_trochaicus" xml:id="HY_BA_1582_43_1_1">Gaude mater pietatis</l>
+        <l n="2" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1582_43_1_2">in valle gementium</l>
+        <l n="3" type="dimeter_trochaicus" xml:id="HY_BA_1582_43_1_3">pro ducatu dignitatis</l>
+        <l n="4" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1582_43_1_4">Christi regis omnium</l>
+        <l n="5" type="dimeter_trochaicus" xml:id="HY_BA_1582_43_1_5">quo dilecta praedotaris</l>
+        <l n="6" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1582_43_1_6">in culmine montium.</l>
+      </lg>
+      <lg n="2" type="tristichon_trochaicum" xml:id="HY_BA_1582_43_2">
+        <l n="7" type="dimeter_trochaicus" xml:id="HY_BA_1582_43_2_7">Ubi patres praecellentes</l>
+        <l n="8" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1582_43_2_8">in mortali corpore</l>
+        <l n="9" type="dimeter_trochaicus" xml:id="HY_BA_1582_43_2_9">admirantes, assistentes,</l>
+        <l n="10" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1582_43_2_10">de tam grandi munere,</l>
+        <l n="11" type="dimeter_trochaicus" xml:id="HY_BA_1582_43_2_11">divinum lumen cernentes,</l>
+        <l n="12" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1582_43_2_12">in creato lumine.</l>
+      </lg>
+      <lg n="3" type="tristichon_trochaicum" xml:id="HY_BA_1582_43_3">
+        <l n="13" type="dimeter_trochaicus" xml:id="HY_BA_1582_43_3_13">Quod vertices prophetarum</l>
+        <l n="14" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1582_43_3_14">praecolunt devotius</l>
+        <l n="15" type="dimeter_trochaicus" xml:id="HY_BA_1582_43_3_15">Moyses lumen praeclarum</l>
+        <l n="16" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1582_43_3_16">legis datae caelitus,</l>
+        <l n="17" type="dimeter_trochaicus" xml:id="HY_BA_1582_43_3_17">et Helias iubar magnum</l>
+        <l n="18" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1582_43_3_18">zelo Dei fervidus.</l>
+      </lg>
+      <lg n="4" type="tristichon_trochaicum" xml:id="HY_BA_1582_43_4">
+        <l n="19" type="dimeter_trochaicus" xml:id="HY_BA_1582_43_4_19">Praesentia Deitatis</l>
+        <l n="20" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1582_43_4_20">declaratur provide</l>
+        <l n="21" type="dimeter_trochaicus" xml:id="HY_BA_1582_43_4_21">in audita voce Patris</l>
+        <l n="22" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1582_43_4_22">de supremo germine,</l>
+        <l n="23" type="dimeter_trochaicus" xml:id="HY_BA_1582_43_4_23">et Spiritu veritatis</l>
+        <l n="24" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1582_43_4_24">forma nubis lucidae.</l>
+      </lg>
+      <lg n="5" type="tristichon_trochaicum" xml:id="HY_BA_1582_43_5">
+        <l n="25" type="dimeter_trochaicus" xml:id="HY_BA_1582_43_5_25">Genitori, genitoque</l>
+        <l n="26" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1582_43_5_26">laus et iubilatio,</l>
+        <l n="27" type="dimeter_trochaicus" xml:id="HY_BA_1582_43_5_27">salus, honor, virtus quoque</l>
+        <l n="28" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1582_43_5_28">sit, et benedictio</l>
+        <l n="29" type="dimeter_trochaicus" xml:id="HY_BA_1582_43_5_29">procedenti ab utroque</l>
+        <l n="30" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1582_43_5_30">compar sit laudatio. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1582</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Tetrametrum trochaicum catalepticum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

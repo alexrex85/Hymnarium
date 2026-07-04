@@ -1,0 +1,644 @@
+[
+	{
+		"id": "http://zotero.org/users/9205688/items/CVZNAFN7",
+		"type": "book",
+		"publisher": "Société des Bollandistes",
+		"publisher-place": "Bruxelles",
+		"title": "Repertorium hymnologicum",
+		"title-short": "RH 5",
+		"URL": "https://archive.org/details/repertoriumhymn05chev",
+		"volume": "5",
+		"author": [
+			{
+				"family": "Chevalier",
+				"given": "Ulysse"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1921"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/K25P3GPH",
+		"type": "book",
+		"publisher": "Imprimerie F. Ceuterick",
+		"publisher-place": "Bruxelles",
+		"title": "Repertorium hymnologicum",
+		"title-short": "RH 4",
+		"URL": "https://archive.org/details/repertoriumhymno04chev",
+		"volume": "4",
+		"author": [
+			{
+				"family": "Chevalier",
+				"given": "Ulysse"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1910"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/M4YSL7E3",
+		"type": "book",
+		"publisher": "Imprimerie Polleunis & Ceuterick",
+		"publisher-place": "Louvain",
+		"title": "Repertorium hymnologicum",
+		"title-short": "RH 3",
+		"URL": "https://archive.org/details/repertoriumhymn03chev",
+		"volume": "3",
+		"author": [
+			{
+				"family": "Chevalier",
+				"given": "Ulysse"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1902"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/GMV77Z5Z",
+		"type": "book",
+		"publisher": "Imprimerie Polleunis & Ceuterick",
+		"publisher-place": "Louvain",
+		"title": "Repertorium hymnologicum",
+		"title-short": "RH 2",
+		"URL": "https://archive.org/details/repertoriumhymn02chev",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Chevalier",
+				"given": "Ulysse"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1897"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/W7HKS7JK",
+		"type": "book",
+		"publisher": "Imprimerie Lefèvre",
+		"publisher-place": "Louvain",
+		"title": "Repertorium hymnologicum",
+		"title-short": "RH 1",
+		"URL": "https://archive.org/details/repertoriumhymn01chev",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Chevalier",
+				"given": "Ulysse"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1892"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/RVWTHDCW",
+		"type": "book",
+		"number-of-volumes": "3",
+		"publisher": "Sumptibus Herder",
+		"publisher-place": "Friburgi Brisgoviae",
+		"title": "Hymni Latini medii aevi – Tomus I: Hymni ad Deum et Angelos",
+		"title-short": "HLMA 1",
+		"URL": "https://archive.org/details/hymnilatinimedii01mone",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Mone",
+				"given": "Franz Josef"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1853"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/XJHUBPAK",
+		"type": "book",
+		"number-of-volumes": "3",
+		"publisher": "Sumptibus Herder",
+		"publisher-place": "Friburgi Brisgoviae",
+		"title": "Hymni Latini medii aevi – Tomus II: Hymni ad B. V. Mariam",
+		"title-short": "HLMA 2",
+		"URL": "https://archive.org/details/hymnilatinimedii02mone",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Mone",
+				"given": "Franz Josef"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1854"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/7VQ84QGB",
+		"type": "book",
+		"number-of-volumes": "3",
+		"publisher": "Sumptibus Herder",
+		"publisher-place": "Friburgi Brisgoviae",
+		"title": "Hymni Latini medii aevi – Tomus III: Hymni ad Sanctos",
+		"title-short": "HLMA 3",
+		"URL": "https://archive.org/details/hymnilatinimedii03mone",
+		"volume": "3",
+		"author": [
+			{
+				"family": "Mone",
+				"given": "Franz Josef"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1855"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/4X2R887K",
+		"type": "book",
+		"number-of-volumes": "2",
+		"publisher": "Erich Schmidt Verlag",
+		"publisher-place": "Berlin",
+		"title": "Die Annalen der lateinischen Hymnendichtung: ein Handbuch. I. Die lateinischen Hymnen bis zum Ende des 11. Jahrhunderts",
+		"title-short": "Die Annalen der lateinischen Hymnendichtung I",
+		"URL": "https://mega.nz/file/py9FnDjY#c9_DNN4yi36z4YmLCOZqVCaDtPbYG4NHiZyb3U-aQ3I",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Szövérffy",
+				"given": "Joseph"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1964"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/Z5PSB2J2",
+		"type": "book",
+		"number-of-volumes": "2",
+		"publisher": "Erich Schmidt Verlag",
+		"publisher-place": "Berlin",
+		"title": "Die Annalen der lateinischen Hymnendichtung: ein Handbuch. II. Die lateinischen Hymnen vom Ende des 11. Jahrhunderts bis zum Ausgang des Mittelalters",
+		"title-short": "Die Annalen der lateinischen Hymnendichtung II",
+		"URL": "https://mega.nz/file/Q7VzkbwZ#y1frfxhPWse7Fxc5UjEApFVIOhYjoB3dauB0zh7-mBc",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Szövérffy",
+				"given": "Joseph"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1964"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/E7ZLRCGD",
+		"type": "webpage",
+		"container-title": "USUARIUM",
+		"note": "Research Group of Liturgical History",
+		"publisher": "Eötvös Loránd University",
+		"publisher-place": "Budapast",
+		"title": "USUARIUM: A Digital Library and Database for the Study of Latin Liturgical History in the Middle Ages and Early Modern Period",
+		"title-short": "USUARIUM",
+		"URL": "https://usuarium.elte.hu/",
+		"author": [
+			{
+				"family": "Földváry",
+				"given": "Miklós István"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/IU8PWXMZ",
+		"type": "book",
+		"publisher": "Société des Bollandistes",
+		"publisher-place": "Bruxelles",
+		"title": "Repertorium hymnologicum",
+		"title-short": "RH 6",
+		"URL": "https://archive.org/details/repertoriumhymno06chev",
+		"volume": "6",
+		"author": [
+			{
+				"family": "Chevalier",
+				"given": "Ulysse"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1920"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/KARXVMF8",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XI: Hymni inediti. Liturgische Hymnen des Mittelalters aus Handschriften und Wiegendrucken. Zweite Folge",
+		"title-short": "AHMA 11",
+		"URL": "http://www.archive.org/stream/analectahymnica11drevuoft/",
+		"volume": "11",
+		"editor": [
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1891"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/GMD67J7W",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XV: Pia dictamina. Reimgebete und Leselieder des Mittelalters. Erste Folge. Aus Handschriften und Wiegendrucken",
+		"title-short": "AHMA 15",
+		"URL": "http://www.archive.org/stream/analectahymnica15drevuoft/",
+		"volume": "15",
+		"editor": [
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1893"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/2B7RP8G9",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XIV: Hymnarius Severinianus. Das Hymnar der Abtei S. Severin in Neapel nahc den Codices Vaticanus 7172 und Parisinus 1092",
+		"title-short": "AHMA 14",
+		"URL": "http://www.archive.org/stream/analectahymnicam14drev/",
+		"volume": "14",
+		"editor": [
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1893"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/GY4NC97W",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XIII: Historiae rhythmicae. Liturgische Reimofficien des Mittelalters. Zweite Folge. Aus Handschriften und Wiegendrucken",
+		"title-short": "AHMA 13",
+		"URL": "http://www.archive.org/stream/analectahymnica13drevuoft/",
+		"volume": "13",
+		"editor": [
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1892"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/FJ3RJGM9",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XII: Hymni inediti. Liturgische Hymnen des Mittelalters aus Handschriften und Wiegendrucken. Dritte Folge",
+		"title-short": "AHMA 12",
+		"URL": "http://www.archive.org/stream/analectahymnica12drevuoft/",
+		"volume": "12",
+		"editor": [
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1892"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/S2AFUW3U",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "Fues's Verlag",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. X: Sequentiae ineditae. Liturgische Prosen des Mittelalters aus Handschriften und Wiegenbrucken. Dritte Folge",
+		"title-short": "AHMA 10",
+		"URL": "http://www.archive.org/stream/analectahymnica10drevuoft/",
+		"volume": "10",
+		"editor": [
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1891"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/PRMI7AKE",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "Fues's Verlag",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. IX: Sequentiae ineditae. Liturgische Prosen des Mittelalters aus Handschriften und Wiegenbrucken. Zweite Folge",
+		"title-short": "AHMA 9",
+		"URL": "http://www.archive.org/stream/analectahymnica09drevuoft/",
+		"volume": "9",
+		"editor": [
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1890"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/87QBXTGS",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "Fues's Verlag",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. VIII: Sequentiae ineditae. Liturgische Prosen des Mittelalters aus Handschriften und Wiegenbrucken. Erste Folge",
+		"title-short": "AHMA 8",
+		"URL": "http://www.archive.org/stream/analectahymnica08drevuoft/",
+		"volume": "8",
+		"editor": [
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1890"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/HBWTH3JS",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "Fues's Verlag",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. VII: Prosarium Lemovicense. Die Prosen der Abtei St. Martial zu Limoges aus Troparien des 10., 11. und 12. Jahrhunderts",
+		"title-short": "AHMA 7",
+		"URL": "http://www.archive.org/stream/analectahymnica07drevuoft/",
+		"volume": "7",
+		"editor": [
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1889"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/ZK2WKRUC",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "Fues's Verlag",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. VI: Udalricus Wessofontanus. Ulrich Stöcklins von Rottach Abts zu Wessobrunn 1438-1443 Reimgebe und Leselieder mit Ausschuss der Psalterien",
+		"title-short": "AHMA 6",
+		"URL": "http://www.archive.org/stream/analectahymnica06drevuoft/",
+		"volume": "6",
+		"editor": [
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1889"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/KJJDMLMY",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "Fues's Verlag",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. V: Historiae rhythmicae. Liturgische Reimofficien des Mittelalters. Erste Folge. Aus Handschriften und Wiegendrucken",
+		"title-short": "AHMA 5",
+		"URL": "http://www.archive.org/stream/analectahymnica05drevuoft",
+		"volume": "5",
+		"editor": [
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1889"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/9GWPLIAH",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "Fues's Verlag",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. IV: Hymni inediti. Liturgische Hymnen des Mittelalters aus handschriftlichen Breviarien, Antiphonalien und Processionalien",
+		"title-short": "AHMA 4",
+		"URL": "http://www.archive.org/stream/analectahymnica04drevuoft",
+		"volume": "4",
+		"editor": [
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1888"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/ILHKC6GA",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "Fues's Verlag",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. III: Conradus Gemnicensis. Konrads von Haimburg und seiner Nachahmer, Alberts von Prag und Ulrichs von WessobrunnReimgebete und Leselieder",
+		"title-short": "AHMA 3",
+		"URL": "http://www.archive.org/stream/analectahymnica03drevuoft",
+		"volume": "3",
+		"editor": [
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1888"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/QYHYJN58",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "Fues's Verlag",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. II: Hymnarius Moissiacensis. Das Hymnar der Abtei Moissac im 10. Jahrhundert. Nach einer Handschrift der Rossiana. Im Anhange: a. Carmina scholarium Campensium. b. Cantiones Vissegradenses",
+		"title-short": "AHMA 2",
+		"URL": "http://www.archive.org/stream/analectahymnica02drevuoft",
+		"volume": "2",
+		"editor": [
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1888"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/EVAHM8DA",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "Fues's Verlag",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. I: Cantiones Bohemicae. Leiche, Lieder und Rufe des 13., 14. und 15. Jahrhunderts nach Handschriften aus Prag, Jistebnicz, Wittingau, Hohenfurt und Tegernsee",
+		"title-short": "AHMA 1",
+		"URL": "http://www.archive.org/stream/analectahymnica01drevuoft",
+		"volume": "1",
+		"editor": [
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1886"
+				]
+			]
+		}
+	}
+]

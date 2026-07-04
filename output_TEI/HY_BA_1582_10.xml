@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1582_10"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Christe qui lux es et dies</title>
+
+        <author>Anonymus saec. incerti</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">Ad Completorium</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1582</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">Ad Completorium</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Christe qui lux es et dies</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1582_10_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1582_10_1_1">Christe qui lux es, et dies,</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1582_10_1_2">noctis tenebras detegis:</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1582_10_1_3">lucifer lucem proferens,</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1582_10_1_4">vitam beatam tribue.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1582_10_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1582_10_2_5">Precamur sancte Domine,</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1582_10_2_6">defende nos in hac nocte:</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1582_10_2_7">sit nobis in te requies:</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1582_10_2_8">quietam noctem tribue.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1582_10_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1582_10_3_9">Ne gravis somnus irruat,</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1582_10_3_10">ne hostis nos surripiat:</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1582_10_3_11">ne caro illi consentiat:</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1582_10_3_12">et ne nos reos statuat.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1582_10_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1582_10_4_13">Oculi somnum capiant,</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1582_10_4_14">cor ad te semper vigilet:</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1582_10_4_15">dextera tua protegat,</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1582_10_4_16">famulos qui te diligunt.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1582_10_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1582_10_5_17">Defensor noster aspice,</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1582_10_5_18">insidiantes reprime:</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1582_10_5_19">guberna tuos famulos,</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1582_10_5_20">quos sanguine mercatus es.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_BA_1582_10_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_BA_1582_10_6_21">Memento nostri Domine,</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_BA_1582_10_6_22">in isto gravi corpore:</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_BA_1582_10_6_23">qui es defensor animae,</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_BA_1582_10_6_24">adesto nobis Domine.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_BA_1582_10_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_BA_1582_10_7_25">Non sis oblitus Domine,</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_BA_1582_10_7_26">orationes pauperum:</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_BA_1582_10_7_27">ad te clamamus Domine,</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_BA_1582_10_7_28">noli nos derelinquere.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_BA_1582_10_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_BA_1582_10_8_29">Tu Deus sancte Domine,</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_BA_1582_10_8_30">Christe Salvator omnium:</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_BA_1582_10_8_31">in manus tuas Domine,</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_BA_1582_10_8_32">commendo meum spiritum.</l>
+      </lg>
+      <lg n="9" type="tetrastichon_iambicum" xml:id="HY_BA_1582_10_9">
+        <l n="33" type="dimeter_iambicus" xml:id="HY_BA_1582_10_9_33">Deo Patri sit gloria,</l>
+        <l n="34" type="dimeter_iambicus" xml:id="HY_BA_1582_10_9_34">eiusque soli Filio:</l>
+        <l n="35" type="dimeter_iambicus" xml:id="HY_BA_1582_10_9_35">cum Spiritu paracleto,</l>
+        <l n="36" type="dimeter_iambicus" xml:id="HY_BA_1582_10_9_36">et nunc, et in perpetuum. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1582</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

@@ -6,7 +6,6 @@ def extract_tei_meta(root, ns):
 
     meta = {}
 
-    # --- titolo e autore ---
     title_el = root.find(
         ".//tei:titleStmt/tei:title",
         ns
@@ -29,7 +28,6 @@ def extract_tei_meta(root, ns):
         else "Anonymus"
     )
 
-    # --- note multiple dal front ---
     note_elements = root.findall(
         ".//tei:front/tei:p[@type='notae']",
         ns
@@ -41,7 +39,6 @@ def extract_tei_meta(root, ns):
         if n.text and n.text.strip()
     ]
 
-    # --- fonte e anno ---
     fons_el = root.find(
         ".//tei:sourceDesc//tei:title",
         ns
@@ -64,7 +61,6 @@ def extract_tei_meta(root, ns):
         else ""
     )
 
-    # --- metro ---
     metrum_el = root.find(
         ".//tei:notesStmt/tei:note[@type='metrum']",
         ns
@@ -107,7 +103,6 @@ def tei_to_html_logic(xml_content):
 
     meta = extract_tei_meta(root, ns)
 
-    # --- strofe e versi ---
     html_stanzas = []
 
     lg_elements = root.findall(
@@ -169,7 +164,6 @@ def tei_to_html_logic(xml_content):
 
         html_stanzas.append(stanza_html)
 
-    # --- note HTML multiple ---
     html_notes = "\n".join(
         [
             f'            <p class="poem-notes"><em>{nota}</em></p>'
@@ -177,7 +171,6 @@ def tei_to_html_logic(xml_content):
         ]
     )
 
-    # --- HTML finale ---
     html_template = f"""<!DOCTYPE html>
 
 <html lang="la">

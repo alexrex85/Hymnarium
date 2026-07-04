@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1582_23"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Optatus votis omnium</title>
+
+        <author>Anonymus saec. incerti</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">In Vigilia Ascensionis, ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1582</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">In Vigilia Ascensionis, ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Optatus votis omnium</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1582_23_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1582_23_1_1">Optatus votis omnium</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1582_23_1_2">sacratus illuxit dies:</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1582_23_1_3">quo Christus mundi spes, Deus</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1582_23_1_4">ascendit coelos arduos.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1582_23_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1582_23_2_5">Scandens in altum Dominus,</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1582_23_2_6">sedem recurrit propriam:</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1582_23_2_7">gavisa sunt coeli regna,</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1582_23_2_8">reditu Unigeniti.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1582_23_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1582_23_3_9">Magni triumphum praelii,</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1582_23_3_10">mundi perempto principe,</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1582_23_3_11">Patris praesentat vultibus</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1582_23_3_12">victricis carnis gloriam.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1582_23_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1582_23_4_13">Et elevatus nubibus,</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1582_23_4_14">fecitque spem credentibus:</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1582_23_4_15">et paradisum aperit,</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1582_23_4_16">quem protoplasti clauserant.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1582_23_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1582_23_5_17">O grande cunctis gaudium,</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1582_23_5_18">quod partus almae Virginis,</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1582_23_5_19">post sputa, flagra, post crucem,</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1582_23_5_20">sedi paternae iungitur.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_BA_1582_23_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_BA_1582_23_6_21">Agamus ergo gratias</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_BA_1582_23_6_22">nostrae salutis vindici:</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_BA_1582_23_6_23">nostrum corpus, quod vexerit</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_BA_1582_23_6_24">sublimem ad coeli regiam.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_BA_1582_23_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_BA_1582_23_7_25">Sit nobis cum coelestibus</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_BA_1582_23_7_26">commune manens gaudium:</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_BA_1582_23_7_27">quod semet illis obtulit,</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_BA_1582_23_7_28">nobisque se non abstulit.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_BA_1582_23_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_BA_1582_23_8_29">Nunc provocatis actibus</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_BA_1582_23_8_30">Christum operiri nos decet:</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_BA_1582_23_8_31">vitaque tali vivere,</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_BA_1582_23_8_32">quae possit coelos scandere.</l>
+      </lg>
+      <lg n="9" type="tetrastichon_iambicum" xml:id="HY_BA_1582_23_9">
+        <l n="33" type="dimeter_iambicus" xml:id="HY_BA_1582_23_9_33">Gloria tibi Domine,</l>
+        <l n="34" type="dimeter_iambicus" xml:id="HY_BA_1582_23_9_34">qui scandis super sydera,</l>
+        <l n="35" type="dimeter_iambicus" xml:id="HY_BA_1582_23_9_35">cum Patre et sancto Spiritu</l>
+        <l n="36" type="dimeter_iambicus" xml:id="HY_BA_1582_23_9_36">in sempiterna saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1582</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

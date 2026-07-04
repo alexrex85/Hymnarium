@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_BA_1582_51">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_BA_1582_51_1">
+        <l n="1" xml:id="HY_BA_1582_51_1_1">haec vera christi famula</l>
+        <l n="2" xml:id="HY_BA_1582_51_1_2">inventa sine macula</l>
+        <l n="3" xml:id="HY_BA_1582_51_1_3">deum amavit sedula</l>
+        <l n="4" xml:id="HY_BA_1582_51_1_4">cum quo regnat per saecula</l>
+      </lg>
+      <lg n="2" xml:id="HY_BA_1582_51_2">
+        <l n="5" xml:id="HY_BA_1582_51_2_5">igne flagrabat fidei</l>
+        <l n="6" xml:id="HY_BA_1582_51_2_6">amore succensa dei</l>
+        <l n="7" xml:id="HY_BA_1582_51_2_7">signis effulgens variis</l>
+        <l n="8" xml:id="HY_BA_1582_51_2_8">coeli potitur praemiis</l>
+      </lg>
+      <lg n="3" xml:id="HY_BA_1582_51_3">
+        <l n="9" xml:id="HY_BA_1582_51_3_9">haec de valle miseriae</l>
+        <l n="10" xml:id="HY_BA_1582_51_3_10">in patriam laetitiae</l>
+        <l n="11" xml:id="HY_BA_1582_51_3_11">ad summum regem gloriae</l>
+        <l n="12" xml:id="HY_BA_1582_51_3_12">laeta pervenit hodie</l>
+      </lg>
+      <lg n="4" xml:id="HY_BA_1582_51_4">
+        <l n="13" xml:id="HY_BA_1582_51_4_13">laus uni deo et trino</l>
+        <l n="14" xml:id="HY_BA_1582_51_4_14">qui nos beatae precibus</l>
+        <l n="15" xml:id="HY_BA_1582_51_4_15">peracto vitae termino</l>
+        <l n="16" xml:id="HY_BA_1582_51_4_16">coniungat caeli civibus amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

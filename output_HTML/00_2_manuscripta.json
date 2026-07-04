@@ -1,0 +1,28 @@
+[
+	{
+		"id": "http://zotero.org/users/9205688/items/UHYU73QY",
+		"type": "manuscript",
+		"archive": "Biblioteca e Archivio del Capitolo Metropolitano di Milano",
+		"archive_location": "Ms. II-D-2-30",
+		"title": "Manuale Ambrosianum (BACMi, Ms. II-D-2-30)",
+		"URL": "https://manus.iccu.sbn.it/cnmd/0000269552",
+		"author": [
+			{
+				"literal": "Scriptor ignotus"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/CXTKZ3SB",
+		"type": "manuscript",
+		"archive": "Biblioteca e Archivio del Capitolo Metropolitano di Milano",
+		"archive_location": "Ms. II-D-2-28",
+		"title": "Beroldus novus (BACMi, Ms. II-D-2-28)",
+		"URL": "https://manus.iccu.sbn.it/cnmd/0000269412",
+		"author": [
+			{
+				"literal": "Scriptor ignotus"
+			}
+		]
+	}
+]

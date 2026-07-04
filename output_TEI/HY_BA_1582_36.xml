@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1582_36"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Regi polorum debitas</title>
+
+        <author>Anonymus saec. incerti</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">Sancti Dionysii Episcopi et Confessoris, ad Laudes et ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1582</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">Sancti Dionysii Episcopi et Confessoris, ad Laudes et ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Regi polorum debitas</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1582_36_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1582_36_1_1">Regi polorum debitas</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1582_36_1_2">cuncti canamus gratias,</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1582_36_1_3">opem aulae qui contulit</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1582_36_1_4">Mediolani conditae.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1582_36_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1582_36_2_5">Quae pietatis munere</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1582_36_2_6">bonos alendo reficit,</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1582_36_2_7">sancto munita Spiritu</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1582_36_2_8">fide coruscans fulgida.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1582_36_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1582_36_3_9">Grex ille acceptus Deo,</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1582_36_3_10">nutritus a pastoribus,</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1582_36_3_11">vitae perennis pascua</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1582_36_3_12">dives sumendo permanet.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1582_36_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1582_36_4_13">Magno quem auxit dogmate</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1582_36_4_14">confessor Dionysius,</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1582_36_4_15">fidem tenens catholicam</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1582_36_4_16">turbam pavit credentium.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1582_36_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1582_36_5_17">Saeva eundem concio</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1582_36_5_18">arrianorum comprimit:</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1582_36_5_19">valvas tenentes delubri</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1582_36_5_20">quaerunt athletam carpere.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_BA_1582_36_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_BA_1582_36_6_21">At ille Christum obsecrans,</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_BA_1582_36_6_22">vigil in aula extitit:</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_BA_1582_36_6_23">divina cum orthodoxis</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_BA_1582_36_6_24">patrat libans officia.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_BA_1582_36_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_BA_1582_36_7_25">Tunc palatini comites</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_BA_1582_36_7_26">vi rapuerunt praesules,</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_BA_1582_36_7_27">Eusebium, Dionysium,</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_BA_1582_36_7_28">cum iisdem et Luciferum.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_BA_1582_36_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_BA_1582_36_8_29">Sanctos precemur sedule,</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_BA_1582_36_8_30">Christi captos pro nomine:</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_BA_1582_36_8_31">sacris ut suis meritis,</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_BA_1582_36_8_32">coeli fruamur gaudiis.</l>
+      </lg>
+      <lg n="9" type="tetrastichon_iambicum" xml:id="HY_BA_1582_36_9">
+        <l n="33" type="dimeter_iambicus" xml:id="HY_BA_1582_36_9_33">Gloria tibi Domine,</l>
+        <l n="34" type="dimeter_iambicus" xml:id="HY_BA_1582_36_9_34">gloria Unigenito,</l>
+        <l n="35" type="dimeter_iambicus" xml:id="HY_BA_1582_36_9_35">una cum sancto Spiritu,</l>
+        <l n="36" type="dimeter_iambicus" xml:id="HY_BA_1582_36_9_36">in sempiterna saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1582</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

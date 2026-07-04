@@ -1,0 +1,1027 @@
+[
+	{
+		"id": "http://zotero.org/users/9205688/items/R26ENH8X",
+		"type": "book",
+		"collection-number": "4",
+		"collection-title": "Monumenta Liturgica Piana",
+		"publisher": "Libreria Editrice Vaticana",
+		"publisher-place": "Città del Vaticano",
+		"title": "Breviarium Romanum. Editio typica (1961 – Totum). Edizione anastatica e Introduzione",
+		"title-short": "BR 1961",
+		"editor": [
+			{
+				"family": "Sodi",
+				"given": "Manlio"
+			},
+			{
+				"family": "Toniolo",
+				"given": "Alessandro"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/DHZM7RX3",
+		"type": "book",
+		"collection-number": "2",
+		"collection-title": "Monumenta Veteris Liturgiae Ambrosianae",
+		"publisher": "Hoepli",
+		"publisher-place": "Milano",
+		"title": "Manuale Ambrosianum ex codice saec. XI olim in usum canonicae Vallis Travaliae. Pars prima: Psalterium et Kalendarium",
+		"title-short": "ManAmbr I",
+		"URL": "https://archive.org/details/manualeambrosian02cath/",
+		"editor": [
+			{
+				"family": "Magistretti",
+				"given": "Marco"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1905"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/EWBLD6FE",
+		"type": "book",
+		"collection-number": "3",
+		"collection-title": "Monumenta Veteris Liturgiae Ambrosianae",
+		"publisher": "Hoepli",
+		"publisher-place": "Milano",
+		"title": "Manuale Ambrosianum ex codice saec. XI olim in usum canonicae Vallis Travaliae. Pars altera",
+		"title-short": "ManAmbr II",
+		"URL": "https://archive.org/details/manualeambrosian03cath/",
+		"editor": [
+			{
+				"family": "Magistretti",
+				"given": "Marco"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1904"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/URDURF4W",
+		"type": "book",
+		"number-of-volumes": "4",
+		"publisher": "Sumptibus et typis L. F. Cogliati",
+		"publisher-place": "Mediolani",
+		"title": "Breviarium Ambrosianum S. Carolo Archiepiscopo editum Bartholomæo Carolo Comite Romilli Archiepiscopo impressum denuo recusum – Pars aestiva II",
+		"title-short": "BA 1896 IV",
+		"URL": "https://books.google.it/books?id=d_BxVvEhTDIC&newbks=1&newbks_redir=0&hl=it&redir_esc=y",
+		"volume": "4",
+		"author": [
+			{
+				"literal": "Archidioecesis Mediolanensis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1896"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/AKMH6L5X",
+		"type": "book",
+		"number-of-volumes": "4",
+		"publisher": "Sumptibus et typis L. F. Cogliati",
+		"publisher-place": "Mediolani",
+		"title": "Breviarium Ambrosianum S. Carolo Archiepiscopo editum Bartholomæo Carolo Comite Romilli Archiepiscopo impressum denuo recusum – Pars aestiva I",
+		"title-short": "BA 1896 III",
+		"URL": "https://books.google.it/books?id=QLriU73-IkkC&newbks=1&newbks_redir=0&hl=it&redir_esc=y",
+		"volume": "3",
+		"author": [
+			{
+				"literal": "Archidioecesis Mediolanensis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1896"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/3JJMYQZS",
+		"type": "book",
+		"number-of-volumes": "4",
+		"publisher": "Sumptibus et typis L. F. Cogliati",
+		"publisher-place": "Mediolani",
+		"title": "Breviarium Ambrosianum S. Carolo Archiepiscopo editum Bartholomæo Carolo Comite Romilli Archiepiscopo impressum denuo recusum – Pars hyemalis II",
+		"title-short": "BA 1896 II",
+		"URL": "https://books.google.it/books?id=ZLcji3VVH-YC&newbks=1&newbks_redir=0&hl=it&redir_esc=y",
+		"volume": "2",
+		"author": [
+			{
+				"literal": "Archidioecesis Mediolanensis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1896"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/KKA7KGHD",
+		"type": "book",
+		"number-of-volumes": "4",
+		"publisher": "Sumptibus et typis L. F. Cogliati",
+		"publisher-place": "Mediolani",
+		"title": "Breviarium Ambrosianum S. Carolo Archiepiscopo editum Bartholomæo Carolo Comite Romilli Archiepiscopo impressum denuo recusum – Pars hyemalis I",
+		"title-short": "BA 1896 I",
+		"URL": "https://books.google.it/books?id=r0gNR_4bh8cC&newbks=1&newbks_redir=0&hl=it&redir_esc=y",
+		"volume": "1",
+		"author": [
+			{
+				"literal": "Archidioecesis Mediolanensis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1896"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/SW9LIHEZ",
+		"type": "book",
+		"number-of-volumes": "4",
+		"publisher": "Typis H. Dessain – Apud Fratres Benziger",
+		"publisher-place": "Mechliniae – Neo Eboraci – Cincinnati – Chicago",
+		"title": "Breviarium Romanum ex decreto Sacrosancti Concilii Tridentini restitutum S. Pii V Pontificis Maximi jussu editum, Clementis VIII, Urbani VIII et Leonis XIII auctoritate recognitum – IV: Pars autumnalis",
+		"title-short": "BR 1906 IV",
+		"URL": "https://archive.org/details/breviariumromanu04cath_0/",
+		"volume": "4",
+		"author": [
+			{
+				"literal": "Ecclesia Romana"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1906"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/WE7JE32X",
+		"type": "book",
+		"number-of-volumes": "4",
+		"publisher": "Typis H. Dessain – Apud Fratres Benziger",
+		"publisher-place": "Mechliniae – Neo Eboraci – Cincinnati – Chicago",
+		"title": "Breviarium Romanum ex decreto Sacrosancti Concilii Tridentini restitutum S. Pii V Pontificis Maximi jussu editum, Clementis VIII, Urbani VIII et Leonis XIII auctoritate recognitum – III: Pars aestiva",
+		"title-short": "BR 1906 III",
+		"URL": "https://archive.org/details/breviariumromanu03cath_0/",
+		"volume": "3",
+		"author": [
+			{
+				"literal": "Ecclesia Romana"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1906"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/EPXCY9L8",
+		"type": "book",
+		"number-of-volumes": "4",
+		"publisher": "Typis H. Dessain – Apud Fratres Benziger",
+		"publisher-place": "Mechliniae – Neo Eboraci – Cincinnati – Chicago",
+		"title": "Breviarium Romanum ex decreto Sacrosancti Concilii Tridentini restitutum S. Pii V Pontificis Maximi jussu editum, Clementis VIII, Urbani VIII et Leonis XIII auctoritate recognitum – I: Pars hiemalis",
+		"title-short": "BR 1906 I",
+		"URL": "https://archive.org/details/breviariumromanu01cath_0/",
+		"volume": "1",
+		"author": [
+			{
+				"literal": "Ecclesia Romana"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1906"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/HFA4N8Y7",
+		"type": "book",
+		"number-of-volumes": "4",
+		"publisher": "Typis H. Dessain – Apud Fratres Benziger",
+		"publisher-place": "Mechliniae – Neo Eboraci – Cincinnati – Chicago",
+		"title": "Breviarium Romanum ex decreto Sacrosancti Concilii Tridentini restitutum S. Pii V Pontificis Maximi jussu editum, Clementis VIII, Urbani VIII et Leonis XIII auctoritate recognitum – II: Pars verna",
+		"title-short": "BR 1906 II",
+		"URL": "https://archive.org/details/breviariumromanu02cath_0",
+		"volume": "2",
+		"author": [
+			{
+				"literal": "Ecclesia Romana"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1906"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/HMUFF7FC",
+		"type": "book",
+		"number-of-volumes": "4",
+		"publisher": "Typis Joannis Bernardonii",
+		"publisher-place": "Mediolani",
+		"title": "Breviarium Ambrosianum S. Carolo Archiepiscopo editum, Carolo Cajetano Cardinali Gaisruchio denuo impressum – Pars hyemalis",
+		"title-short": "BA 1830 IV",
+		"URL": "http://books.google.com/books/download/Breviarium_Ambrosianum.pdf?id=EMUHAAAAQAAJ&hl=it&output=pdf&sig=ACfU3U2YNGQBqBr17bOj0E581Ggxrs4swA",
+		"volume": "4",
+		"author": [
+			{
+				"literal": "Archidioecesis Mediolanensis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1830"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/GWBKZAYC",
+		"type": "book",
+		"number-of-volumes": "4",
+		"publisher": "Typis Joannis Bernardonii",
+		"publisher-place": "Mediolani",
+		"title": "Breviarium Ambrosianum S. Carolo Archiepiscopo editum, Carolo Cajetano Cardinali Gaisruchio denuo impressum – Pars autumnalis",
+		"title-short": "BA 1830 III",
+		"URL": "http://books.google.com/books/download/Breviarium_Ambrosianum.pdf?id=N9AHAAAAQAAJ&hl=it&output=pdf&sig=ACfU3U1xmZYg1ORoaRJ2mTUcw00BxVmu3w",
+		"volume": "3",
+		"author": [
+			{
+				"literal": "Archidioecesis Mediolanensis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1830"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/YSMCLTZ5",
+		"type": "book",
+		"number-of-volumes": "4",
+		"publisher": "Typis Joannis Bernardonii",
+		"publisher-place": "Mediolani",
+		"title": "Breviarium Ambrosianum S. Carolo Archiepiscopo editum, Carolo Cajetano Cardinali Gaisruchio denuo impressum – Pars aestiva",
+		"title-short": "BA 1830 II",
+		"URL": "http://books.google.com/books/download/Breviarium_Ambrosianum.pdf?id=388HAAAAQAAJ&hl=it&output=pdf&sig=ACfU3U34YmEyZbZY-prWuxfS6J6XT25r1A",
+		"volume": "2",
+		"author": [
+			{
+				"literal": "Archidioecesis Mediolanensis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1830"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/XGRQGMMB",
+		"type": "book",
+		"number-of-volumes": "4",
+		"publisher": "Typis Joannis Bernardonii",
+		"publisher-place": "Mediolani",
+		"title": "Breviarium Ambrosianum S. Carolo Archiepiscopo editum, Carolo Cajetano Cardinali Gaisruchio denuo impressum – Pars vernalis",
+		"title-short": "BA 1830 I",
+		"URL": "http://books.google.com/books/download/Breviarium_Ambrosianum.pdf?id=hM8HAAAAQAAJ&hl=it&output=pdf&sig=ACfU3U1efG0fZ88ByLzZmnoDUY-Ftd6afA",
+		"volume": "1",
+		"author": [
+			{
+				"literal": "Archidioecesis Mediolanensis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1830"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/S8DSWAFB",
+		"type": "book",
+		"publisher": "Abbaye Saint-Pierre de Solesmes",
+		"publisher-place": "Solesmis",
+		"title": "Liber Hymnarius cum invitatoriis & aliquibus responsoriis",
+		"title-short": "LHym 1983",
+		"author": [
+			{
+				"literal": "Ecclesia Romana"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1983"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/RUMAV95P",
+		"type": "book",
+		"publisher": "Societé d'éditions du chant grégorién",
+		"publisher-place": "Paris",
+		"title": "Vesperale Romanum excerptum ex Antiphonali S.R.E. jussu SS. D. N. Pii X. Pontificis Maximi restituto et edito",
+		"title-short": "VR 1913",
+		"author": [
+			{
+				"literal": "Ecclesia Romana"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1913"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/FKI3URI7",
+		"type": "book",
+		"publisher": "Desclée et socii",
+		"publisher-place": "Romae",
+		"title": "Liber Vesperalis juxta ritum Sanctae Ecclesiae Mediolanensis",
+		"title-short": "LV 1939",
+		"author": [
+			{
+				"literal": "Archidioecesis Mediolanensis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1939"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/9BKGT4UB",
+		"type": "book",
+		"publisher": "Desclée et socii",
+		"publisher-place": "Parisiis – Tornaci – Romae – Neo Eboraci",
+		"title": "Liber Usualis Missae et Officii pro Dominicis et Festis cum Cantu Gregoriano ex Editione Vaticana adamussim excerpto et rhythmicis signis in subsidium cantorum a Solesmensibus Monachis diligenter ornato",
+		"title-short": "LU 1961",
+		"URL": "https://archive.ccwatershed.org/media/pdfs/13/08/14/14-59-32_0.pdf",
+		"author": [
+			{
+				"literal": "Ecclesia Romana"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1961"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/CF6RVHVP",
+		"type": "book",
+		"edition": "Editio typica",
+		"number-of-volumes": "4",
+		"publisher": "Typis Polyglottis Vaticanis",
+		"publisher-place": "Romae",
+		"title": "Liturgia Horarum iuxta Ritum Romanum – IV: Tempus per annum, hebdomadae XVIII-XXXIV",
+		"title-short": "LH 1973 IV",
+		"volume": "4",
+		"author": [
+			{
+				"literal": "Ecclesia Romana"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1973"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/UP76WA33",
+		"type": "book",
+		"edition": "Editio typica",
+		"number-of-volumes": "4",
+		"publisher": "Typis Polyglottis Vaticanis",
+		"publisher-place": "Romae",
+		"title": "Liturgia Horarum iuxta Ritum Romanum – III: Tempus per annum, hebdomadae I-XVII",
+		"title-short": "LH 1973 III",
+		"volume": "3",
+		"author": [
+			{
+				"literal": "Ecclesia Romana"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1973"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/P7PWFH34",
+		"type": "book",
+		"edition": "Editio typica",
+		"number-of-volumes": "4",
+		"publisher": "Typis Polyglottis Vaticanis",
+		"publisher-place": "Romae",
+		"title": "Liturgia Horarum iuxta Ritum Romanum – II: Tempus Quadragesimae, Tempus Paschale",
+		"title-short": "LH 1973 II",
+		"volume": "2",
+		"author": [
+			{
+				"literal": "Ecclesia Romana"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1973"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/HRHM7HGT",
+		"type": "book",
+		"edition": "Editio typica",
+		"number-of-volumes": "4",
+		"publisher": "Typis Polyglottis Vaticanis",
+		"publisher-place": "Romae",
+		"title": "Liturgia Horarum iuxta Ritum Romanum – I: Tempus Adventus, Tempus Nativitatis",
+		"title-short": "LH 1973 I",
+		"volume": "1",
+		"author": [
+			{
+				"literal": "Ecclesia Romana"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1973"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/HNI3G9V2",
+		"type": "book",
+		"edition": "Edizione tipica",
+		"number-of-volumes": "5",
+		"publisher": "Centro Ambrosiano",
+		"publisher-place": "Milano",
+		"title": "Liturgia delle Ore secondo il rito della Santa Chiesa Ambrosiana. Riformata a norma dei decreti del Concilio Vaticano II e promulgata dal Cardinale Carlo Maria Martini Arcivescovo di Milano – IV: Tempo ordinario dalla XVIII alla XXXII settimana",
+		"title-short": "LAO 1983 V",
+		"volume": "5",
+		"author": [
+			{
+				"literal": "Archidioecesis Mediolanensis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1983"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/IVDWV8SY",
+		"type": "book",
+		"edition": "Edizione tipica",
+		"number-of-volumes": "5",
+		"publisher": "Centro Ambrosiano",
+		"publisher-place": "Milano",
+		"title": "Liturgia delle Ore secondo il rito della Santa Chiesa Ambrosiana. Riformata a norma dei decreti del Concilio Vaticano II e promulgata dal Cardinale Carlo Maria Martini Arcivescovo di Milano – IV: Tempo ordinario dalla I alla XVII settimana",
+		"title-short": "LAO 1983 IV",
+		"volume": "4",
+		"author": [
+			{
+				"literal": "Archidioecesis Mediolanensis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1983"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/7VDFGMW8",
+		"type": "book",
+		"edition": "Edizione tipica",
+		"number-of-volumes": "5",
+		"publisher": "Centro Ambrosiano",
+		"publisher-place": "Milano",
+		"title": "Liturgia delle Ore secondo il rito della Santa Chiesa Ambrosiana. Riformata a norma dei decreti del Concilio Vaticano II e promulgata dal Cardinale Carlo Maria Martini Arcivescovo di Milano – III: Dalla Domenica di Pasqua alla Domenica di Pentecoste",
+		"title-short": "LAO 1983 III",
+		"volume": "3",
+		"author": [
+			{
+				"literal": "Archidioecesis Mediolanensis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1983"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/NLWP2E2B",
+		"type": "book",
+		"edition": "Edizione tipica",
+		"number-of-volumes": "5",
+		"publisher": "Centro Ambrosiano",
+		"publisher-place": "Milano",
+		"title": "Liturgia delle Ore secondo il rito della Santa Chiesa Ambrosiana. Riformata a norma dei decreti del Concilio Vaticano II e promulgata dal Cardinale Carlo Maria Martini Arcivescovo di Milano – II: Dalla Prima Domenica di Quaresima al Sabato Santo",
+		"title-short": "LAO 1983 II",
+		"volume": "2",
+		"author": [
+			{
+				"literal": "Archidioecesis Mediolanensis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1983"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/QPTIYKYN",
+		"type": "book",
+		"edition": "Edizione tipica",
+		"number-of-volumes": "5",
+		"publisher": "Centro Ambrosiano",
+		"publisher-place": "Milano",
+		"title": "Liturgia delle Ore secondo il rito della Santa Chiesa Ambrosiana. Riformata a norma dei decreti del Concilio Vaticano II e promulgata dal Cardinale Carlo Maria Martini Arcivescovo di Milano – I: Dalla Prima Domenica di Avvento alla Festa del Battesimo del Signore",
+		"title-short": "LAO 1983 I",
+		"volume": "1",
+		"author": [
+			{
+				"literal": "Archidioecesis Mediolanensis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1983"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/U6G6BCG2",
+		"type": "book",
+		"edition": "Editio juxta typicam amplificata",
+		"number-of-volumes": "4",
+		"publisher": "Desclée et socii",
+		"publisher-place": "Romae – Tornaci – Parisiis",
+		"title": "Breviarium Romanum ex decreto Sacrosancti Concilii Tridentini restitutum S. Pii V Pontificis Maximi jussu editum aliorumque Pontificum cura recognitum Pii Papae X auctoritate reformatum – IV: Pars autumnalis",
+		"title-short": "BA 1942 IV",
+		"URL": "https://archive.org/download/breviarium-romanum-1942/Breviarium_Romanum_1942_-_Pars_Autumnalis.pdf",
+		"volume": "4",
+		"author": [
+			{
+				"literal": "Ecclesia Romana"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1942"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/9NRZIQPG",
+		"type": "book",
+		"edition": "Editio juxta typicam amplificata",
+		"number-of-volumes": "4",
+		"publisher": "Desclée et socii",
+		"publisher-place": "Romae – Tornaci – Parisiis",
+		"title": "Breviarium Romanum ex decreto Sacrosancti Concilii Tridentini restitutum S. Pii V Pontificis Maximi jussu editum aliorumque Pontificum cura recognitum Pii Papae X auctoritate reformatum – III: Pars aestiva",
+		"title-short": "BA 1942 III",
+		"URL": "https://archive.org/download/breviarium-romanum-1942/Breviarium_Romanum_1942_-_Pars_Aestiva.pdf",
+		"volume": "3",
+		"author": [
+			{
+				"literal": "Ecclesia Romana"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1942"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/LWN3EFA8",
+		"type": "book",
+		"edition": "Editio juxta typicam amplificata",
+		"number-of-volumes": "4",
+		"publisher": "Desclée et socii",
+		"publisher-place": "Romae – Tornaci – Parisiis",
+		"title": "Breviarium Romanum ex decreto Sacrosancti Concilii Tridentini restitutum S. Pii V Pontificis Maximi jussu editum aliorumque Pontificum cura recognitum Pii Papae X auctoritate reformatum – II: Pars verna",
+		"title-short": "BA 1942 II",
+		"URL": "https://archive.org/download/breviarium-romanum-1942/Breviarium_Romanum_1942_-_Pars_Verna.pdf",
+		"volume": "2",
+		"author": [
+			{
+				"literal": "Ecclesia Romana"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1942"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/HBP7NVTU",
+		"type": "book",
+		"edition": "Editio juxta typicam amplificata",
+		"number-of-volumes": "4",
+		"publisher": "Desclée et socii",
+		"publisher-place": "Romae – Tornaci – Parisiis",
+		"title": "Breviarium Romanum ex decreto Sacrosancti Concilii Tridentini restitutum S. Pii V Pontificis Maximi jussu editum aliorumque Pontificum cura recognitum Pii Papae X auctoritate reformatum – I: Pars hiemalis",
+		"title-short": "BA 1942 I",
+		"URL": "https://archive.org/download/breviarium-romanum-1942/Breviarium_Romanum_1942_-_Pars_Hiemalis.pdf",
+		"volume": "1",
+		"author": [
+			{
+				"literal": "Ecclesia Romana"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1942"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/RYMHJ5AI",
+		"type": "book",
+		"edition": "Editio septima decima juxta typicam",
+		"number-of-volumes": "4",
+		"publisher": "Typis A. Mame et filiorum",
+		"publisher-place": "Turonibus",
+		"title": "Breviarium Romanum ex decreto Sacrosancti Concilii Tridentini restitutum S. Pii V Pontificis Maximi jussu editum aliorumque Pontificum cura recognitum Pii Papae X auctoritate reformatum – IV: Pars autumnalis",
+		"title-short": "BR 1931 IV",
+		"volume": "4",
+		"author": [
+			{
+				"literal": "Ecclesia Romana"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1931"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/XNP6AXE9",
+		"type": "book",
+		"edition": "Editio septima decima juxta typicam",
+		"number-of-volumes": "4",
+		"publisher": "Typis A. Mame et filiorum",
+		"publisher-place": "Turonibus",
+		"title": "Breviarium Romanum ex decreto Sacrosancti Concilii Tridentini restitutum S. Pii V Pontificis Maximi jussu editum aliorumque Pontificum cura recognitum Pii Papae X auctoritate reformatum – III: Pars aestiva",
+		"title-short": "BR 1931 III",
+		"volume": "3",
+		"author": [
+			{
+				"literal": "Ecclesia Romana"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1931"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/KLVII6QQ",
+		"type": "book",
+		"edition": "Editio septima decima juxta typicam",
+		"number-of-volumes": "4",
+		"publisher": "Typis A. Mame et filiorum",
+		"publisher-place": "Turonibus",
+		"title": "Breviarium Romanum ex decreto Sacrosancti Concilii Tridentini restitutum S. Pii V Pontificis Maximi jussu editum aliorumque Pontificum cura recognitum Pii Papae X auctoritate reformatum – II: Pars verna",
+		"title-short": "BR 1931 II",
+		"volume": "2",
+		"author": [
+			{
+				"literal": "Ecclesia Romana"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1931"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/A7NJ5NDG",
+		"type": "book",
+		"edition": "Editio septima decima juxta typicam",
+		"number-of-volumes": "4",
+		"publisher": "Typis A. Mame et filiorum",
+		"publisher-place": "Turonibus",
+		"title": "Breviarium Romanum ex decreto Sacrosancti Concilii Tridentini restitutum S. Pii V Pontificis Maximi jussu editum aliorumque Pontificum cura recognitum Pii Papae X auctoritate reformatum – I: Pars hiemalis",
+		"title-short": "BR 1931 I",
+		"volume": "1",
+		"author": [
+			{
+				"literal": "Ecclesia Romana"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1931"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/Y2X8ZG4Q",
+		"type": "book",
+		"number-of-volumes": "4",
+		"publisher": "Daverio",
+		"publisher-place": "Mediolani",
+		"title": "Breviarium Ambrosianum a Carolo Archiepiscopo editum Andreae C. Card. Ferrari Archiepiscopi et denuo Joannis Baptistae Montini iussu impressum – Pars hyemalis II",
+		"title-short": "BA 1957 II",
+		"volume": "2",
+		"author": [
+			{
+				"literal": "Archidioecesis Mediolanensis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1957"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/KP7DEJG7",
+		"type": "book",
+		"number-of-volumes": "4",
+		"publisher": "Daverio",
+		"publisher-place": "Mediolani",
+		"title": "Breviarium Ambrosianum a Carolo Archiepiscopo editum Andreae C. Card. Ferrari Archiepiscopi et denuo Joannis Baptistae Montini iussu impressum – Pars hyemalis I",
+		"title-short": "BA 1957 I",
+		"volume": "1",
+		"author": [
+			{
+				"literal": "Archidioecesis Mediolanensis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1957"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/7PEUHFXA",
+		"type": "book",
+		"number-of-volumes": "4",
+		"publisher": "Daverio",
+		"publisher-place": "Mediolani",
+		"title": "Breviarium Ambrosianum a Carolo Archiepiscopo editum Andreae C. Card. Ferrari Archiepiscopi et denuo Joannis Baptistae Montini iussu impressum – Pars aestiva II",
+		"title-short": "BA 1957 IV",
+		"volume": "4",
+		"author": [
+			{
+				"literal": "Archidioecesis Mediolanensis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1957"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/ZYXU9QP3",
+		"type": "book",
+		"number-of-volumes": "4",
+		"publisher": "Daverio",
+		"publisher-place": "Mediolani",
+		"title": "Breviarium Ambrosianum a Carolo Archiepiscopo editum Andreae C. Card. Ferrari Archiepiscopi et denuo Joannis Baptistae Montini iussu impressum – Pars aestiva I",
+		"title-short": "BA 1957 III",
+		"volume": "3",
+		"author": [
+			{
+				"literal": "Archidioecesis Mediolanensis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1957"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/SNG7FKQ9",
+		"type": "book",
+		"publisher": "Apud Pontios et Besutios fratres",
+		"publisher-place": "Mediolani",
+		"title": "Breviarium Ambrosianum Caroli S.R.E. Cardinalis tit. S. Praxedis Archiepiscopi jussu recognitum atque editum",
+		"title-short": "BA 1582",
+		"URL": "https://books.google.it/books?id=MeYfMFPh5hMC",
+		"author": [
+			{
+				"literal": "Archidioecesis Mediolanensis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1582"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/4LMNHX4R",
+		"type": "book",
+		"publisher": "Centro Ambrosiano",
+		"publisher-place": "Milano",
+		"title": "Addende aggiornate – Liturgia Ambrosiana delle Ore",
+		"title-short": "AALAO 2016",
+		"author": [
+			{
+				"literal": "Archidioecesis Mediolanensis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/A2IULX29",
+		"type": "book",
+		"publisher": "Centro Ambrosiano",
+		"publisher-place": "Milano",
+		"title": "Addende – Liturgia Ambrosiana delle Ore",
+		"title-short": "ALAO 2006",
+		"author": [
+			{
+				"literal": "Archidioecesis Mediolanensis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/XY45EQ5F",
+		"type": "webpage",
+		"container-title": "Chiesa di Milano",
+		"title": "Addende nuovi beati dal 2009",
+		"URL": "https://www.chiesadimilano.it/servizioperlapastoraleliturgica/news-per-home/addende-nuovi-beati-dal-2009-1704.html",
+		"author": [
+			{
+				"literal": "Archidioecesis Mediolanensis"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					9,
+					21
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/8FTDLR6M",
+		"type": "book",
+		"collection-number": "3",
+		"collection-title": "Monumenta Liturgica Concilii Tridentini",
+		"edition": "2",
+		"publisher": "Libreria Editrice Vaticana",
+		"publisher-place": "Città del Vaticano",
+		"title": "Breviarium Romanum. Editio Princeps (1568). Edizione anastatica, Introduzione e Appendice",
+		"title-short": "BR 1568",
+		"editor": [
+			{
+				"family": "Sodi",
+				"given": "Manlio"
+			},
+			{
+				"family": "Triacca",
+				"given": "Achille Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	}
+]

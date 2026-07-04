@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1582_15"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Amore Christi nobilis</title>
+
+        <author>Ambrosius Mediolanensis</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">Ad Vesperas, de Sancto Ioanne Evangelista</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1582</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">Ad Vesperas, de Sancto Ioanne Evangelista</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Amore Christi nobilis</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1582_15_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1582_15_1_1">Amore Christi nobilis,</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1582_15_1_2">et Filius tonitrui</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1582_15_1_3">archana Iohannes Dei</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1582_15_1_4">fatu revelavit sacro.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1582_15_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1582_15_2_5">Captis solebat piscibus,</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1582_15_2_6">patris senectam pascere:</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1582_15_2_7">turbante dum natat salo</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1582_15_2_8">immobilis fide stetit.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1582_15_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1582_15_3_9">Hamum profundo merserat,</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1582_15_3_10">piscatus est Verbum Dei:</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1582_15_3_11">iactavit undis retia,</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1582_15_3_12">vitam levavit hominum.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1582_15_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1582_15_4_13">Piscis bonus pia est fides,</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1582_15_4_14">mundi supernatans salum:</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1582_15_4_15">subnixa Christi pectore,</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1582_15_4_16">sancto locuta Spiritu.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1582_15_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1582_15_5_17">In principio erat Verbum,</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1582_15_5_18">et Verbum erat apud Deum:</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1582_15_5_19">et Deus erat Verbum,</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1582_15_5_20">hoc erat in principio apud Deum.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_BA_1582_15_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_BA_1582_15_6_21">Omnia per ipsum facta sunt,</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_BA_1582_15_6_22">sed ipse laude resonet:</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_BA_1582_15_6_23">et laureatus Spiritu,</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_BA_1582_15_6_24">scriptis coronetur suis.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_BA_1582_15_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_BA_1582_15_7_25">Commune multis passio,</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_BA_1582_15_7_26">cruorque delictum lavans:</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_BA_1582_15_7_27">hoc morte praestat martyrum,</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_BA_1582_15_7_28">quod fecit esse martyres.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_BA_1582_15_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_BA_1582_15_8_29">Victus tamen ab impiis,</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_BA_1582_15_8_30">calente olivo dicitur:</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_BA_1582_15_8_31">tersisse mundi pulverem,</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_BA_1582_15_8_32">stetisse victor aemuli.</l>
+      </lg>
+      <lg n="9" type="tetrastichon_iambicum" xml:id="HY_BA_1582_15_9">
+        <l n="33" type="dimeter_iambicus" xml:id="HY_BA_1582_15_9_33">Gloria tibi Domine</l>
+        <l n="34" type="dimeter_iambicus" xml:id="HY_BA_1582_15_9_34">qui natus es de Virgine:</l>
+        <l n="35" type="dimeter_iambicus" xml:id="HY_BA_1582_15_9_35">cum Patre, et sancto Spiritu</l>
+        <l n="36" type="dimeter_iambicus" xml:id="HY_BA_1582_15_9_36">in sempiterna saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1582</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

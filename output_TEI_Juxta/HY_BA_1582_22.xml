@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_BA_1582_22">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_BA_1582_22_1">
+        <l n="1" xml:id="HY_BA_1582_22_1_1">hic est dies verus dei</l>
+        <l n="2" xml:id="HY_BA_1582_22_1_2">sancto serenus lumine</l>
+        <l n="3" xml:id="HY_BA_1582_22_1_3">quo diluit sanguis sacer</l>
+        <l n="4" xml:id="HY_BA_1582_22_1_4">probrosa mundi crimina</l>
+      </lg>
+      <lg n="2" xml:id="HY_BA_1582_22_2">
+        <l n="5" xml:id="HY_BA_1582_22_2_5">fidem refundens perditis</l>
+        <l n="6" xml:id="HY_BA_1582_22_2_6">caecosque visu inluminans</l>
+        <l n="7" xml:id="HY_BA_1582_22_2_7">quem non gravi solvit metu</l>
+        <l n="8" xml:id="HY_BA_1582_22_2_8">latronis absolutio</l>
+      </lg>
+      <lg n="3" xml:id="HY_BA_1582_22_3">
+        <l n="9" xml:id="HY_BA_1582_22_3_9">qui praemium mutans cruce</l>
+        <l n="10" xml:id="HY_BA_1582_22_3_10">iesum brevi quaesivit fide</l>
+        <l n="11" xml:id="HY_BA_1582_22_3_11">iustosque praevio gradu</l>
+        <l n="12" xml:id="HY_BA_1582_22_3_12">praevenit in regnum dei</l>
+      </lg>
+      <lg n="4" xml:id="HY_BA_1582_22_4">
+        <l n="13" xml:id="HY_BA_1582_22_4_13">opus stupent et angeli</l>
+        <l n="14" xml:id="HY_BA_1582_22_4_14">poenam videntes corporis</l>
+        <l n="15" xml:id="HY_BA_1582_22_4_15">christoque adhaerentem reum</l>
+        <l n="16" xml:id="HY_BA_1582_22_4_16">vitam beatam carpere</l>
+      </lg>
+      <lg n="5" xml:id="HY_BA_1582_22_5">
+        <l n="17" xml:id="HY_BA_1582_22_5_17">mysterium mirabile</l>
+        <l n="18" xml:id="HY_BA_1582_22_5_18">ut abluat mundi luem</l>
+        <l n="19" xml:id="HY_BA_1582_22_5_19">peccata tollat omnium</l>
+        <l n="20" xml:id="HY_BA_1582_22_5_20">carnis vitia mundans caro</l>
+      </lg>
+      <lg n="6" xml:id="HY_BA_1582_22_6">
+        <l n="21" xml:id="HY_BA_1582_22_6_21">quid hoc potest sublimius</l>
+        <l n="22" xml:id="HY_BA_1582_22_6_22">ut culpa quaerat gratiam</l>
+        <l n="23" xml:id="HY_BA_1582_22_6_23">metumque solvat charitas</l>
+        <l n="24" xml:id="HY_BA_1582_22_6_24">reddatque mors vitam novam</l>
+      </lg>
+      <lg n="7" xml:id="HY_BA_1582_22_7">
+        <l n="25" xml:id="HY_BA_1582_22_7_25">hamum sibi mors devoret</l>
+        <l n="26" xml:id="HY_BA_1582_22_7_26">suisque se nodis liget</l>
+        <l n="27" xml:id="HY_BA_1582_22_7_27">moriatur vita omnium</l>
+        <l n="28" xml:id="HY_BA_1582_22_7_28">resurgat vita hominum</l>
+      </lg>
+      <lg n="8" xml:id="HY_BA_1582_22_8">
+        <l n="29" xml:id="HY_BA_1582_22_8_29">cum mors per omnes transeat</l>
+        <l n="30" xml:id="HY_BA_1582_22_8_30">omnes resurgant mortui</l>
+        <l n="31" xml:id="HY_BA_1582_22_8_31">consumpta mors ictu suo</l>
+        <l n="32" xml:id="HY_BA_1582_22_8_32">perisse se solam gemat</l>
+      </lg>
+      <lg n="9" xml:id="HY_BA_1582_22_9">
+        <l n="33" xml:id="HY_BA_1582_22_9_33">gloria tibi domine</l>
+        <l n="34" xml:id="HY_BA_1582_22_9_34">qui surrexisti a mortuis</l>
+        <l n="35" xml:id="HY_BA_1582_22_9_35">cum patre et sancto spiritu</l>
+        <l n="36" xml:id="HY_BA_1582_22_9_36">in sempiterna saecula amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

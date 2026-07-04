@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1582_21"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Hymnum dicamus Domino</title>
+
+        <author>Anonymus saec. incerti</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">Feria V in Coena Domini, ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1582</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">Feria V in Coena Domini, ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Hymnum dicamus Domino</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1582_21_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1582_21_1_1">Hymnum dicamus Domino,</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1582_21_1_2">laudes Deo cum cantico:</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1582_21_1_3">qui nos crucis patibulo,</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1582_21_1_4">suo redemit sanguine.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1582_21_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1582_21_2_5">Die decursa ad vesperum</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1582_21_2_6">qua Christus morti traditur,</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1582_21_2_7">ad coenam venit impius,</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1582_21_2_8">qui erat Christi proditor.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1582_21_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1582_21_3_9">Iesus futura nunciat</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1582_21_3_10">coenantibus discipulis:</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1582_21_3_11">Unus ex discumbentibus,</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1582_21_3_12">ipse me traditurus est.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1582_21_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1582_21_4_13">Iudas mercator pessimus</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1582_21_4_14">osculo petit Dominum:</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1582_21_4_15">ille ut agnus innocens</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1582_21_4_16">non negat Iudae osculum.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1582_21_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1582_21_5_17">Denariorum numero</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1582_21_5_18">Christus Iudaeis traditur</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1582_21_5_19">innocens et innoxius</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1582_21_5_20">quem Iudas tradit impius.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_BA_1582_21_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_BA_1582_21_6_21">Praeses Pilatus proclamat,</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_BA_1582_21_6_22">Nullam culpam invenio:</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_BA_1582_21_6_23">ablutis aqua manibus,</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_BA_1582_21_6_24">Christum Iudaeis tradidit.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_BA_1582_21_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_BA_1582_21_7_25">Fallaces Iudaei impii,</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_BA_1582_21_7_26">latronem petunt vivere:</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_BA_1582_21_7_27">Christum accusant graviter,</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_BA_1582_21_7_28">Crucifigatur, reus est.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_BA_1582_21_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_BA_1582_21_8_29">Et Barrabas dimittitur,</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_BA_1582_21_8_30">qui reus mortis fuerat,</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_BA_1582_21_8_31">Vita mundi suspenditur,</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_BA_1582_21_8_32">per quem resurgunt mortui.</l>
+      </lg>
+      <lg n="9" type="tetrastichon_iambicum" xml:id="HY_BA_1582_21_9">
+        <l n="33" type="dimeter_iambicus" xml:id="HY_BA_1582_21_9_33">Gloria tibi Domine,</l>
+        <l n="34" type="dimeter_iambicus" xml:id="HY_BA_1582_21_9_34">gloria Unigenito,</l>
+        <l n="35" type="dimeter_iambicus" xml:id="HY_BA_1582_21_9_35">una cum sancto Spiritu,</l>
+        <l n="36" type="dimeter_iambicus" xml:id="HY_BA_1582_21_9_36">in sempiterna saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1582</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

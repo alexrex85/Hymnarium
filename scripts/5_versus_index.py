@@ -55,9 +55,6 @@ def build_search_index(tei_folder, output_folder):
             )
             continue
 
-        # --------------------------------------------------
-        # METADATI DELL'INNO
-        # --------------------------------------------------
         titulus = root.find(
             ".//tei:titleStmt/tei:title",
             ns
@@ -123,9 +120,6 @@ def build_search_index(tei_folder, output_folder):
         else:
             fons_indicizzata = fons_txt
 
-        # --------------------------------------------------
-        # STROFE
-        # --------------------------------------------------
         for lg in root.findall(
             ".//tei:body//tei:lg",
             ns
@@ -140,9 +134,6 @@ def build_search_index(tei_folder, output_folder):
                 ""
             )
 
-            # ----------------------------------------------
-            # VERSI
-            # ----------------------------------------------
             for l in lg.findall(
                 "./tei:l",
                 ns
@@ -183,8 +174,7 @@ def build_search_index(tei_folder, output_folder):
                     "textus_norm": normalize(l_text)
                 })
 
-    # Questa sezione è allineata all'interno della funzione per salvare il file DOPO il ciclo for
-    output_file = "02_search_index.json"
+    output_file = "02_versus_index.json"
 
     with open(
         out_path / output_file,
@@ -205,7 +195,6 @@ def build_search_index(tei_folder, output_folder):
         f"📚 Indicizzati {len(search_index)} versi."
     )
 
-# Punto di ingresso dello script corretto con i dunder (double underscore) __
 if __name__ == "__main__":
     build_search_index(
         "output_TEI",

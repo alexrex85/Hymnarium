@@ -36,18 +36,69 @@
 
     <main class="poem-container">
 
-        <h2>Indices</h2>
+        <h2>Indices generales</h2>
 
-            <div class="text">
+        <div class="text">
 
-                <p>Collectio bibliographica repertoriorum necnon studiorum
-                de hymnis Latinis ecclesiasticis infra exponitur.</p>
+            <p>Collectio bibliographica repertoriorum necnon studiorum de hymnis ecclesiasticis Latinis infra exponitur.</p>
 
-                <h3>Repertoria</h3>
+        </div>
 
-                <h3>Studia</h3>
+        <div class="bib-wrapper">
+
+            <h3>Repertoria</h3>
+
+            <div class="search-form" style="margin: 0.5rem 0 1.5rem 0; text-align: left;">
+
+                <div class="search-group" style="align-items: flex-start;">
+
+                    <select class="sort-bibliography">
+                        <option value="author">Ordina secundum: Auctorem</option>
+                        <option value="year">Ordina secundum: Annum (ab antiquissimo)</option>
+                        <option value="title">Ordina secundum: Titulum</option>
+                    </select>
+
+                </div>
 
             </div>
+
+            <div class="bib-target" data-source="00_3_repertoria.json"> <!-- NOME DELL'ARCHIVIO JSON -->
+
+                <p>Repertoria...</p>
+
+            </div>
+
+        </div>
+
+        <hr>
+
+        <div class="bib-wrapper">
+
+            <h3>Studia</h3>
+            
+            <div class="search-form" style="margin: 0.5rem 0 1.5rem 0; text-align: left;">
+
+                <div class="search-group" style="align-items: flex-start;">
+
+                    <select class="sort-bibliography">
+                        <option value="author">Ordina secundum: Auctorem</option>
+                        <option value="year">Ordina secundum: Annum (ab antiquissimo)</option>
+                        <option value="title">Ordina secundum: Titulum</option>
+                    </select>
+
+                </div>
+
+            </div>
+
+            <div class="bib-target" data-source="00_3_studia.json"> <!-- NOME DELL'ARCHIVIO JSON -->
+
+                <p>Studia...</p>
+
+            </div>
+
+        </div>
+
+        <script src="00_2_fontes.js"></script>
 
     </main>
 

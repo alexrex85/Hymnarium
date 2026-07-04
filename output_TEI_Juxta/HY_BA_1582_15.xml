@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_BA_1582_15">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_BA_1582_15_1">
+        <l n="1" xml:id="HY_BA_1582_15_1_1">amore christi nobilis</l>
+        <l n="2" xml:id="HY_BA_1582_15_1_2">et filius tonitrui</l>
+        <l n="3" xml:id="HY_BA_1582_15_1_3">archana iohannes dei</l>
+        <l n="4" xml:id="HY_BA_1582_15_1_4">fatu revelavit sacro</l>
+      </lg>
+      <lg n="2" xml:id="HY_BA_1582_15_2">
+        <l n="5" xml:id="HY_BA_1582_15_2_5">captis solebat piscibus</l>
+        <l n="6" xml:id="HY_BA_1582_15_2_6">patris senectam pascere</l>
+        <l n="7" xml:id="HY_BA_1582_15_2_7">turbante dum natat salo</l>
+        <l n="8" xml:id="HY_BA_1582_15_2_8">immobilis fide stetit</l>
+      </lg>
+      <lg n="3" xml:id="HY_BA_1582_15_3">
+        <l n="9" xml:id="HY_BA_1582_15_3_9">hamum profundo merserat</l>
+        <l n="10" xml:id="HY_BA_1582_15_3_10">piscatus est verbum dei</l>
+        <l n="11" xml:id="HY_BA_1582_15_3_11">iactavit undis retia</l>
+        <l n="12" xml:id="HY_BA_1582_15_3_12">vitam levavit hominum</l>
+      </lg>
+      <lg n="4" xml:id="HY_BA_1582_15_4">
+        <l n="13" xml:id="HY_BA_1582_15_4_13">piscis bonus pia est fides</l>
+        <l n="14" xml:id="HY_BA_1582_15_4_14">mundi supernatans salum</l>
+        <l n="15" xml:id="HY_BA_1582_15_4_15">subnixa christi pectore</l>
+        <l n="16" xml:id="HY_BA_1582_15_4_16">sancto locuta spiritu</l>
+      </lg>
+      <lg n="5" xml:id="HY_BA_1582_15_5">
+        <l n="17" xml:id="HY_BA_1582_15_5_17">in principio erat verbum</l>
+        <l n="18" xml:id="HY_BA_1582_15_5_18">et verbum erat apud deum</l>
+        <l n="19" xml:id="HY_BA_1582_15_5_19">et deus erat verbum</l>
+        <l n="20" xml:id="HY_BA_1582_15_5_20">hoc erat in principio apud deum</l>
+      </lg>
+      <lg n="6" xml:id="HY_BA_1582_15_6">
+        <l n="21" xml:id="HY_BA_1582_15_6_21">omnia per ipsum facta sunt</l>
+        <l n="22" xml:id="HY_BA_1582_15_6_22">sed ipse laude resonet</l>
+        <l n="23" xml:id="HY_BA_1582_15_6_23">et laureatus spiritu</l>
+        <l n="24" xml:id="HY_BA_1582_15_6_24">scriptis coronetur suis</l>
+      </lg>
+      <lg n="7" xml:id="HY_BA_1582_15_7">
+        <l n="25" xml:id="HY_BA_1582_15_7_25">commune multis passio</l>
+        <l n="26" xml:id="HY_BA_1582_15_7_26">cruorque delictum lavans</l>
+        <l n="27" xml:id="HY_BA_1582_15_7_27">hoc morte praestat martyrum</l>
+        <l n="28" xml:id="HY_BA_1582_15_7_28">quod fecit esse martyres</l>
+      </lg>
+      <lg n="8" xml:id="HY_BA_1582_15_8">
+        <l n="29" xml:id="HY_BA_1582_15_8_29">victus tamen ab impiis</l>
+        <l n="30" xml:id="HY_BA_1582_15_8_30">calente olivo dicitur</l>
+        <l n="31" xml:id="HY_BA_1582_15_8_31">tersisse mundi pulverem</l>
+        <l n="32" xml:id="HY_BA_1582_15_8_32">stetisse victor aemuli</l>
+      </lg>
+      <lg n="9" xml:id="HY_BA_1582_15_9">
+        <l n="33" xml:id="HY_BA_1582_15_9_33">gloria tibi domine</l>
+        <l n="34" xml:id="HY_BA_1582_15_9_34">qui natus es de virgine</l>
+        <l n="35" xml:id="HY_BA_1582_15_9_35">cum patre et sancto spiritu</l>
+        <l n="36" xml:id="HY_BA_1582_15_9_36">in sempiterna saecula amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

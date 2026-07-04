@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_BA_1582_12a">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_BA_1582_12a_1">
+        <l n="1" xml:id="HY_BA_1582_12a_1_1">mysterium ecclesiae</l>
+        <l n="2" xml:id="HY_BA_1582_12a_1_2">hymnum christo referimus</l>
+        <l n="3" xml:id="HY_BA_1582_12a_1_3">quem genuit puerpera</l>
+        <l n="4" xml:id="HY_BA_1582_12a_1_4">verbum patris in filio</l>
+      </lg>
+      <lg n="2" xml:id="HY_BA_1582_12a_2">
+        <l n="5" xml:id="HY_BA_1582_12a_2_5">sola in sexu foemina</l>
+        <l n="6" xml:id="HY_BA_1582_12a_2_6">electa es in saeculo</l>
+        <l n="7" xml:id="HY_BA_1582_12a_2_7">quae meruisti dominum</l>
+        <l n="8" xml:id="HY_BA_1582_12a_2_8">sanctum portare in utero</l>
+      </lg>
+      <lg n="3" xml:id="HY_BA_1582_12a_3">
+        <l n="9" xml:id="HY_BA_1582_12a_3_9">vates antiqui temporis</l>
+        <l n="10" xml:id="HY_BA_1582_12a_3_10">praedixerat quod factum est</l>
+        <l n="11" xml:id="HY_BA_1582_12a_3_11">quia virgo conciperet</l>
+        <l n="12" xml:id="HY_BA_1582_12a_3_12">et pareret emmanuel</l>
+      </lg>
+      <lg n="4" xml:id="HY_BA_1582_12a_4">
+        <l n="13" xml:id="HY_BA_1582_12a_4_13">mysterium hoc magnum est</l>
+        <l n="14" xml:id="HY_BA_1582_12a_4_14">mariae quod concessum est</l>
+        <l n="15" xml:id="HY_BA_1582_12a_4_15">ut deum per quem omnia</l>
+        <l n="16" xml:id="HY_BA_1582_12a_4_16">ex se videret prodere</l>
+      </lg>
+      <lg n="5" xml:id="HY_BA_1582_12a_5">
+        <l n="17" xml:id="HY_BA_1582_12a_5_17">gloria tibi domine</l>
+        <l n="18" xml:id="HY_BA_1582_12a_5_18">qui natus es de virgine</l>
+        <l n="19" xml:id="HY_BA_1582_12a_5_19">cum patre et sancto spiritu</l>
+        <l n="20" xml:id="HY_BA_1582_12a_5_20">in sempiterna saecula amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

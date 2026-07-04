@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_BA_1582_40">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_BA_1582_40_1">
+        <l n="1" xml:id="HY_BA_1582_40_1_1">caelorum regi psallite</l>
+        <l n="2" xml:id="HY_BA_1582_40_1_2">sancti iucundo carmine</l>
+        <l n="3" xml:id="HY_BA_1582_40_1_3">qui noxios non desinit</l>
+        <l n="4" xml:id="HY_BA_1582_40_1_4">convocare ne pereant</l>
+      </lg>
+      <lg n="2" xml:id="HY_BA_1582_40_2">
+        <l n="5" xml:id="HY_BA_1582_40_2_5">maria soror lazari</l>
+        <l n="6" xml:id="HY_BA_1582_40_2_6">multis gravata vitiis</l>
+        <l n="7" xml:id="HY_BA_1582_40_2_7">ad pedes eius corruit</l>
+        <l n="8" xml:id="HY_BA_1582_40_2_8">est facta miserabilis</l>
+      </lg>
+      <lg n="3" xml:id="HY_BA_1582_40_3">
+        <l n="9" xml:id="HY_BA_1582_40_3_9">accessit devotissima</l>
+        <l n="10" xml:id="HY_BA_1582_40_3_10">ingenti cum fiducia</l>
+        <l n="11" xml:id="HY_BA_1582_40_3_11">magna mittens suspiria</l>
+        <l n="12" xml:id="HY_BA_1582_40_3_12">repleta dei gratia</l>
+      </lg>
+      <lg n="4" xml:id="HY_BA_1582_40_4">
+        <l n="13" xml:id="HY_BA_1582_40_4_13">pedes rigabat lacrimis</l>
+        <l n="14" xml:id="HY_BA_1582_40_4_14">tergebat atque crinibus</l>
+        <l n="15" xml:id="HY_BA_1582_40_4_15">unguenta fundens optima</l>
+        <l n="16" xml:id="HY_BA_1582_40_4_16">plura simul dat oscula</l>
+      </lg>
+      <lg n="5" xml:id="HY_BA_1582_40_5">
+        <l n="17" xml:id="HY_BA_1582_40_5_17">quod cernens simon invidus</l>
+        <l n="18" xml:id="HY_BA_1582_40_5_18">submurmurat interius</l>
+        <l n="19" xml:id="HY_BA_1582_40_5_19">propheta dicens si foret</l>
+        <l n="20" xml:id="HY_BA_1582_40_5_20">istius acta nosceret</l>
+      </lg>
+      <lg n="6" xml:id="HY_BA_1582_40_6">
+        <l n="21" xml:id="HY_BA_1582_40_6_21">sed qui de caelo venerat</l>
+        <l n="22" xml:id="HY_BA_1582_40_6_22">salvare quod perierat</l>
+        <l n="23" xml:id="HY_BA_1582_40_6_23">quaerere quod erraverat</l>
+        <l n="24" xml:id="HY_BA_1582_40_6_24">flenti seipsum praeparat</l>
+      </lg>
+      <lg n="7" xml:id="HY_BA_1582_40_7">
+        <l n="25" xml:id="HY_BA_1582_40_7_25">mox sensit eius maria</l>
+        <l n="26" xml:id="HY_BA_1582_40_7_26">eloquia dulcissima</l>
+        <l n="27" xml:id="HY_BA_1582_40_7_27">dimitto tibi omnia</l>
+        <l n="28" xml:id="HY_BA_1582_40_7_28">quae tu patrasti crimina</l>
+      </lg>
+      <lg n="8" xml:id="HY_BA_1582_40_8">
+        <l n="29" xml:id="HY_BA_1582_40_8_29">sic delinquentes faciant</l>
+        <l n="30" xml:id="HY_BA_1582_40_8_30">qui salvari desiderant</l>
+        <l n="31" xml:id="HY_BA_1582_40_8_31">perpetuum ne pereant</l>
+        <l n="32" xml:id="HY_BA_1582_40_8_32">sed regna caeli capiant</l>
+      </lg>
+      <lg n="9" xml:id="HY_BA_1582_40_9">
+        <l n="33" xml:id="HY_BA_1582_40_9_33">gloria tibi domine</l>
+        <l n="34" xml:id="HY_BA_1582_40_9_34">gloria unigenito</l>
+        <l n="35" xml:id="HY_BA_1582_40_9_35">una cum sancto spiritu</l>
+        <l n="36" xml:id="HY_BA_1582_40_9_36">in sempiterna saecula amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>
