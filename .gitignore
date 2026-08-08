@@ -2,6 +2,7 @@
 [Dd]esktop.ini
 [Tt]humbs.db
 .DS_Store
+.env
 
 # ---------------------------------------- #
 
