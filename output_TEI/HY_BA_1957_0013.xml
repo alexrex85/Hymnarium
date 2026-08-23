@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1957_0013"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Intende qui regis Israel</title>
+
+        <author>Ambrosius Mediolanensis</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">In Nativitate Domini, ad Laudes et ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1957</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">In Nativitate Domini, ad Laudes et ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Intende qui regis Israel</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0013_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_1_1">Intende, qui regis Israel,</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_1_2">super Cherubim qui sedes:</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_1_3">appare Ephrem coram: excita</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_1_4">potentiam tuam et veni.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0013_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_2_5">Veni, Redemptor gentium,</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_2_6">ostende partum Virginis:</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_2_7">miretur omne saeculum:</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_2_8">talis decet partus Deum.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0013_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_3_9">Non ex virili semine,</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_3_10">sed mystico spiramine</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_3_11">Verbum Dei factum est caro,</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_3_12">fructusque ventris floruit.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0013_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_4_13">Alvus tumescit Virginis,</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_4_14">claustrum pudoris permanet:</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_4_15">vexilla virtutum micant,</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_4_16">versatur in templo Deus.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0013_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_5_17">Procedat e thalamo suo,</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_5_18">pudoris aula regia,</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_5_19">geminae gigas substantiae</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_5_20">alacris ut currat viam.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0013_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_6_21">Egressus eius a Patre,</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_6_22">regressus eius ad Patrem,</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_6_23">excursus usque ad inferos,</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_6_24">recursus ad sedem Dei.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0013_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_7_25">Aequalis aeterno Patri,</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_7_26">carnis trophaeo cingere:</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_7_27">infirma nostri corporis</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_7_28">virtute firmans perpeti.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0013_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_8_29">Praesepe iam fulget tuum,</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_8_30">lumenque nox spirat suum,</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_8_31">quod nulla nox interpolet</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_8_32">fideque iugi luceat.</l>
+      </lg>
+      <lg n="9" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0013_9">
+        <l n="33" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_9_33">Iesu, tibi sit gloria,</l>
+        <l n="34" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_9_34">qui natus es de Virgine,</l>
+        <l n="35" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_9_35">cum Patre et almo Spiritu</l>
+        <l n="36" type="dimeter_iambicus" xml:id="HY_BA_1957_0013_9_36">in sempiterna saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1957</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

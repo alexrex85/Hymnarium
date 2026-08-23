@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1957_0164"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Sacrum Philippo canticum</title>
+
+        <author>Mazzoleni</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">Sancti Philippi Nerii Sacerdotis et Confessoris, ad Laudes et ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1957</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">Sancti Philippi Nerii Sacerdotis et Confessoris, ad Laudes et ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Sacrum Philippo canticum</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0164_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_1_1">Sacrum Philippo canticum</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_1_2">terraeque et astra concinant:</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_1_3">implevit hic virtutibus</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_1_4">terras, et astra civibus.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0164_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_2_5">Rectae magister semitae,</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_2_6">dux gentis, ara pauperum,</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_2_7">ardens lucerna in Israel:</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_2_8">sic ille Romae splenduit.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0164_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_3_9">Inter sepulcra martyrum</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_3_10">orat, latetque pervigil:</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_3_11">ex his sepulcris prodiens</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_3_12">vitam resumit caelicam.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0164_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_4_13">Romanae honorem purpurae,</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_4_14">quo plus meretur, respuit;</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_4_15">et maior ostro et infulis</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_4_16">virtute sola fulgurat.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0164_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_5_17">Illapsa flamma pectori</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_5_18">divini amoris aestuat,</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_5_19">et corde claudi nescia</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_5_20">costas refractas dividit.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0164_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_6_21">Ad astra iam cor altius</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_6_22">vulnus per illud evolat;</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_6_23">et fusa late in proximos</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_6_24">divina flagrat charitas.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0164_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_7_25">Haec caritatis vulnera</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_7_26">plagas coaequant martyrum:</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_7_27">hic cordis ignis aestuans</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_7_28">flammas adaequat Seraphim.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0164_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_8_29">Ergo rogamus supplices,</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_8_30">Philippe, summo Numini</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_8_31">tu nostra pande pectora,</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_8_32">tuis ut urat ignibus.</l>
+      </lg>
+      <lg n="9" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0164_9">
+        <l n="33" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_9_33">Deo Patri sit gloria,</l>
+        <l n="34" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_9_34">eiusque soli Filio,</l>
+        <l n="35" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_9_35">cum Spiritu Paraclito</l>
+        <l n="36" type="dimeter_iambicus" xml:id="HY_BA_1957_0164_9_36">nunc et per omne saeculum. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1957</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

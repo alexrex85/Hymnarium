@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1957_0034"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Veni Creator Spiritus</title>
+
+        <author>Hrabanus Maurus</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">In die sancto Pentecostes, ad Laudes</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1957</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">In die sancto Pentecostes, ad Laudes</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Veni Creator Spiritus</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0034_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1957_0034_1_1">Veni, Creator Spiritus,</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1957_0034_1_2">mentes tuorum visita,</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1957_0034_1_3">imple superna gratia</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1957_0034_1_4">quae tu creasti pectora.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0034_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1957_0034_2_5">Qui Paracletus diceris,</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1957_0034_2_6">donum Dei altissimi,</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1957_0034_2_7">fons vivus, ignis, charitas,</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1957_0034_2_8">et spiritalis unctio.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0034_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1957_0034_3_9">Tu septiformis munere,</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1957_0034_3_10">dexterae Dei tu digitus,</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1957_0034_3_11">tu rite promissum Patris,</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1957_0034_3_12">sermone ditans guttura.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0034_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1957_0034_4_13">Accende lumen sensibus,</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1957_0034_4_14">infunde amorem cordibus,</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1957_0034_4_15">infirma nostri corporis</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1957_0034_4_16">virtute firmans perpeti.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0034_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1957_0034_5_17">Hostem repellas longius,</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1957_0034_5_18">pacemque dones protinus:</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1957_0034_5_19">ductore sic te praevio,</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1957_0034_5_20">vitemus omne noxium.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0034_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_BA_1957_0034_6_21">Per te sciamus da Patrem,</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_BA_1957_0034_6_22">noscamus atque Filium;</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_BA_1957_0034_6_23">te utriusque Spiritum</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_BA_1957_0034_6_24">credamus omni tempore.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0034_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_BA_1957_0034_7_25">Gloria Patri Domino,</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_BA_1957_0034_7_26">Natoque qui a mortuis</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_BA_1957_0034_7_27">surrexit, ac Paraclito</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_BA_1957_0034_7_28">in saeculorum saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1957</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

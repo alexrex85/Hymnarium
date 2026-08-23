@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1957_0108"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Regis supremi Nuncio</title>
+
+        <author>Anonymus saec. XVIII</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">Sancti Gabrielis Archangeli, ad Laudes et ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1957</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">Sancti Gabrielis Archangeli, ad Laudes et ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Regis supremi Nuncio</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0108_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1957_0108_1_1">Regis supremi Nuncio</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1957_0108_1_2">festum sacremus canticum,</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1957_0108_1_3">qui nos ab alto visitet,</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1957_0108_1_4">caelique donis repleat.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0108_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1957_0108_2_5">Hic iussa reddens Numinis</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1957_0108_2_6">almam salutat Virginem,</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1957_0108_2_7">matrisque honorem deferens</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1957_0108_2_8">caelesti adimplet gratia.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0108_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1957_0108_3_9">Maria secum provida</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1957_0108_3_10">vocem revolvens Angeli</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1957_0108_3_11">arcana Verbi cogitat,</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1957_0108_3_12">turbata fatu mystico.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0108_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1957_0108_4_13">Mentem serenans Aliger</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1957_0108_4_14">velamen altum detegit,</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1957_0108_4_15">fideque firma muniens</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1957_0108_4_16">castum timorem discutit.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0108_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1957_0108_5_17">Ancilla fidens protinus</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1957_0108_5_18">votis supernis annuit,</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1957_0108_5_19">partus futuri praescia,</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1957_0108_5_20">salvo pudoris vinculo.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0108_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_BA_1957_0108_6_21">Functus decoro munere,</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_BA_1957_0108_6_22">victor triumphat Gabriel,</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_BA_1957_0108_6_23">astrisque demum redditus</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_BA_1957_0108_6_24">felix reponit nuncium.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0108_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_BA_1957_0108_7_25">Nobis precator, quaesumus,</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_BA_1957_0108_7_26">adsis, minister Spiritus,</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_BA_1957_0108_7_27">aures benignae Virginis</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_BA_1957_0108_7_28">inflecte nostris vocibus.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0108_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_BA_1957_0108_8_29">Patri simul cum Filio,</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_BA_1957_0108_8_30">ac Spiritu Paraclito</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_BA_1957_0108_8_31">sicut fuit, sit gloria</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_BA_1957_0108_8_32">in saeculorum saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1957</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

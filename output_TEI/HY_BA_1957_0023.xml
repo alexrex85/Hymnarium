@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1957_0023"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Ex more docti mystico</title>
+
+        <author>Gregorius Magnus (dubius)</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">In Dominicis Quadragesimae, ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1957</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">In Dominicis Quadragesimae, ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Ex more docti mystico</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0023_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_1_1">Ex more docti mystico</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_1_2">servemus hoc ieiunium,</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_1_3">deno dierum circulo</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_1_4">ducto quater notissimo.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0023_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_2_5">Lex et prophetae primitus</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_2_6">hoc praetulerunt; postmodum</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_2_7">Christus sacravit, omnium</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_2_8">Rex atque Factor temporum.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0023_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_3_9">Utamur ergo parcius</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_3_10">verbis, cibis et potibus,</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_3_11">somno, iocis; et arctius</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_3_12">perstemus in custodia.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0023_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_4_13">Vitemus autem pessima,</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_4_14">quae subruunt mentes vagas,</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_4_15">nullumque demus callido</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_4_16">hosti locum tyrannidis.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0023_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_5_17">Dicamus omnes cernui,</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_5_18">clamemus atque singuli,</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_5_19">ploremus ante iudicem,</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_5_20">flectamus iram vindicem.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0023_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_6_21">Nostris malis offendimus</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_6_22">tuam, Deus, clementiam:</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_6_23">effunde nobis desuper,</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_6_24">Remissor, indulgentiam.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0023_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_7_25">Memento, quod sumus tui,</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_7_26">licet caduci plasmatis:</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_7_27">ne des honorem nominis</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_7_28">tui, precamur, alteri.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0023_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_8_29">Laxa malum, quod fecimus:</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_8_30">auge bonum, quod poscimus;</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_8_31">placere quod tandem tibi</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_8_32">possimus hic et perpetim.</l>
+      </lg>
+      <lg n="9" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0023_9">
+        <l n="33" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_9_33">Praesta, beata Trinitas,</l>
+        <l n="34" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_9_34">concede, simplex Unitas,</l>
+        <l n="35" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_9_35">ut fructuosa sint tuis</l>
+        <l n="36" type="dimeter_iambicus" xml:id="HY_BA_1957_0023_9_36">ieiuniorum munera. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1957</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1957_0019"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>O gente felix hospita</title>
+
+        <author>Leo XIII (Vincentius Ioachimus Raphaël Lodovicus Pecci)</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">In Festo Sanctae Familiae Iesu, Mariae, Ioseph, ad Laudes et ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1957</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">In Festo Sanctae Familiae Iesu, Mariae, Ioseph, ad Laudes et ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">O gente felix hospita</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0019_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1957_0019_1_1">O gente felix hospita,</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1957_0019_1_2">augusta sedes Nazarae,</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1957_0019_1_3">quae fovit alma Ecclesiae</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1957_0019_1_4">et protulit primordia.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0019_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1957_0019_2_5">Sol, qui pererrat aureo</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1957_0019_2_6">terras iacentes lumine,</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1957_0019_2_7">nil gratius per saecula</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1957_0019_2_8">haec vidit aede, aut sanctius.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0019_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1957_0019_3_9">Ad hanc frequentes convolant</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1957_0019_3_10">caelestis aulae nuntii,</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1957_0019_3_11">virtutis hoc sacrarium</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1957_0019_3_12">visunt, revisunt, excolunt.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0019_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1957_0019_4_13">Qua mente, Iesu, qua manu,</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1957_0019_4_14">optata patris perficit!</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1957_0019_4_15">Quo Virgo gestit gaudio</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1957_0019_4_16">materna obire munera!</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0019_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1957_0019_5_17">Adest amoris particeps</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1957_0019_5_18">curaeque Ioseph coniugi,</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1957_0019_5_19">quos mille iungit nexibus</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1957_0019_5_20">virtutis auctor gratia.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0019_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_BA_1957_0019_6_21">Hi diligentes invicem</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_BA_1957_0019_6_22">in Iesu amorem confluunt,</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_BA_1957_0019_6_23">utrique Iesu mutuae</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_BA_1957_0019_6_24">dat charitatis praemia.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0019_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_BA_1957_0019_7_25">Sic fiat, ut nos charitas</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_BA_1957_0019_7_26">iungat perenni foedere,</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_BA_1957_0019_7_27">pacemque alens domesticam</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_BA_1957_0019_7_28">amara vitae temperet!</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0019_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_BA_1957_0019_8_29">Iesu, tibi sit gloria</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_BA_1957_0019_8_30">qui natus es de Virgine,</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_BA_1957_0019_8_31">cum Patre et almo Spiritu</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_BA_1957_0019_8_32">in sempiterna saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1957</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1957_0151"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Dignum canentes Angeli</title>
+
+        <author>Anonymus saec. XVII</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">In Festo Sancti Ioseph Sponsi Beatae Mariae Virginis et Ecclesiae Catholicae Patroni, ad Laudes et ad Vesperas</note>
+        <note type="commentarius">Sancti Ioseph opificis Sponsi Beatae Mariae Virginis confessoris, ad Laudes et ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1957</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">In Festo Sancti Ioseph Sponsi Beatae Mariae Virginis et Ecclesiae Catholicae Patroni, ad Laudes et ad Vesperas</p>
+      <p type="notae">Sancti Ioseph opificis Sponsi Beatae Mariae Virginis confessoris, ad Laudes et ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Dignum canentes Angeli</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0151_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_1_1">Dignum canentes Angeli</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_1_2">carmen Iosepho pangite,</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_1_3">qui dormienti Numinis</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_1_4">olim tulistis nuntia.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0151_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_2_5">Regina caeli iungitur</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_2_6">intacta Virgo virgini,</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_2_7">dotata solis lumine,</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_2_8">repleta sancto Spiritu.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0151_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_3_9">Divinus Infans nascitur;</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_3_10">gestit parens coercitum</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_3_11">vagire Verbum fasciis,</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_3_12">risumque flere caelitum.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0151_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_4_13">Fuga iubetur praepeti</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_4_14">servare Numen, Angelo</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_4_15">paret monenti, Aegyptiis</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_4_16">lucem tenebris deferens.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0151_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_5_17">Regum creatus sanguine</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_5_18">pater Dei nutritius,</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_5_19">prolem Superni regiam</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_5_20">in orbe Patris educat.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0151_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_6_21">Amissus inde quaeritur</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_6_22">puer: repertus gaudium</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_6_23">reddit paternum: subditus</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_6_24">patris laborem sublevat.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0151_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_7_25">Astante demum Filio</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_7_26">sponsaque, laetus interit;</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_7_27">praesente vita, funeris</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_7_28">vicem Iosephus despicit.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0151_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_8_29">Te deprecamur, spiritus</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_8_30">defende nostros, corporum</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_8_31">ut liberati carcere</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_8_32">aeterna vincla nesciant.</l>
+      </lg>
+      <lg n="9" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0151_9">
+        <l n="33" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_9_33">Iesu, tibi sit gloria,</l>
+        <l n="34" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_9_34">qui natus es de Virgine,</l>
+        <l n="35" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_9_35">cum Patre et almo Spiritu</l>
+        <l n="36" type="dimeter_iambicus" xml:id="HY_BA_1957_0151_9_36">in sempiterna saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1957</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

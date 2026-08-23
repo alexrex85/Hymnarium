@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_BA_1957_0006">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_BA_1957_0006_1">
+        <l n="1" xml:id="HY_BA_1957_0006_1_1">rector potens verax deus</l>
+        <l n="2" xml:id="HY_BA_1957_0006_1_2">qui temperas rerum vices</l>
+        <l n="3" xml:id="HY_BA_1957_0006_1_3">splendore mane instruis</l>
+        <l n="4" xml:id="HY_BA_1957_0006_1_4">et ignibus meridiem</l>
+      </lg>
+      <lg n="2" xml:id="HY_BA_1957_0006_2">
+        <l n="5" xml:id="HY_BA_1957_0006_2_5">extingue flammas litium</l>
+        <l n="6" xml:id="HY_BA_1957_0006_2_6">aufer calorem noxium</l>
+        <l n="7" xml:id="HY_BA_1957_0006_2_7">confer salutem corporum</l>
+        <l n="8" xml:id="HY_BA_1957_0006_2_8">veramque pacem cordium</l>
+      </lg>
+      <lg n="3" xml:id="HY_BA_1957_0006_3">
+        <l n="9" xml:id="HY_BA_1957_0006_3_9">praesta pater piissime</l>
+        <l n="10" xml:id="HY_BA_1957_0006_3_10">per iesum christum dominum</l>
+        <l n="11" xml:id="HY_BA_1957_0006_3_11">qui tecum in perpetuum</l>
+        <l n="12" xml:id="HY_BA_1957_0006_3_12">regnat cum sancto spiritu amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

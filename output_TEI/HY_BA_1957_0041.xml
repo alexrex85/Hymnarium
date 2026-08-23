@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1957_0041"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Terrae polique Conditor</title>
+
+        <author>Anonymus saec. XVII</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">Festum Sanctissimae Trinitatis, ad Laudes et ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1957</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">Festum Sanctissimae Trinitatis, ad Laudes et ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Terrae polique Conditor</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0041_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1957_0041_1_1">Terrae polique Conditor</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1957_0041_1_2">Pater parentem nesciens,</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1957_0041_1_3">foecunda cuius comparem</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1957_0041_1_4">gignit sibi mens Filium;</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0041_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1957_0041_2_5">Summi Parentis Unice,</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1957_0041_2_6">Matrisque Fili Virginis,</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1957_0041_2_7">sumpta medens mortalium</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1957_0041_2_8">in carne carni noxiae;</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0041_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1957_0041_3_9">Tu, Spiritus caelestium</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1957_0041_3_10">largitor alme munerum,</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1957_0041_3_11">tuis rigentes pectorum</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1957_0041_3_12">fibras adurens ignibus:</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0041_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1957_0041_4_13">Salva precantes, Trinitas,</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1957_0041_4_14">defende, simplex Unitas,</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1957_0041_4_15">cum Patre Proles caelica</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1957_0041_4_16">et utriusque Spiritus. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1957</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

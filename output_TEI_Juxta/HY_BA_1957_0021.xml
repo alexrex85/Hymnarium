@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_BA_1957_0021">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_BA_1957_0021_1">
+        <l n="1" xml:id="HY_BA_1957_0021_1_1">iam christe tolle mentium</l>
+        <l n="2" xml:id="HY_BA_1957_0021_1_2">divine sol caliginem</l>
+        <l n="3" xml:id="HY_BA_1957_0021_1_3">virtutis ut lux fulgeat</l>
+        <l n="4" xml:id="HY_BA_1957_0021_1_4">terris resurgit cum diesi</l>
+      </lg>
+      <lg n="2" xml:id="HY_BA_1957_0021_2">
+        <l n="5" xml:id="HY_BA_1957_0021_2_5">da tempus acceptabile</l>
+        <l n="6" xml:id="HY_BA_1957_0021_2_6">largire pectus poenitens</l>
+        <l n="7" xml:id="HY_BA_1957_0021_2_7">convertat ut benignitas</l>
+        <l n="8" xml:id="HY_BA_1957_0021_2_8">quos longa suffert caritas</l>
+      </lg>
+      <lg n="3" xml:id="HY_BA_1957_0021_3">
+        <l n="9" xml:id="HY_BA_1957_0021_3_9">da flere noxas cordibus</l>
+        <l n="10" xml:id="HY_BA_1957_0021_3_10">parcentis etsi grandium</l>
+        <l n="11" xml:id="HY_BA_1957_0021_3_11">maiore larga munere</l>
+        <l n="12" xml:id="HY_BA_1957_0021_3_12">remissio sit criminum</l>
+      </lg>
+      <lg n="4" xml:id="HY_BA_1957_0021_4">
+        <l n="13" xml:id="HY_BA_1957_0021_4_13">dies venit dies tua</l>
+        <l n="14" xml:id="HY_BA_1957_0021_4_14">in qua reflorent omnia</l>
+        <l n="15" xml:id="HY_BA_1957_0021_4_15">laetemur in hac ad tuam</l>
+        <l n="16" xml:id="HY_BA_1957_0021_4_16">per te reducti gratiam</l>
+      </lg>
+      <lg n="5" xml:id="HY_BA_1957_0021_5">
+        <l n="17" xml:id="HY_BA_1957_0021_5_17">te prona tellus et polus</l>
+        <l n="18" xml:id="HY_BA_1957_0021_5_18">clemens adoret trinitas</l>
+        <l n="19" xml:id="HY_BA_1957_0021_5_19">et nos novi per spiritum</l>
+        <l n="20" xml:id="HY_BA_1957_0021_5_20">novum canamus canticum</l>
+      </lg>
+      <lg n="6" xml:id="HY_BA_1957_0021_6">
+        <l n="21" xml:id="HY_BA_1957_0021_6_21">patri simulque filio</l>
+        <l n="22" xml:id="HY_BA_1957_0021_6_22">tibique sancte spiritus</l>
+        <l n="23" xml:id="HY_BA_1957_0021_6_23">sicut fuit sit iugiter</l>
+        <l n="24" xml:id="HY_BA_1957_0021_6_24">saeclum per omne gloria amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

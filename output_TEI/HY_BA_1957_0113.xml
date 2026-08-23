@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1957_0113"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Sebastiani martyris</title>
+
+        <author>Ausonius De Clericis</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">Sancti Sebastiani Martyris, ad Laudes et ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1957</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">Sancti Sebastiani Martyris, ad Laudes et ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Sebastiani martyris</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0113_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_1_1">Sebastiani martyris,</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_1_2">concivis almi, supplices</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_1_3">diem sacratum vocibus</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_1_4">canamus omnes debitis.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0113_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_2_5">Athleta Christi nobilis,</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_2_6">ardens amore praelii,</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_2_7">linquit tepentem patriam,</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_2_8">pugnamque Romae destinat.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0113_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_3_9">Hic cultor alti dogmatis,</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_3_10">virtute plenus caelica,</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_3_11">idola damnans, inclyti</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_3_12">trophaea sperat martyris.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0113_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_4_13">Loris revinctus plurimis,</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_4_14">qua stipes ingens tollitur,</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_4_15">vibrata tela suscipit</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_4_16">umbone nudo pectoris.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0113_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_5_17">Fit silva corpus ferrea;</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_5_18">sed aere mens constantior</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_5_19">ut molle ferrum despicit:</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_5_20">ferum precatur, saeviat.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0113_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_6_21">Manantis unda sanguinis</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_6_22">exangue corpus nuntiat;</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_6_23">sed casta noctu foemina</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_6_24">plagas tumentes recreat.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0113_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_7_25">Caeleste robur militi</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_7_26">adacta praebent vulnera;</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_7_27">rursum tyrannum provocans</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_7_28">expirat inter vulnera.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0113_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_8_29">Nunc caeli in arce considens,</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_8_30">bellator o fortissime,</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_8_31">luem fugando civium,</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_8_32">tuere clemens corpora.</l>
+      </lg>
+      <lg n="9" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0113_9">
+        <l n="33" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_9_33">Patri, simulque Filio,</l>
+        <l n="34" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_9_34">tibique, sancte Spiritus,</l>
+        <l n="35" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_9_35">sicut fuit, sit iugiter</l>
+        <l n="36" type="dimeter_iambicus" xml:id="HY_BA_1957_0113_9_36">saeclum per omne gloria. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1957</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

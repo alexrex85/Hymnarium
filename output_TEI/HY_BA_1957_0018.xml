@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1957_0018"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Herodis insanus furor</title>
+
+        <author>Anonymus saec. XVII</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">In Festo Christophoriae, ad Laudes et ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1957</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">In Festo Christophoriae, ad Laudes et ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Herodis insanus furor</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0018_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1957_0018_1_1">Herodis insanus furor</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1957_0018_1_2">ut rupe fluctus frangitur,</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1957_0018_1_3">ut fumus aura solvitur,</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1957_0018_1_4">defunctus orbem liberat.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0018_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1957_0018_2_5">Ales Iosepho mittitur,</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1957_0018_2_6">qui dormienti nuntiet,</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1957_0018_2_7">cum Matre tollat Filium,</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1957_0018_2_8">terraque sistat patria.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0018_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1957_0018_3_9">Fama recenti territus,</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1957_0018_3_10">et voce iussus Angeli,</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1957_0018_3_11">iter capessit Nazareth,</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1957_0018_3_12">ut scripta vatum compleat.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0018_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1957_0018_4_13">Nos deprecemur Filium,</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1957_0018_4_14">recta reponat semita,</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1957_0018_4_15">illinc reducens gratia,</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1957_0018_4_16">quo nostra culpa flexerat.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0018_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1957_0018_5_17">Iesu, tibi sit gloria</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1957_0018_5_18">qui natus es de Virgine,</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1957_0018_5_19">cum Patre et almo Spiritu</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1957_0018_5_20">in sempiterna saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1957</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

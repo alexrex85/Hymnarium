@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1957_0015"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Audi beata Seraphim</title>
+
+        <author>Carolus Rosa</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">In Festo Sancti Ioannis Apostoli et Evangelistae, ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1957</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">In Festo Sancti Ioannis Apostoli et Evangelistae, ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Audi beata Seraphim</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0015_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_1_1">Audi, beata Seraphim,</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_1_2">tecumque noster aemulis</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_1_3">chorus resultet canticis:</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_1_4">hic est, quem Iesus diligit.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0015_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_2_5">Qui dum Magistri in pectore</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_2_6">somno recumbit mystico,</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_2_7">quiescit instar Angeli,</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_2_8">Dei fruens amplexibus.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0015_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_3_9">Hic discit, ante saecula</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_3_10">natum unde Verbum prodeat,</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_3_11">sinumque Matris impleat,</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_3_12">sinum Patris non deserens.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0015_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_4_13">Felix Ioannes, conferas</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_4_14">nunc clara Thabor culmina</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_4_15">cum dulci Iesu pectore,</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_4_16">et narra ubi plus gaudeas.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0015_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_5_17">Iam te Mariae Filium</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_5_18">in monte Christus nuncupat,</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_5_19">suoque suetum pectori</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_5_20">in corde Matris collocat.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0015_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_6_21">Cui te, Ioannes, comparem?</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_6_22">Divina vox te parturit;</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_6_23">ex ore Verbi nasceris</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_6_24">alter Mariae Filius.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0015_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_7_25">O Virgo dignus Virgine!</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_7_26">Successor alti nominis,</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_7_27">Custos Mariae et Filius,</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_7_28">tanto nec impar muneri.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0015_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_8_29">Nunc ergo, fili Virginis,</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_8_30">Mariae adauge filios,</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_8_31">sinusque Iesu conscie,</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_8_32">nos conde Christi in pectore.</l>
+      </lg>
+      <lg n="9" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0015_9">
+        <l n="33" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_9_33">Iesu, tibi sit gloria,</l>
+        <l n="34" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_9_34">qui natus es de Virgine,</l>
+        <l n="35" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_9_35">cum Patre et almo Spiritu</l>
+        <l n="36" type="dimeter_iambicus" xml:id="HY_BA_1957_0015_9_36">in sempiterna saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1957</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

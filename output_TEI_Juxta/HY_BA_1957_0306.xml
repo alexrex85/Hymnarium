@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_BA_1957_0306">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_BA_1957_0306_1">
+        <l n="1" xml:id="HY_BA_1957_0306_1_1">ancilla christi nobilis</l>
+        <l n="2" xml:id="HY_BA_1957_0306_1_2">culpaeque pura noxiae</l>
+        <l n="3" xml:id="HY_BA_1957_0306_1_3">despexit orbis commoda</l>
+        <l n="4" xml:id="HY_BA_1957_0306_1_4">stellantis ardens patriae</l>
+      </lg>
+      <lg n="2" xml:id="HY_BA_1957_0306_2">
+        <l n="5" xml:id="HY_BA_1957_0306_2_5">fide flagrabat igneo</l>
+        <l n="6" xml:id="HY_BA_1957_0306_2_6">succensa amore numinis</l>
+        <l n="7" xml:id="HY_BA_1957_0306_2_7">signis refulgens plurimis</l>
+        <l n="8" xml:id="HY_BA_1957_0306_2_8">caeli potitur praemiis</l>
+      </lg>
+      <lg n="3" xml:id="HY_BA_1957_0306_3">
+        <l n="9" xml:id="HY_BA_1957_0306_3_9">ex valle tristi flentium</l>
+        <l n="10" xml:id="HY_BA_1957_0306_3_10">vinclis soluta corporis</l>
+        <l n="11" xml:id="HY_BA_1957_0306_3_11">ad astra pergens gaudia</l>
+        <l n="12" xml:id="HY_BA_1957_0306_3_12">nunc possidet caelestia</l>
+      </lg>
+      <lg n="4" xml:id="HY_BA_1957_0306_4">
+        <l n="13" xml:id="HY_BA_1957_0306_4_13">uni deo sit gloria</l>
+        <l n="14" xml:id="HY_BA_1957_0306_4_14">huius rogatu qui pius</l>
+        <l n="15" xml:id="HY_BA_1957_0306_4_15">vitae peracto termino</l>
+        <l n="16" xml:id="HY_BA_1957_0306_4_16">nos iungat axis civibus amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

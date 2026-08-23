@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_BA_1957_0041">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_BA_1957_0041_1">
+        <l n="1" xml:id="HY_BA_1957_0041_1_1">terrae polique conditor</l>
+        <l n="2" xml:id="HY_BA_1957_0041_1_2">pater parentem nesciens</l>
+        <l n="3" xml:id="HY_BA_1957_0041_1_3">foecunda cuius comparem</l>
+        <l n="4" xml:id="HY_BA_1957_0041_1_4">gignit sibi mens filium</l>
+      </lg>
+      <lg n="2" xml:id="HY_BA_1957_0041_2">
+        <l n="5" xml:id="HY_BA_1957_0041_2_5">summi parentis unice</l>
+        <l n="6" xml:id="HY_BA_1957_0041_2_6">matrisque fili virginis</l>
+        <l n="7" xml:id="HY_BA_1957_0041_2_7">sumpta medens mortalium</l>
+        <l n="8" xml:id="HY_BA_1957_0041_2_8">in carne carni noxiae</l>
+      </lg>
+      <lg n="3" xml:id="HY_BA_1957_0041_3">
+        <l n="9" xml:id="HY_BA_1957_0041_3_9">tu spiritus caelestium</l>
+        <l n="10" xml:id="HY_BA_1957_0041_3_10">largitor alme munerum</l>
+        <l n="11" xml:id="HY_BA_1957_0041_3_11">tuis rigentes pectorum</l>
+        <l n="12" xml:id="HY_BA_1957_0041_3_12">fibras adurens ignibus</l>
+      </lg>
+      <lg n="4" xml:id="HY_BA_1957_0041_4">
+        <l n="13" xml:id="HY_BA_1957_0041_4_13">salva precantes trinitas</l>
+        <l n="14" xml:id="HY_BA_1957_0041_4_14">defende simplex unitas</l>
+        <l n="15" xml:id="HY_BA_1957_0041_4_15">cum patre proles caelica</l>
+        <l n="16" xml:id="HY_BA_1957_0041_4_16">et utriusque spiritus amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

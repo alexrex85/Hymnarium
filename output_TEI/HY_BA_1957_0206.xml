@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1957_0206"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Optata fulsit Praesulis</title>
+
+        <author>Ioannes Baptista Rusca</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">Sancti Calimerii Episcopi et Martyris, ad Laudes et ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1957</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">Sancti Calimerii Episcopi et Martyris, ad Laudes et ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Optata fulsit Praesulis</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0206_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1957_0206_1_1">Optata fulsit Praesulis</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1957_0206_1_2">lux sacra Calimerii,</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1957_0206_1_3">qui luce splendens nominis,</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1957_0206_1_4">splendore crevit sanguinis.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0206_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1957_0206_2_5">Graecis ab oris profugus,</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1957_0206_2_6">ut sede tuta sisteret,</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1957_0206_2_7">Romae sacrorum principem</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1957_0206_2_8">hospes rogat Telesphorum.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0206_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1957_0206_3_9">Sed pulsus inde ab impiis</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1957_0206_3_10">effugit, atque illinc vagus,</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1957_0206_3_11">divina qua ducit manus,</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1957_0206_3_12">ad nostra venit moenia.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0206_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1957_0206_4_13">Hic fovit illum charitas</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1957_0206_4_14">Castritiani episcopi:</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1957_0206_4_15">crevitque sic virtutibus</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1957_0206_4_16">successor ut mox fieret.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0206_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1957_0206_5_17">Sed dum profana numina</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1957_0206_5_18">verbo tonante fulminat,</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1957_0206_5_19">percussus ense barbaro</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1957_0206_5_20">ad astra victor evolat.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0206_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_BA_1957_0206_6_21">Putei profundo mergitur</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_BA_1957_0206_6_22">ut sol in undis occidens;</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_BA_1957_0206_6_23">ut clarior resurgeret,</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_BA_1957_0206_6_24">cruore totus innatat.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0206_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_BA_1957_0206_7_25">Tu, Christe, tanti martyris</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_BA_1957_0206_7_26">nobis rogatu subveni:</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_BA_1957_0206_7_27">pellatque nostra crimina</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_BA_1957_0206_7_28">sincera virtus Praesulis.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0206_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_BA_1957_0206_8_29">Patri simulque Filio</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_BA_1957_0206_8_30">tibique, Sancte Spiritus,</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_BA_1957_0206_8_31">sicut fuit, sit iugiter</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_BA_1957_0206_8_32">saeclum per omne gloria. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1957</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

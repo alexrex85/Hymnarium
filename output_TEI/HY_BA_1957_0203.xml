@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1957_0203"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Lux o decora patriae</title>
+
+        <author>Aloisius Tripepi</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">Sanctorum Cyrilli monachi et Methodii Pontificum et Confessorum, ad Laudes et ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1957</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">Sanctorum Cyrilli monachi et Methodii Pontificum et Confessorum, ad Laudes et ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Lux o decora patriae</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0203_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1957_0203_1_1">Lux o decora patriae,</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1957_0203_1_2">Slavisque amica gentibus,</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1957_0203_1_3">salvete, fratres; annuo</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1957_0203_1_4">vos efferemus cantico;</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0203_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1957_0203_2_5">Quos Roma plaudens excipit,</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1957_0203_2_6">complexa mater filios,</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1957_0203_2_7">auget corona praesulum</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1957_0203_2_8">novoque firmat robore.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0203_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1957_0203_3_9">Terras ad usque barbaras</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1957_0203_3_10">inferre Christum pergitis;</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1957_0203_3_11">quot vanus error luserat,</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1957_0203_3_12">almo repletis lumine.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0203_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1957_0203_4_13">Noxis soluta pectora</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1957_0203_4_14">ardor supernus abripit;</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1957_0203_4_15">mutatur horror veprium</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1957_0203_4_16">in sanctitatis flosculos.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0203_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1957_0203_5_17">Et nunc serena caelitum</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1957_0203_5_18">locati in aula, supplici</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1957_0203_5_19">adeste voto: Slavicas</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1957_0203_5_20">servate gentes Numini.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0203_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_BA_1957_0203_6_21">Errore mersos unicum</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_BA_1957_0203_6_22">ovile Christi congreget;</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_BA_1957_0203_6_23">factis avitis aemula</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_BA_1957_0203_6_24">fides virescat pulchrior.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0203_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_BA_1957_0203_7_25">Tu nos, beata Trinitas,</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_BA_1957_0203_7_26">caelesti amore concita,</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_BA_1957_0203_7_27">Patrumque natos inclyta</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_BA_1957_0203_7_28">da persequi vestigia. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1957</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

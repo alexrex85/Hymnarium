@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1957_0112"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Quodcumque in orbe nexibus revinxeris</title>
+
+        <author>Paulinus Aquileiensis</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Trimetrum iambicum</note>
+
+        <note type="commentarius">In Festo Cathedrae Sancti Petri Romae, ad Laudes et ad Vesperas</note>
+        <note type="commentarius">In Festo Cathedrae Sancti Petri Antiochiae, ad Laudes et ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1957</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">In Festo Cathedrae Sancti Petri Romae, ad Laudes et ad Vesperas</p>
+      <p type="notae">In Festo Cathedrae Sancti Petri Antiochiae, ad Laudes et ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Quodcumque in orbe nexibus revinxeris</head>
+
+      <lg n="1" type="pentastichon_iambicum" xml:id="HY_BA_1957_0112_1">
+        <l n="1" type="trimeter_iambicus" xml:id="HY_BA_1957_0112_1_1">Quodcumque in orbe nexibus revinxeris,</l>
+        <l n="2" type="trimeter_iambicus" xml:id="HY_BA_1957_0112_1_2">erit revinctum, Petre, in arce siderum:</l>
+        <l n="3" type="trimeter_iambicus" xml:id="HY_BA_1957_0112_1_3">et quod resolvit hic potestas tradita,</l>
+        <l n="4" type="trimeter_iambicus" xml:id="HY_BA_1957_0112_1_4">erit solutum caeli in alto vertice:</l>
+        <l n="5" type="trimeter_iambicus" xml:id="HY_BA_1957_0112_1_5">in fine mundi iudicabis saeculum.</l>
+      </lg>
+      <lg n="2" type="pentastichon_iambicum" xml:id="HY_BA_1957_0112_2">
+        <l n="6" type="trimeter_iambicus" xml:id="HY_BA_1957_0112_2_6">Patri perenne sit per aevum gloria,</l>
+        <l n="7" type="trimeter_iambicus" xml:id="HY_BA_1957_0112_2_7">tibique laudes concinamus inclitas,</l>
+        <l n="8" type="trimeter_iambicus" xml:id="HY_BA_1957_0112_2_8">aeterne Nate: sit, superne Spiritus,</l>
+        <l n="9" type="trimeter_iambicus" xml:id="HY_BA_1957_0112_2_9">honor tibi decusque: sancta iugiter</l>
+        <l n="10" type="trimeter_iambicus" xml:id="HY_BA_1957_0112_2_10">laudetur omne Trinitas per saeculum. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1957</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Trimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

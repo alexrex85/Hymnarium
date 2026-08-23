@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_BA_1957_0302">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_BA_1957_0302_1">
+        <l n="1" xml:id="HY_BA_1957_0302_1_1">deus tuorum militum</l>
+        <l n="2" xml:id="HY_BA_1957_0302_1_2">sors et corona praemium</l>
+        <l n="3" xml:id="HY_BA_1957_0302_1_3">laudes canentes martyris</l>
+        <l n="4" xml:id="HY_BA_1957_0302_1_4">absolve nexum criminis</l>
+      </lg>
+      <lg n="2" xml:id="HY_BA_1957_0302_2">
+        <l n="5" xml:id="HY_BA_1957_0302_2_5">hic nempe mundi gaudia</l>
+        <l n="6" xml:id="HY_BA_1957_0302_2_6">et blanda vitae commoda</l>
+        <l n="7" xml:id="HY_BA_1957_0302_2_7">caduca rite deputans</l>
+        <l n="8" xml:id="HY_BA_1957_0302_2_8">pervenit ad caelestia</l>
+      </lg>
+      <lg n="3" xml:id="HY_BA_1957_0302_3">
+        <l n="9" xml:id="HY_BA_1957_0302_3_9">poenas cucurrit fortiter</l>
+        <l n="10" xml:id="HY_BA_1957_0302_3_10">et sustulit viriliter</l>
+        <l n="11" xml:id="HY_BA_1957_0302_3_11">fuso triumphans sanguine</l>
+        <l n="12" xml:id="HY_BA_1957_0302_3_12">aeterna dona possidet</l>
+      </lg>
+      <lg n="4" xml:id="HY_BA_1957_0302_4">
+        <l n="13" xml:id="HY_BA_1957_0302_4_13">hic nos precantes supplices</l>
+        <l n="14" xml:id="HY_BA_1957_0302_4_14">te poscimus piissime</l>
+        <l n="15" xml:id="HY_BA_1957_0302_4_15">in hoc triumpho martyris</l>
+        <l n="16" xml:id="HY_BA_1957_0302_4_16">dimitte noxam servulis</l>
+      </lg>
+      <lg n="5" xml:id="HY_BA_1957_0302_5">
+        <l n="17" xml:id="HY_BA_1957_0302_5_17">deo patri sit gloria</l>
+        <l n="18" xml:id="HY_BA_1957_0302_5_18">eiusque soli filio</l>
+        <l n="19" xml:id="HY_BA_1957_0302_5_19">cum spiritu paraclito</l>
+        <l n="20" xml:id="HY_BA_1957_0302_5_20">in sempiterna saecula amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

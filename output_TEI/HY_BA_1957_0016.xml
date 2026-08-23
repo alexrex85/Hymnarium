@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1957_0016"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Supplex sacramus canticum</title>
+
+        <author>Anonymus saec. incerti</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">In Festo Sanctissimi Nominis Iesu, ad Laudes et ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1957</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">In Festo Sanctissimi Nominis Iesu, ad Laudes et ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Supplex sacramus canticum</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0016_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1957_0016_1_1">Supplex sacramus canticum</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1957_0016_1_2">divino Iesu nomini,</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1957_0016_1_3">quod astra, terrae et inferi</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1957_0016_1_4">laudant, adorant, et tremunt.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0016_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1957_0016_2_5">Nomen salutis nuntium</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1957_0016_2_6">supra omne nomen prominens,</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1957_0016_2_7">fons vitae, origo gratiae,</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1957_0016_2_8">caelestis arrha gloriae.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0016_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1957_0016_3_9">O melle Nomen dulcius,</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1957_0016_3_10">quod corde et ore personans,</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1957_0016_3_11">curas, dolores, daemones,</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1957_0016_3_12">mulcet, retundit, dissipat.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0016_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1957_0016_4_13">Hoc Nomen invocantibus</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1957_0016_4_14">sit iuge nobis gaudium,</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1957_0016_4_15">vitae laborem temperans,</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1957_0016_4_16">mortis timorem diluens.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0016_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1957_0016_5_17">Iesu, tuo sit Nomini</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1957_0016_5_18">cum Patre et almo Spiritu,</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1957_0016_5_19">regnans piis in cordibus,</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1957_0016_5_20">aeterna laus et gloria. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1957</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

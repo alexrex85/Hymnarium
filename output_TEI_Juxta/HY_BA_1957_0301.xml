@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_BA_1957_0301">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_BA_1957_0301_1">
+        <l n="1" xml:id="HY_BA_1957_0301_1_1">aeterna christi munera</l>
+        <l n="2" xml:id="HY_BA_1957_0301_1_2">apostolorum gloriam</l>
+        <l n="3" xml:id="HY_BA_1957_0301_1_3">laudes ferentes debitas</l>
+        <l n="4" xml:id="HY_BA_1957_0301_1_4">laetis canamus mentibus</l>
+      </lg>
+      <lg n="2" xml:id="HY_BA_1957_0301_2">
+        <l n="5" xml:id="HY_BA_1957_0301_2_5">ecclesiarum principes</l>
+        <l n="6" xml:id="HY_BA_1957_0301_2_6">belli triumphales duces</l>
+        <l n="7" xml:id="HY_BA_1957_0301_2_7">caelestis aulae milites</l>
+        <l n="8" xml:id="HY_BA_1957_0301_2_8">et vera mundi lumina</l>
+      </lg>
+      <lg n="3" xml:id="HY_BA_1957_0301_3">
+        <l n="9" xml:id="HY_BA_1957_0301_3_9">devota sanctorum fides</l>
+        <l n="10" xml:id="HY_BA_1957_0301_3_10">invicta spes credentium</l>
+        <l n="11" xml:id="HY_BA_1957_0301_3_11">perfecta christi charitas</l>
+        <l n="12" xml:id="HY_BA_1957_0301_3_12">mundi tyrannum conterit</l>
+      </lg>
+      <lg n="4" xml:id="HY_BA_1957_0301_4">
+        <l n="13" xml:id="HY_BA_1957_0301_4_13">in his paterna gloria</l>
+        <l n="14" xml:id="HY_BA_1957_0301_4_14">in his triumphat filius</l>
+        <l n="15" xml:id="HY_BA_1957_0301_4_15">in his voluntas spiritus</l>
+        <l n="16" xml:id="HY_BA_1957_0301_4_16">caelum repletur gaudio</l>
+      </lg>
+      <lg n="5" xml:id="HY_BA_1957_0301_5">
+        <l n="17" xml:id="HY_BA_1957_0301_5_17">te nunc redemptor quaesumus</l>
+        <l n="18" xml:id="HY_BA_1957_0301_5_18">apostolis laetantibus</l>
+        <l n="19" xml:id="HY_BA_1957_0301_5_19">adiunge servos supplices</l>
+        <l n="20" xml:id="HY_BA_1957_0301_5_20">in sempiterna saecula</l>
+      </lg>
+      <lg n="6" xml:id="HY_BA_1957_0301_6">
+        <l n="21" xml:id="HY_BA_1957_0301_6_21">patri simulque filio</l>
+        <l n="22" xml:id="HY_BA_1957_0301_6_22">tibique sancte spiritus</l>
+        <l n="23" xml:id="HY_BA_1957_0301_6_23">sicut fuit sit iugiter</l>
+        <l n="24" xml:id="HY_BA_1957_0301_6_24">saeclum per omne gloria amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

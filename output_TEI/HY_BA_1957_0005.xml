@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1957_0005"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Nunc sancte nobis Spiritus</title>
+
+        <author>Ambrosius Mediolanensis (dubius)</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">In Feriis et Festis Sanctorum, ad Tertiam</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1957</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">In Feriis et Festis Sanctorum, ad Tertiam</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Nunc sancte nobis Spiritus</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0005_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1957_0005_1_1">Nunc, sancte nobis Spiritus,</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1957_0005_1_2">unum Patri cum Filio,</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1957_0005_1_3">dignare promptus ingeri,</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1957_0005_1_4">nostro refusus pectori.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0005_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1957_0005_2_5">Os, lingua, mens, sensus, vigor</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1957_0005_2_6">confessionem personent,</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1957_0005_2_7">flammescat igne charitas,</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1957_0005_2_8">accendat ardor proximos.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0005_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1957_0005_3_9">Praesta, Pater piissime,</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1957_0005_3_10">per Iesum Christum Dominum,</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1957_0005_3_11">qui tecum in perpetuum</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1957_0005_3_12">regnat cum sancto Spiritu. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1957</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

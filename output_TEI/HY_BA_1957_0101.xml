@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1957_0101"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Te gestientem gaudiis</title>
+
+        <author>Aloisius Tripepi</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">In Festo Sanctissimi Rosarii, ad Laudes et ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1957</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">In Festo Sanctissimi Rosarii, ad Laudes et ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Te gestientem gaudiis</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0101_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1957_0101_1_1">Te gestientem gaudiis,</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1957_0101_1_2">te sauciam doloribus,</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1957_0101_1_3">te iugi amictam gloria,</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1957_0101_1_4">o Virgo Mater, pangimus.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0101_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1957_0101_2_5">Ave, redundans gaudio</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1957_0101_2_6">dum concipis, dum visitas,</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1957_0101_2_7">et edis, offers, invenis,</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1957_0101_2_8">Mater beata, Filium.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0101_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1957_0101_3_9">Ave, dolens, et intimo</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1957_0101_3_10">in corde agonem, verbera,</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1957_0101_3_11">spinas crucemque Filii</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1957_0101_3_12">perpessa, princeps martyrum.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0101_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1957_0101_4_13">Ave, in triumphis Filii,</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1957_0101_4_14">in ignibus Paraclyti,</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1957_0101_4_15">in regni honore et lumine,</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1957_0101_4_16">Regina fulgens gloria.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0101_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1957_0101_5_17">Venite, gentes, carpite</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1957_0101_5_18">ex his rosas mysteriis,</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1957_0101_5_19">et pulchri amoris inclytae</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1957_0101_5_20">Matri coronas nectite.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0101_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_BA_1957_0101_6_21">Iesu, tibi sit gloria,</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_BA_1957_0101_6_22">qui natus es de Virgine,</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_BA_1957_0101_6_23">cum Patre et almo Spiritu</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_BA_1957_0101_6_24">in sempiterna saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1957</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

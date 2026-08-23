@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_BA_1957_0022">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_BA_1957_0022_1">
+        <l n="1" xml:id="HY_BA_1957_0022_1_1">audi benigne conditor</l>
+        <l n="2" xml:id="HY_BA_1957_0022_1_2">nostras preces cum fletibus</l>
+        <l n="3" xml:id="HY_BA_1957_0022_1_3">in hoc sacro ieiunio</l>
+        <l n="4" xml:id="HY_BA_1957_0022_1_4">fusas quadragenario</l>
+      </lg>
+      <lg n="2" xml:id="HY_BA_1957_0022_2">
+        <l n="5" xml:id="HY_BA_1957_0022_2_5">scrutator alme cordium</l>
+        <l n="6" xml:id="HY_BA_1957_0022_2_6">infirma tu scis virium</l>
+        <l n="7" xml:id="HY_BA_1957_0022_2_7">ad te reversis exhibe</l>
+        <l n="8" xml:id="HY_BA_1957_0022_2_8">remissionis gratiam</l>
+      </lg>
+      <lg n="3" xml:id="HY_BA_1957_0022_3">
+        <l n="9" xml:id="HY_BA_1957_0022_3_9">multum quidem peccavimus</l>
+        <l n="10" xml:id="HY_BA_1957_0022_3_10">sed parce confitentibus</l>
+        <l n="11" xml:id="HY_BA_1957_0022_3_11">ad nominis laudem tui</l>
+        <l n="12" xml:id="HY_BA_1957_0022_3_12">confer medelam languidis</l>
+      </lg>
+      <lg n="4" xml:id="HY_BA_1957_0022_4">
+        <l n="13" xml:id="HY_BA_1957_0022_4_13">sic corpus extra conteri</l>
+        <l n="14" xml:id="HY_BA_1957_0022_4_14">dona per abstinentiam</l>
+        <l n="15" xml:id="HY_BA_1957_0022_4_15">ieiunet ut mens sobria</l>
+        <l n="16" xml:id="HY_BA_1957_0022_4_16">a labe prorsus criminum</l>
+      </lg>
+      <lg n="5" xml:id="HY_BA_1957_0022_5">
+        <l n="17" xml:id="HY_BA_1957_0022_5_17">praesta beata trinitas</l>
+        <l n="18" xml:id="HY_BA_1957_0022_5_18">concede simplex unitas</l>
+        <l n="19" xml:id="HY_BA_1957_0022_5_19">ut fructuosa sint tuis</l>
+        <l n="20" xml:id="HY_BA_1957_0022_5_20">ieiuniorum munera amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

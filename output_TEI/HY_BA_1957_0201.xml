@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1957_0201"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Nostrae salutis nuncio</title>
+
+        <author>Ioannes Baptista Raulio</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">In Nativitate Sancti Ioannis Baptistae, ad Laudes et ad Vesperas</note>
+        <note type="commentarius">In Decollatione Sancti Ioannis Baptistae, ad Laudes et ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1957</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">In Nativitate Sancti Ioannis Baptistae, ad Laudes et ad Vesperas</p>
+      <p type="notae">In Decollatione Sancti Ioannis Baptistae, ad Laudes et ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Nostrae salutis nuncio</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0201_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1957_0201_1_1">Nostrae salutis nuncio</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1957_0201_1_2">laetis canamus vocibus,</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1957_0201_1_3">clamore cuius excita</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1957_0201_1_4">Iudae somnum depulit.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0201_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1957_0201_2_5">Iussu Dei praemittitur</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1957_0201_2_6">solis recentis lucifer:</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1957_0201_2_7">verumque monstrat gentibus</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1957_0201_2_8">caelestis ortum Luminis.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0201_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1957_0201_3_9">Censor futurus criminum</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1957_0201_3_10">rupes magistras quaesiit,</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1957_0201_3_11">ut pectus ex his disceret</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1957_0201_3_12">terrore nullo concuti.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0201_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1957_0201_4_13">Humor fluenti simplicis</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1957_0201_4_14">praebebat ultro pocula,</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1957_0201_4_15">silvestre mel convivium,</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1957_0201_4_16">pelles ferarum purpuram.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0201_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1957_0201_5_17">Mox inde genti redditus</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1957_0201_5_18">culpas Herodis increpat,</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1957_0201_5_19">regem nefandis clamitans</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1957_0201_5_20">contaminatum nuptiis.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0201_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_BA_1957_0201_6_21">Instemus ipsi semitis,</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_BA_1957_0201_6_22">quas iste rectas praestitit:</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_BA_1957_0201_6_23">nec callis asper terreat</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_BA_1957_0201_6_24">vitam beatam consequi.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0201_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_BA_1957_0201_7_25">Salve, Puer ter maxime,</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_BA_1957_0201_7_26">nostrae salutis signifer:</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_BA_1957_0201_7_27">signa vias errantibus,</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_BA_1957_0201_7_28">verumque Numen praedica.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0201_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_BA_1957_0201_8_29">Deo Patri sit gloria,</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_BA_1957_0201_8_30">eiusque soli Filio,</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_BA_1957_0201_8_31">cum Spiritu Paraclito</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_BA_1957_0201_8_32">nunc et per omne saeculum. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1957</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

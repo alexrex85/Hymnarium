@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1957_0024"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Vexilla Regis prodeunt</title>
+
+        <author>Venantius Fortunatus</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">In Hebdomada Authentica, ad Laudes et ad Vesperas</note>
+        <note type="commentarius">In Festo Inventionis Sanctae Crucis, ad Laudes et ad Vesperas</note>
+        <note type="commentarius">In Festo Exaltationis Sanctae Crucis, ad Laudes et ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1957</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">In Hebdomada Authentica, ad Laudes et ad Vesperas</p>
+      <p type="notae">In Festo Inventionis Sanctae Crucis, ad Laudes et ad Vesperas</p>
+      <p type="notae">In Festo Exaltationis Sanctae Crucis, ad Laudes et ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Vexilla Regis prodeunt</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0024_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1957_0024_1_1">Vexilla Regis prodeunt,</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1957_0024_1_2">fulget Crucis mysterium,</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1957_0024_1_3">qua Vita mortem pertulit,</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1957_0024_1_4">et morte vitam reddidit.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0024_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1957_0024_2_5">Figunt cruenti Numinis,</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1957_0024_2_6">clavi manus, vestigia;</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1957_0024_2_7">redemptionis gratia</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1957_0024_2_8">hic immolatur hostia.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0024_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1957_0024_3_9">Post vulneratus impiae</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1957_0024_3_10">mucrone diro lanceae;</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1957_0024_3_11">ut nos lavaret crimine,</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1957_0024_3_12">manavit unda et sanguine.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0024_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1957_0024_4_13">Impleta sunt quae concinit</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1957_0024_4_14">David fideli carmine,</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1957_0024_4_15">dicendo nationibus:</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1957_0024_4_16">Regnavit a ligno Deus.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0024_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1957_0024_5_17">Arbor decora et fulgida,</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1957_0024_5_18">ornata regis purpura:</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1957_0024_5_19">electa digno stipite</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1957_0024_5_20">tam sancta membra tangere.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0024_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_BA_1957_0024_6_21">Beata, cuius brachiis</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_BA_1957_0024_6_22">salus pependit saeculi:</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_BA_1957_0024_6_23">statera facta est corporis</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_BA_1957_0024_6_24">tulitque praedam Tartari.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0024_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_BA_1957_0024_7_25">O Crux ave, spes unica,</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_BA_1957_0024_7_26">hoc passionis tempore;</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_BA_1957_0024_7_27">piis adauge gratiam,</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_BA_1957_0024_7_28">reisque dele crimina.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0024_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_BA_1957_0024_8_29">Te, summa caeli Trinitas,</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_BA_1957_0024_8_30">collaudet omnis spiritus;</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_BA_1957_0024_8_31">quos per Crucis mysterium</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_BA_1957_0024_8_32">salvas, tuere iugiter. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1957</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

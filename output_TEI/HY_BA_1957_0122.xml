@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1957_0122"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Vexilla Christus inclyta</title>
+
+        <author>Victorius Genovesi</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">In Festo Domini Nostri Iesu Christi Regis, ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1957</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">In Festo Domini Nostri Iesu Christi Regis, ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Vexilla Christus inclyta</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0122_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1957_0122_1_1">Vexilla Christus inclyta</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1957_0122_1_2">late triumphans explicat:</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1957_0122_1_3">gentes adeste supplices,</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1957_0122_1_4">Regique regum plaudite:</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0122_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1957_0122_2_5">Non ille regna cladibus,</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1957_0122_2_6">non vi metuque subdidit:</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1957_0122_2_7">alto levatus stipite,</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1957_0122_2_8">amore traxit omnia.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0122_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1957_0122_3_9">O ter beata civitas</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1957_0122_3_10">cui rite Christus imperat,</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1957_0122_3_11">quae iussa pergit exequi</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1957_0122_3_12">edicta mundo caelitus!</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0122_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1957_0122_4_13">Non arma flagrant impia,</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1957_0122_4_14">pax usque firmat foedera,</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1957_0122_4_15">arridet et concordia.</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1957_0122_4_16">Tutus stat ordo civicus.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0122_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1957_0122_5_17">Servat fides connubia,</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1957_0122_5_18">iuventa pubet integra,</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1957_0122_5_19">pudica florent limina</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1957_0122_5_20">domesticis virtutibus.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0122_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_BA_1957_0122_6_21">Optata nobis splendeat</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_BA_1957_0122_6_22">lux ista, Rex dulcissime;</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_BA_1957_0122_6_23">te, pace adepta candida,</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_BA_1957_0122_6_24">adoret orbis subditus.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0122_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_BA_1957_0122_7_25">Iesu, tibi sit gloria,</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_BA_1957_0122_7_26">qui sceptra mundi temperas,</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_BA_1957_0122_7_27">cum Patre et almo Spiritu,</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_BA_1957_0122_7_28">in sempiterna saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1957</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

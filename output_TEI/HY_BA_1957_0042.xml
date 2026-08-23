@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1957_0042"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Verbum supernum prodiens</title>
+
+        <author>Thomas Aquinas</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">In Solemnitate Sacratissimi Corporis Christi, ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1957</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">In Solemnitate Sacratissimi Corporis Christi, ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Verbum supernum prodiens</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0042_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1957_0042_1_1">Verbum supernum prodiens,</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1957_0042_1_2">nec Patris linquens dexteram,</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1957_0042_1_3">ad opus suum exiens</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1957_0042_1_4">venit ad vitae vesperam.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0042_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1957_0042_2_5">In mortem a discipulo</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1957_0042_2_6">suis tradendus aemulis,</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1957_0042_2_7">prius in vitae ferculo</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1957_0042_2_8">se tradidit discipulis:</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0042_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1957_0042_3_9">Quibus sub bina specie,</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1957_0042_3_10">carnem dedit et sanguinem,</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1957_0042_3_11">ut duplicis substantiae</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1957_0042_3_12">totum cibaret hominem.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0042_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1957_0042_4_13">Se nascens dedit socium,</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1957_0042_4_14">convescens in edulium,</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1957_0042_4_15">se moriens in pretium,</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1957_0042_4_16">se regnans dat in praemium.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0042_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1957_0042_5_17">O salutaris Hostia,</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1957_0042_5_18">quae caeli pandis ostium,</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1957_0042_5_19">bella premunt hostilia;</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1957_0042_5_20">da robur, fer auxilium.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0042_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_BA_1957_0042_6_21">Uni Trinoque Domino</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_BA_1957_0042_6_22">sit sempiterna gloria,</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_BA_1957_0042_6_23">qui vitam sine termino</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_BA_1957_0042_6_24">nobis donet in patria. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1957</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

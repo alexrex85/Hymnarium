@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1957_0012b"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Vere gratia plena es</title>
+
+        <author>Anonymus saec. incerti</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">Officium Beatae Mariae Virginis, ad Laudes</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1957</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">Officium Beatae Mariae Virginis, ad Laudes</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Vere gratia plena es</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0012b_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1957_0012b_1_1">Vere gratia plena es,</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1957_0012b_1_2">et gloriosa permanes;</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1957_0012b_1_3">quia ex te natus est Christus,</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1957_0012b_1_4">per quem facta sunt omnia.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0012b_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1957_0012b_2_5">Pastores, qui audierant</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1957_0012b_2_6">cantari Deo gloriam,</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1957_0012b_2_7">cucurrerunt in Bethlehem</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1957_0012b_2_8">natum videre Dominum.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0012b_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1957_0012b_3_9">Sic Magi ab ortu solis,</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1957_0012b_3_10">per sideris indicium,</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1957_0012b_3_11">portantes typum gentium,</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1957_0012b_3_12">primi obtulerunt munera.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0012b_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1957_0012b_4_13">Rogemus ergo, populi,</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1957_0012b_4_14">Dei Matrem et Virginem,</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1957_0012b_4_15">ut ipsa nobis impetret</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1957_0012b_4_16">pacem et indulgentiam.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0012b_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1957_0012b_5_17">Deo Patri sit gloria,</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1957_0012b_5_18">eiusque soli Filio,</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1957_0012b_5_19">cum Spiritu Paraclito</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1957_0012b_5_20">in sempiterna saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1957</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

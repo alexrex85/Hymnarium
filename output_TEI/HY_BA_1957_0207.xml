@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1957_0207"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Plaude mater caritatis in plagis deflentium</title>
+
+        <author>Iacobus Aegidius Setabitanus</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Tetrametrum trochaicum catalepticum</note>
+
+        <note type="commentarius">Transifugratio Domini Nostri Iesu Christi, ad Laudes et ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1957</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">Transifugratio Domini Nostri Iesu Christi, ad Laudes et ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Plaude mater caritatis in plagis deflentium</head>
+
+      <lg n="1" type="tristichon_trochaicum" xml:id="HY_BA_1957_0207_1">
+        <l n="1" type="dimeter_trochaicus" xml:id="HY_BA_1957_0207_1_1">Plaude mater caritatis</l>
+        <l n="2" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1957_0207_1_2">in plagis deflentium</l>
+        <l n="3" type="dimeter_trochaicus" xml:id="HY_BA_1957_0207_1_3">pro ducatu dignitatis</l>
+        <l n="4" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1957_0207_1_4">Regis almi siderum,</l>
+        <l n="5" type="dimeter_trochaicus" xml:id="HY_BA_1957_0207_1_5">quo renides singularis</l>
+        <l n="6" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1957_0207_1_6">per cacumen montium.</l>
+      </lg>
+      <lg n="2" type="tristichon_trochaicum" xml:id="HY_BA_1957_0207_2">
+        <l n="7" type="dimeter_trochaicus" xml:id="HY_BA_1957_0207_2_7">Hic prophetae perfruentes</l>
+        <l n="8" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1957_0207_2_8">Thabor in fastigio,</l>
+        <l n="9" type="dimeter_trochaicus" xml:id="HY_BA_1957_0207_2_9">ut nivis cernunt micantes</l>
+        <l n="10" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1957_0207_2_10">imbre vestes candido,</l>
+        <l n="11" type="dimeter_trochaicus" xml:id="HY_BA_1957_0207_2_11">et stupentes alloquuntur</l>
+        <l n="12" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1957_0207_2_12">ore Verbum fulgido.</l>
+      </lg>
+      <lg n="3" type="tristichon_trochaicum" xml:id="HY_BA_1957_0207_3">
+        <l n="13" type="dimeter_trochaicus" xml:id="HY_BA_1957_0207_3_13">Lingua vatum percensere</l>
+        <l n="14" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1957_0207_3_14">dira Christi funera,</l>
+        <l n="15" type="dimeter_trochaicus" xml:id="HY_BA_1957_0207_3_15">quando carnes immolare</l>
+        <l n="16" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1957_0207_3_16">Numinis plebs impia</l>
+        <l n="17" type="dimeter_trochaicus" xml:id="HY_BA_1957_0207_3_17">morte vellet: cum perire</l>
+        <l n="18" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1957_0207_3_18">vellet Agnus crimina.</l>
+      </lg>
+      <lg n="4" type="tristichon_trochaicum" xml:id="HY_BA_1957_0207_4">
+        <l n="19" type="dimeter_trochaicus" xml:id="HY_BA_1957_0207_4_19">Ora summae clara Prolis</l>
+        <l n="20" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1957_0207_4_20">indicantur provide,</l>
+        <l n="21" type="dimeter_trochaicus" xml:id="HY_BA_1957_0207_4_21">consonanti voce Patris</l>
+        <l n="22" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1957_0207_4_22">de superno germine;</l>
+        <l n="23" type="dimeter_trochaicus" xml:id="HY_BA_1957_0207_4_23">et Spiritu veritatis</l>
+        <l n="24" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1957_0207_4_24">forma nubis lucidae.</l>
+      </lg>
+      <lg n="5" type="tristichon_trochaicum" xml:id="HY_BA_1957_0207_5">
+        <l n="25" type="dimeter_trochaicus" xml:id="HY_BA_1957_0207_5_25">Sempiterna sit beatae</l>
+        <l n="26" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1957_0207_5_26">Trinitati gloria:</l>
+        <l n="27" type="dimeter_trochaicus" xml:id="HY_BA_1957_0207_5_27">aequa Patri, Filioque</l>
+        <l n="28" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1957_0207_5_28">aequa laudis munera:</l>
+        <l n="29" type="dimeter_trochaicus" xml:id="HY_BA_1957_0207_5_29">Spiritum pari decore</l>
+        <l n="30" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1957_0207_5_30">laus canat per saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1957</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Tetrametrum trochaicum catalepticum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

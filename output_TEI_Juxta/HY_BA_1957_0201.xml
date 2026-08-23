@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_BA_1957_0201">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_BA_1957_0201_1">
+        <l n="1" xml:id="HY_BA_1957_0201_1_1">nostrae salutis nuncio</l>
+        <l n="2" xml:id="HY_BA_1957_0201_1_2">laetis canamus vocibus</l>
+        <l n="3" xml:id="HY_BA_1957_0201_1_3">clamore cuius excita</l>
+        <l n="4" xml:id="HY_BA_1957_0201_1_4">iudae somnum depulit</l>
+      </lg>
+      <lg n="2" xml:id="HY_BA_1957_0201_2">
+        <l n="5" xml:id="HY_BA_1957_0201_2_5">iussu dei praemittitur</l>
+        <l n="6" xml:id="HY_BA_1957_0201_2_6">solis recentis lucifer</l>
+        <l n="7" xml:id="HY_BA_1957_0201_2_7">verumque monstrat gentibus</l>
+        <l n="8" xml:id="HY_BA_1957_0201_2_8">caelestis ortum luminis</l>
+      </lg>
+      <lg n="3" xml:id="HY_BA_1957_0201_3">
+        <l n="9" xml:id="HY_BA_1957_0201_3_9">censor futurus criminum</l>
+        <l n="10" xml:id="HY_BA_1957_0201_3_10">rupes magistras quaesiit</l>
+        <l n="11" xml:id="HY_BA_1957_0201_3_11">ut pectus ex his disceret</l>
+        <l n="12" xml:id="HY_BA_1957_0201_3_12">terrore nullo concuti</l>
+      </lg>
+      <lg n="4" xml:id="HY_BA_1957_0201_4">
+        <l n="13" xml:id="HY_BA_1957_0201_4_13">humor fluenti simplicis</l>
+        <l n="14" xml:id="HY_BA_1957_0201_4_14">praebebat ultro pocula</l>
+        <l n="15" xml:id="HY_BA_1957_0201_4_15">silvestre mel convivium</l>
+        <l n="16" xml:id="HY_BA_1957_0201_4_16">pelles ferarum purpuram</l>
+      </lg>
+      <lg n="5" xml:id="HY_BA_1957_0201_5">
+        <l n="17" xml:id="HY_BA_1957_0201_5_17">mox inde genti redditus</l>
+        <l n="18" xml:id="HY_BA_1957_0201_5_18">culpas herodis increpat</l>
+        <l n="19" xml:id="HY_BA_1957_0201_5_19">regem nefandis clamitans</l>
+        <l n="20" xml:id="HY_BA_1957_0201_5_20">contaminatum nuptiis</l>
+      </lg>
+      <lg n="6" xml:id="HY_BA_1957_0201_6">
+        <l n="21" xml:id="HY_BA_1957_0201_6_21">instemus ipsi semitis</l>
+        <l n="22" xml:id="HY_BA_1957_0201_6_22">quas iste rectas praestitit</l>
+        <l n="23" xml:id="HY_BA_1957_0201_6_23">nec callis asper terreat</l>
+        <l n="24" xml:id="HY_BA_1957_0201_6_24">vitam beatam consequi</l>
+      </lg>
+      <lg n="7" xml:id="HY_BA_1957_0201_7">
+        <l n="25" xml:id="HY_BA_1957_0201_7_25">salve puer ter maxime</l>
+        <l n="26" xml:id="HY_BA_1957_0201_7_26">nostrae salutis signifer</l>
+        <l n="27" xml:id="HY_BA_1957_0201_7_27">signa vias errantibus</l>
+        <l n="28" xml:id="HY_BA_1957_0201_7_28">verumque numen praedica</l>
+      </lg>
+      <lg n="8" xml:id="HY_BA_1957_0201_8">
+        <l n="29" xml:id="HY_BA_1957_0201_8_29">deo patri sit gloria</l>
+        <l n="30" xml:id="HY_BA_1957_0201_8_30">eiusque soli filio</l>
+        <l n="31" xml:id="HY_BA_1957_0201_8_31">cum spiritu paraclito</l>
+        <l n="32" xml:id="HY_BA_1957_0201_8_32">nunc et per omne saeculum amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

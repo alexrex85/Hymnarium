@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_BA_1957_0011">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_BA_1957_0011_1">
+        <l n="1" xml:id="HY_BA_1957_0011_1_1">conditor alme siderum</l>
+        <l n="2" xml:id="HY_BA_1957_0011_1_2">aeterna lux credentium</l>
+        <l n="3" xml:id="HY_BA_1957_0011_1_3">christe redemptor omnium</l>
+        <l n="4" xml:id="HY_BA_1957_0011_1_4">exaudi preces supplicum</l>
+      </lg>
+      <lg n="2" xml:id="HY_BA_1957_0011_2">
+        <l n="5" xml:id="HY_BA_1957_0011_2_5">qui condolens interitu</l>
+        <l n="6" xml:id="HY_BA_1957_0011_2_6">mortis perire saeculum</l>
+        <l n="7" xml:id="HY_BA_1957_0011_2_7">salvasti mundum languidum</l>
+        <l n="8" xml:id="HY_BA_1957_0011_2_8">donans reis remedium</l>
+      </lg>
+      <lg n="3" xml:id="HY_BA_1957_0011_3">
+        <l n="9" xml:id="HY_BA_1957_0011_3_9">vergente mundi vespere</l>
+        <l n="10" xml:id="HY_BA_1957_0011_3_10">uti sponsus de thalamo</l>
+        <l n="11" xml:id="HY_BA_1957_0011_3_11">egressus honestissima</l>
+        <l n="12" xml:id="HY_BA_1957_0011_3_12">virginis matris clausula</l>
+      </lg>
+      <lg n="4" xml:id="HY_BA_1957_0011_4">
+        <l n="13" xml:id="HY_BA_1957_0011_4_13">cuius forti potentiae</l>
+        <l n="14" xml:id="HY_BA_1957_0011_4_14">genu curvantur omnia</l>
+        <l n="15" xml:id="HY_BA_1957_0011_4_15">caelestia terrestria</l>
+        <l n="16" xml:id="HY_BA_1957_0011_4_16">nutu fatentur subdita</l>
+      </lg>
+      <lg n="5" xml:id="HY_BA_1957_0011_5">
+        <l n="17" xml:id="HY_BA_1957_0011_5_17">te deprecamur agie</l>
+        <l n="18" xml:id="HY_BA_1957_0011_5_18">venture iudex saeculi</l>
+        <l n="19" xml:id="HY_BA_1957_0011_5_19">conserva nos in tempore</l>
+        <l n="20" xml:id="HY_BA_1957_0011_5_20">hostis a telo perfidi</l>
+      </lg>
+      <lg n="6" xml:id="HY_BA_1957_0011_6">
+        <l n="21" xml:id="HY_BA_1957_0011_6_21">laus honor virtus gloria</l>
+        <l n="22" xml:id="HY_BA_1957_0011_6_22">deo patri cum filio</l>
+        <l n="23" xml:id="HY_BA_1957_0011_6_23">sancto simul paraclito</l>
+        <l n="24" xml:id="HY_BA_1957_0011_6_24">in saeculorum saecula amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

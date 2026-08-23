@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1957_0111"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>O Virgo sole purior</title>
+
+        <author>Antonius Staurenghi</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">In Festo Immaculatae Conceptionis Beatae Mariae Virginis, ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1957</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">In Festo Immaculatae Conceptionis Beatae Mariae Virginis, ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">O Virgo sole purior</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0111_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_1_1">O Virgo sole purior</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_1_2">conceptu in ipso prodiens:</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_1_3">sic te salutat credita</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_1_4">Petro docenti Ecclesia.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0111_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_2_5">Te ne cruentus laeserit</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_2_6">serpens veneno originis</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_2_7">Trino dicatam Numini</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_2_8">Sponsam, Parentem, Filiam?</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0111_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_3_9">Non hoc sonant Altissimi</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_3_10">coaeva culpae oracula:</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_3_11">invicta surget Foemina</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_3_12">hostile quae terat caput.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0111_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_4_13">Recepta ab aevo in Virginem</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_4_14">non hoc docent praesagia:</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_4_15">arca salutis naufrago</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_4_16">mundo superstes unica,</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0111_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_5_17">Rorans adusta in area</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_5_18">vellus, ligustrum promicans</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_5_19">inter rubeta, in montibus</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_5_20">fundata sanctis civitas.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0111_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_6_21">Sic labis omnis integram</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_6_22">te saecla tradunt conscia;</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_6_23">sic praesulum, sic gentium</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_6_24">vota triumphant dogmate.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0111_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_7_25">Qua sol refulget, obsequens</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_7_26">se flectit orbis Iudici:</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_7_27">assueta, Virgo, laureis</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_7_28">hoc iunge sertum pristinis.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0111_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_8_29">Ab angue vinci nescia,</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_8_30">defende ab angue filios;</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_8_31">quacumque luctans ingruit,</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_8_32">victrice planta contere.</l>
+      </lg>
+      <lg n="9" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0111_9">
+        <l n="33" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_9_33">Iesu, tibi, qui Virginis</l>
+        <l n="34" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_9_34">Immaculatae es Filius,</l>
+        <l n="35" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_9_35">cum Patre et almo Spiritu,</l>
+        <l n="36" type="dimeter_iambicus" xml:id="HY_BA_1957_0111_9_36">sit sempiterna gloria. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1957</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1957_0043"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Pange lingua gloriosi Corporis mysterium</title>
+
+        <author>Thomas Aquinas</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Tetrametrum trochaicum catalepticum</note>
+
+        <note type="commentarius">In Solemnitate Sacratissimi Corporis Christi, ad Laudes</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1957</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">In Solemnitate Sacratissimi Corporis Christi, ad Laudes</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Pange lingua gloriosi Corporis mysterium</head>
+
+      <lg n="1" type="tristichon_trochaicum" xml:id="HY_BA_1957_0043_1">
+        <l n="1" type="dimeter_trochaicus" xml:id="HY_BA_1957_0043_1_1">Pange lingua gloriosi</l>
+        <l n="2" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1957_0043_1_2">Corporis mysterium,</l>
+        <l n="3" type="dimeter_trochaicus" xml:id="HY_BA_1957_0043_1_3">Sanguinisque pretiosi,</l>
+        <l n="4" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1957_0043_1_4">quem in mundi pretium,</l>
+        <l n="5" type="dimeter_trochaicus" xml:id="HY_BA_1957_0043_1_5">fructus ventris generosi,</l>
+        <l n="6" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1957_0043_1_6">Rex effudit gentium.</l>
+      </lg>
+      <lg n="2" type="tristichon_trochaicum" xml:id="HY_BA_1957_0043_2">
+        <l n="7" type="dimeter_trochaicus" xml:id="HY_BA_1957_0043_2_7">Nobis datus, nobis natus</l>
+        <l n="8" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1957_0043_2_8">ex intacta Virgine;</l>
+        <l n="9" type="dimeter_trochaicus" xml:id="HY_BA_1957_0043_2_9">et in mundo conversatus,</l>
+        <l n="10" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1957_0043_2_10">sparso verbi semine,</l>
+        <l n="11" type="dimeter_trochaicus" xml:id="HY_BA_1957_0043_2_11">sui moras incolatus</l>
+        <l n="12" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1957_0043_2_12">miro clausit ordine.</l>
+      </lg>
+      <lg n="3" type="tristichon_trochaicum" xml:id="HY_BA_1957_0043_3">
+        <l n="13" type="dimeter_trochaicus" xml:id="HY_BA_1957_0043_3_13">In supremae nocte coenae</l>
+        <l n="14" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1957_0043_3_14">recumbens cum fratribus,</l>
+        <l n="15" type="dimeter_trochaicus" xml:id="HY_BA_1957_0043_3_15">observata lege plene</l>
+        <l n="16" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1957_0043_3_16">cibis in legalibus,</l>
+        <l n="17" type="dimeter_trochaicus" xml:id="HY_BA_1957_0043_3_17">cibum turbae duodenae</l>
+        <l n="18" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1957_0043_3_18">se dat suis manibus.</l>
+      </lg>
+      <lg n="4" type="tristichon_trochaicum" xml:id="HY_BA_1957_0043_4">
+        <l n="19" type="dimeter_trochaicus" xml:id="HY_BA_1957_0043_4_19">Verbum Caro panem verum</l>
+        <l n="20" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1957_0043_4_20">verbo Carnem efficit,</l>
+        <l n="21" type="dimeter_trochaicus" xml:id="HY_BA_1957_0043_4_21">fitque Sanguis Christi merum,</l>
+        <l n="22" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1957_0043_4_22">et si sensus deficit,</l>
+        <l n="23" type="dimeter_trochaicus" xml:id="HY_BA_1957_0043_4_23">ad firmandum cor sincerum</l>
+        <l n="24" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1957_0043_4_24">sola fides sufficit.</l>
+      </lg>
+      <lg n="5" type="tristichon_trochaicum" xml:id="HY_BA_1957_0043_5">
+        <l n="25" type="dimeter_trochaicus" xml:id="HY_BA_1957_0043_5_25">Tantum ergo sacramentum</l>
+        <l n="26" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1957_0043_5_26">veneremur cernui,</l>
+        <l n="27" type="dimeter_trochaicus" xml:id="HY_BA_1957_0043_5_27">et antiquum documentum</l>
+        <l n="28" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1957_0043_5_28">novo cedat ritui:</l>
+        <l n="29" type="dimeter_trochaicus" xml:id="HY_BA_1957_0043_5_29">praestet fides supplementum</l>
+        <l n="30" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1957_0043_5_30">sensuum defectui.</l>
+      </lg>
+      <lg n="6" type="tristichon_trochaicum" xml:id="HY_BA_1957_0043_6">
+        <l n="31" type="dimeter_trochaicus" xml:id="HY_BA_1957_0043_6_31">Genitori, Genitoque</l>
+        <l n="32" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1957_0043_6_32">laus et iubilatio,</l>
+        <l n="33" type="dimeter_trochaicus" xml:id="HY_BA_1957_0043_6_33">salus honor virtus quoque</l>
+        <l n="34" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1957_0043_6_34">sit et benedictio:</l>
+        <l n="35" type="dimeter_trochaicus" xml:id="HY_BA_1957_0043_6_35">Procedenti ab utroque</l>
+        <l n="36" type="dimeter_trochaicus_catalepticus" xml:id="HY_BA_1957_0043_6_36">compar sit laudatio. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1957</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Tetrametrum trochaicum catalepticum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

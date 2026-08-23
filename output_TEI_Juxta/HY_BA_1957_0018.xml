@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_BA_1957_0018">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_BA_1957_0018_1">
+        <l n="1" xml:id="HY_BA_1957_0018_1_1">herodis insanus furor</l>
+        <l n="2" xml:id="HY_BA_1957_0018_1_2">ut rupe fluctus frangitur</l>
+        <l n="3" xml:id="HY_BA_1957_0018_1_3">ut fumus aura solvitur</l>
+        <l n="4" xml:id="HY_BA_1957_0018_1_4">defunctus orbem liberat</l>
+      </lg>
+      <lg n="2" xml:id="HY_BA_1957_0018_2">
+        <l n="5" xml:id="HY_BA_1957_0018_2_5">ales iosepho mittitur</l>
+        <l n="6" xml:id="HY_BA_1957_0018_2_6">qui dormienti nuntiet</l>
+        <l n="7" xml:id="HY_BA_1957_0018_2_7">cum matre tollat filium</l>
+        <l n="8" xml:id="HY_BA_1957_0018_2_8">terraque sistat patria</l>
+      </lg>
+      <lg n="3" xml:id="HY_BA_1957_0018_3">
+        <l n="9" xml:id="HY_BA_1957_0018_3_9">fama recenti territus</l>
+        <l n="10" xml:id="HY_BA_1957_0018_3_10">et voce iussus angeli</l>
+        <l n="11" xml:id="HY_BA_1957_0018_3_11">iter capessit nazareth</l>
+        <l n="12" xml:id="HY_BA_1957_0018_3_12">ut scripta vatum compleat</l>
+      </lg>
+      <lg n="4" xml:id="HY_BA_1957_0018_4">
+        <l n="13" xml:id="HY_BA_1957_0018_4_13">nos deprecemur filium</l>
+        <l n="14" xml:id="HY_BA_1957_0018_4_14">recta reponat semita</l>
+        <l n="15" xml:id="HY_BA_1957_0018_4_15">illinc reducens gratia</l>
+        <l n="16" xml:id="HY_BA_1957_0018_4_16">quo nostra culpa flexerat</l>
+      </lg>
+      <lg n="5" xml:id="HY_BA_1957_0018_5">
+        <l n="17" xml:id="HY_BA_1957_0018_5_17">iesu tibi sit gloria</l>
+        <l n="18" xml:id="HY_BA_1957_0018_5_18">qui natus es de virgine</l>
+        <l n="19" xml:id="HY_BA_1957_0018_5_19">cum patre et almo spiritu</l>
+        <l n="20" xml:id="HY_BA_1957_0018_5_20">in sempiterna saecula amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

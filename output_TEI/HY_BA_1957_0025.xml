@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1957_0025"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Hymnum canamus supplices</title>
+
+        <author>Anonymus saec. incerti</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">Feria V in Coena Domini, ad Vesperas</note>
+        <note type="commentarius">Feria VI in Parasceve, ad Laudes et ad Vesperas</note>
+        <note type="commentarius">Sabbato Sancto, ad Laudes</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1957</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">Feria V in Coena Domini, ad Vesperas</p>
+      <p type="notae">Feria VI in Parasceve, ad Laudes et ad Vesperas</p>
+      <p type="notae">Sabbato Sancto, ad Laudes</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Hymnum canamus supplices</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0025_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_1_1">Hymnum canamus supplices</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_1_2">laudes Deo cum cantico,</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_1_3">nostrum genus qui noxium</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_1_4">suo redemit sanguine.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0025_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_2_5">Caligo noctem duxerat,</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_2_6">noctem cruentam crimine,</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_2_7">cum venit ad cenam ferus</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_2_8">Christi sacratam proditor.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0025_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_3_9">Iesus futura nunciat</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_3_10">Apostolis cenantibus:</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_3_11">morti Magistrum perfidus</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_3_12">conviva tradet caelicum.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0025_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_4_13">Iudas pudoris immemor</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_4_14">Christi genis dat osculum;</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_4_15">pium sed Agnus innocens</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_4_16">negare nescit osculum.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0025_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_5_17">Tunc vilis argenti nitor</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_5_18">lucem pependit saeculi;</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_5_19">mercator ille pessimus</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_5_20">solem tenebris vendidit.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0025_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_6_21">Praeses Pilatus inscium</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_6_22">Iesum fatetur criminis,</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_6_23">undaque palmas abluens</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_6_24">plebis furori tradidit.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0025_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_7_25">At turba saevi perdita</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_7_26">vitam latronis praeferens</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_7_27">damnat supernum Iudicem,</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_7_28">crucique Regem destinat.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0025_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_8_29">Vinclis Barabbas solvitur,</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_8_30">quem culpa morti addixerat:</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_8_31">et Vita mundi caeditur,</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_8_32">per quam resurgunt mortui.</l>
+      </lg>
+      <lg n="9" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0025_9">
+        <l n="33" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_9_33">Patri simulque Filio,</l>
+        <l n="34" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_9_34">tibique, sancte Spiritus,</l>
+        <l n="35" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_9_35">sicut fuit, sic iugiter</l>
+        <l n="36" type="dimeter_iambicus" xml:id="HY_BA_1957_0025_9_36">saeclum per omne gloria. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1957</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

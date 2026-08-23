@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_BA_1957_0101">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_BA_1957_0101_1">
+        <l n="1" xml:id="HY_BA_1957_0101_1_1">te gestientem gaudiis</l>
+        <l n="2" xml:id="HY_BA_1957_0101_1_2">te sauciam doloribus</l>
+        <l n="3" xml:id="HY_BA_1957_0101_1_3">te iugi amictam gloria</l>
+        <l n="4" xml:id="HY_BA_1957_0101_1_4">o virgo mater pangimus</l>
+      </lg>
+      <lg n="2" xml:id="HY_BA_1957_0101_2">
+        <l n="5" xml:id="HY_BA_1957_0101_2_5">ave redundans gaudio</l>
+        <l n="6" xml:id="HY_BA_1957_0101_2_6">dum concipis dum visitas</l>
+        <l n="7" xml:id="HY_BA_1957_0101_2_7">et edis offers invenis</l>
+        <l n="8" xml:id="HY_BA_1957_0101_2_8">mater beata filium</l>
+      </lg>
+      <lg n="3" xml:id="HY_BA_1957_0101_3">
+        <l n="9" xml:id="HY_BA_1957_0101_3_9">ave dolens et intimo</l>
+        <l n="10" xml:id="HY_BA_1957_0101_3_10">in corde agonem verbera</l>
+        <l n="11" xml:id="HY_BA_1957_0101_3_11">spinas crucemque filii</l>
+        <l n="12" xml:id="HY_BA_1957_0101_3_12">perpessa princeps martyrum</l>
+      </lg>
+      <lg n="4" xml:id="HY_BA_1957_0101_4">
+        <l n="13" xml:id="HY_BA_1957_0101_4_13">ave in triumphis filii</l>
+        <l n="14" xml:id="HY_BA_1957_0101_4_14">in ignibus paraclyti</l>
+        <l n="15" xml:id="HY_BA_1957_0101_4_15">in regni honore et lumine</l>
+        <l n="16" xml:id="HY_BA_1957_0101_4_16">regina fulgens gloria</l>
+      </lg>
+      <lg n="5" xml:id="HY_BA_1957_0101_5">
+        <l n="17" xml:id="HY_BA_1957_0101_5_17">venite gentes carpite</l>
+        <l n="18" xml:id="HY_BA_1957_0101_5_18">ex his rosas mysteriis</l>
+        <l n="19" xml:id="HY_BA_1957_0101_5_19">et pulchri amoris inclytae</l>
+        <l n="20" xml:id="HY_BA_1957_0101_5_20">matri coronas nectite</l>
+      </lg>
+      <lg n="6" xml:id="HY_BA_1957_0101_6">
+        <l n="21" xml:id="HY_BA_1957_0101_6_21">iesu tibi sit gloria</l>
+        <l n="22" xml:id="HY_BA_1957_0101_6_22">qui natus es de virgine</l>
+        <l n="23" xml:id="HY_BA_1957_0101_6_23">cum patre et almo spiritu</l>
+        <l n="24" xml:id="HY_BA_1957_0101_6_24">in sempiterna saecula amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

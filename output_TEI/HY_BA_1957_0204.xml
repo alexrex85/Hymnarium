@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1957_0204"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Caelestis aulae Principi</title>
+
+        <author>Anonymus saec. incerti</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">In Festo Sanctae Mariae Magdalenae, ad Laudes et ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1957</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">In Festo Sanctae Mariae Magdalenae, ad Laudes et ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Caelestis aulae Principi</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0204_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_1_1">Caelestis aulae Principi,</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_1_2">cives beati, psallite,</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_1_3">qui sedulus non desinit</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_1_4">oves vocare perditas.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0204_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_2_5">Soror Maria Lazari</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_2_6">multo gravata crimine,</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_2_7">Iesu tenens vestigia,</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_2_8">caeli requirit semitas.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0204_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_3_9">Allapsa plantis, ubere</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_3_10">Dei repletur gratia:</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_3_11">fletuque summi fervidos</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_3_12">ignes amoris excitat.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0204_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_4_13">Pedes rigabat lacrymis,</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_4_14">tergebat atque crinibus:</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_4_15">unguenta fundens optima,</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_4_16">dat plura plantis oscula.</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0204_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_5_17">Simonis ut livor videt,</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_5_18">illacrimantem despicit:</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_5_19">Propheta, dicens, si foret,</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_5_20">istius acta agnosceret.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0204_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_6_21">Sed qui reliquit sidera</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_6_22">ut servet orbem noxium,</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_6_23">divina clemens gaudia</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_6_24">parat gementi foeminae.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0204_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_7_25">Audit benignas poenitens</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_7_26">voces Maria iudicis:</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_7_27">Tibi remitto singula,</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_7_28">quae perpetrasti crimina.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0204_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_8_29">Sic Magdalenae semitas</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_8_30">oves sequantur perditae:</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_8_31">lupum timentes Tartari</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_8_32">beata carpent pascua.</l>
+      </lg>
+      <lg n="9" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0204_9">
+        <l n="33" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_9_33">Patri simulque Filio</l>
+        <l n="34" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_9_34">tibique, Sancte Spiritus,</l>
+        <l n="35" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_9_35">sicut fuit, sit iugiter</l>
+        <l n="36" type="dimeter_iambicus" xml:id="HY_BA_1957_0204_9_36">saeclum per omne gloria. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1957</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

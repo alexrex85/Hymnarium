@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1957_0308"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Memento salutis Auctor</title>
+
+        <author>Anonymus saec. incerti</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">Officium Beatae Mariae Virginis, ad Primam</note>
+        <note type="commentarius">Officium Beatae Mariae Virginis, ad Tertiam</note>
+        <note type="commentarius">Officium Beatae Mariae Virginis, ad Sextam</note>
+        <note type="commentarius">Officium Beatae Mariae Virginis, ad Nonam</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1957</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">Officium Beatae Mariae Virginis, ad Primam</p>
+      <p type="notae">Officium Beatae Mariae Virginis, ad Tertiam</p>
+      <p type="notae">Officium Beatae Mariae Virginis, ad Sextam</p>
+      <p type="notae">Officium Beatae Mariae Virginis, ad Nonam</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Memento salutis Auctor</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0308_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1957_0308_1_1">Memento, salutis Auctor,</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1957_0308_1_2">quod nostri quondam corporis</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1957_0308_1_3">ex illibata Virgine</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1957_0308_1_4">nascendo formam sumpseris.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0308_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1957_0308_2_5">Maria, Mater gratiae,</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1957_0308_2_6">Mater misericordiae,</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1957_0308_2_7">tu nos ab hoste protege,</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1957_0308_2_8">et hora mortis suscipe.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0308_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1957_0308_3_9">Gloria tibi, Domine,</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1957_0308_3_10">qui natus es de Virgine,</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1957_0308_3_11">cum Patre et almo Spiritu</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1957_0308_3_12">in sempiterna saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1957</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>

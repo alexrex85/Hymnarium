@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_BA_1957_0025">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_BA_1957_0025_1">
+        <l n="1" xml:id="HY_BA_1957_0025_1_1">hymnum canamus supplices</l>
+        <l n="2" xml:id="HY_BA_1957_0025_1_2">laudes deo cum cantico</l>
+        <l n="3" xml:id="HY_BA_1957_0025_1_3">nostrum genus qui noxium</l>
+        <l n="4" xml:id="HY_BA_1957_0025_1_4">suo redemit sanguine</l>
+      </lg>
+      <lg n="2" xml:id="HY_BA_1957_0025_2">
+        <l n="5" xml:id="HY_BA_1957_0025_2_5">caligo noctem duxerat</l>
+        <l n="6" xml:id="HY_BA_1957_0025_2_6">noctem cruentam crimine</l>
+        <l n="7" xml:id="HY_BA_1957_0025_2_7">cum venit ad cenam ferus</l>
+        <l n="8" xml:id="HY_BA_1957_0025_2_8">christi sacratam proditor</l>
+      </lg>
+      <lg n="3" xml:id="HY_BA_1957_0025_3">
+        <l n="9" xml:id="HY_BA_1957_0025_3_9">iesus futura nunciat</l>
+        <l n="10" xml:id="HY_BA_1957_0025_3_10">apostolis cenantibus</l>
+        <l n="11" xml:id="HY_BA_1957_0025_3_11">morti magistrum perfidus</l>
+        <l n="12" xml:id="HY_BA_1957_0025_3_12">conviva tradet caelicum</l>
+      </lg>
+      <lg n="4" xml:id="HY_BA_1957_0025_4">
+        <l n="13" xml:id="HY_BA_1957_0025_4_13">iudas pudoris immemor</l>
+        <l n="14" xml:id="HY_BA_1957_0025_4_14">christi genis dat osculum</l>
+        <l n="15" xml:id="HY_BA_1957_0025_4_15">pium sed agnus innocens</l>
+        <l n="16" xml:id="HY_BA_1957_0025_4_16">negare nescit osculum</l>
+      </lg>
+      <lg n="5" xml:id="HY_BA_1957_0025_5">
+        <l n="17" xml:id="HY_BA_1957_0025_5_17">tunc vilis argenti nitor</l>
+        <l n="18" xml:id="HY_BA_1957_0025_5_18">lucem pependit saeculi</l>
+        <l n="19" xml:id="HY_BA_1957_0025_5_19">mercator ille pessimus</l>
+        <l n="20" xml:id="HY_BA_1957_0025_5_20">solem tenebris vendidit</l>
+      </lg>
+      <lg n="6" xml:id="HY_BA_1957_0025_6">
+        <l n="21" xml:id="HY_BA_1957_0025_6_21">praeses pilatus inscium</l>
+        <l n="22" xml:id="HY_BA_1957_0025_6_22">iesum fatetur criminis</l>
+        <l n="23" xml:id="HY_BA_1957_0025_6_23">undaque palmas abluens</l>
+        <l n="24" xml:id="HY_BA_1957_0025_6_24">plebis furori tradidit</l>
+      </lg>
+      <lg n="7" xml:id="HY_BA_1957_0025_7">
+        <l n="25" xml:id="HY_BA_1957_0025_7_25">at turba saevi perdita</l>
+        <l n="26" xml:id="HY_BA_1957_0025_7_26">vitam latronis praeferens</l>
+        <l n="27" xml:id="HY_BA_1957_0025_7_27">damnat supernum iudicem</l>
+        <l n="28" xml:id="HY_BA_1957_0025_7_28">crucique regem destinat</l>
+      </lg>
+      <lg n="8" xml:id="HY_BA_1957_0025_8">
+        <l n="29" xml:id="HY_BA_1957_0025_8_29">vinclis barabbas solvitur</l>
+        <l n="30" xml:id="HY_BA_1957_0025_8_30">quem culpa morti addixerat</l>
+        <l n="31" xml:id="HY_BA_1957_0025_8_31">et vita mundi caeditur</l>
+        <l n="32" xml:id="HY_BA_1957_0025_8_32">per quam resurgunt mortui</l>
+      </lg>
+      <lg n="9" xml:id="HY_BA_1957_0025_9">
+        <l n="33" xml:id="HY_BA_1957_0025_9_33">patri simulque filio</l>
+        <l n="34" xml:id="HY_BA_1957_0025_9_34">tibique sancte spiritus</l>
+        <l n="35" xml:id="HY_BA_1957_0025_9_35">sicut fuit sic iugiter</l>
+        <l n="36" xml:id="HY_BA_1957_0025_9_36">saeclum per omne gloria amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

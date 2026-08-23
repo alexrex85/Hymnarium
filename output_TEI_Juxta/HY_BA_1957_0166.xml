@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HY_BA_1957_0166">
+  <text>
+    <body>
+      <lg n="1" xml:id="HY_BA_1957_0166_1">
+        <l n="1" xml:id="HY_BA_1957_0166_1_1">rerum supremo in vertice</l>
+        <l n="2" xml:id="HY_BA_1957_0166_1_2">regina virgo sisteris</l>
+        <l n="3" xml:id="HY_BA_1957_0166_1_3">exuberanter omnium</l>
+        <l n="4" xml:id="HY_BA_1957_0166_1_4">ditata pulchritudine</l>
+      </lg>
+      <lg n="2" xml:id="HY_BA_1957_0166_2">
+        <l n="5" xml:id="HY_BA_1957_0166_2_5">princeps opus formosior</l>
+        <l n="6" xml:id="HY_BA_1957_0166_2_6">verbo creanti praenites</l>
+        <l n="7" xml:id="HY_BA_1957_0166_2_7">praedestinata filium</l>
+        <l n="8" xml:id="HY_BA_1957_0166_2_8">qui protulit te gignere</l>
+      </lg>
+      <lg n="3" xml:id="HY_BA_1957_0166_3">
+        <l n="9" xml:id="HY_BA_1957_0166_3_9">ut christus alta ab arbore</l>
+        <l n="10" xml:id="HY_BA_1957_0166_3_10">rex purpuratus sanguine</l>
+        <l n="11" xml:id="HY_BA_1957_0166_3_11">sic passionis particeps</l>
+        <l n="12" xml:id="HY_BA_1957_0166_3_12">tu mater es viventium</l>
+      </lg>
+      <lg n="4" xml:id="HY_BA_1957_0166_4">
+        <l n="13" xml:id="HY_BA_1957_0166_4_13">tantis decora laudibus</l>
+        <l n="14" xml:id="HY_BA_1957_0166_4_14">ad nos ovantes respice</l>
+        <l n="15" xml:id="HY_BA_1957_0166_4_15">tibique summe gratulans</l>
+        <l n="16" xml:id="HY_BA_1957_0166_4_16">quod fundimus praeconium</l>
+      </lg>
+      <lg n="5" xml:id="HY_BA_1957_0166_5">
+        <l n="17" xml:id="HY_BA_1957_0166_5_17">iesu tibi sit gloria</l>
+        <l n="18" xml:id="HY_BA_1957_0166_5_18">qui natus es de virgine</l>
+        <l n="19" xml:id="HY_BA_1957_0166_5_19">cum patre et almo spiritu</l>
+        <l n="20" xml:id="HY_BA_1957_0166_5_20">in sempiterna saecula amen</l>
+      </lg>
+    </body>
+  </text>
+</TEI>

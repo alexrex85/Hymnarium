@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="HY_BA_1957_0211"
+     xml:lang="la">
+
+  <teiHeader>
+
+    <fileDesc>
+
+      <titleStmt>
+
+        <title>Dum vitam in ara Golgothae</title>
+
+        <author>Carolus Rosa</author>
+
+        <respStmt>
+          <resp>Collegit et adnotavit</resp>
+          <name>Alexander Re Ph.D.</name>
+        </respStmt>
+
+      </titleStmt>
+
+      <publicationStmt>
+
+        <publisher>Repositorium Hymnorum Latinorum</publisher>
+
+      </publicationStmt>
+
+      <notesStmt>
+
+        <note type="metrum">Metrum: Dimetrum iambicum</note>
+
+        <note type="commentarius">In Festo Septem Dolorum Beatae Mariae Virginis, ad Laudes et ad Vesperas</note>
+
+      </notesStmt>
+
+      <sourceDesc>
+
+        <bibl>
+          <title>Breviarium Ambrosianum</title>
+          <date>1957</date>
+        </bibl>
+
+      </sourceDesc>
+
+    </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+    <front>
+
+      <p type="notae">In Festo Septem Dolorum Beatae Mariae Virginis, ad Laudes et ad Vesperas</p>
+
+    </front>
+
+    <body>
+
+      <head type="incipit">Dum vitam in ara Golgothae</head>
+
+      <lg n="1" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0211_1">
+        <l n="1" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_1_1">Dum vitam in ara Golgothae</l>
+        <l n="2" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_1_2">Auctor salutis immolat;</l>
+        <l n="3" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_1_3">Maria amoris aemula</l>
+        <l n="4" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_1_4">iungit doloris hostiam.</l>
+      </lg>
+      <lg n="2" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0211_2">
+        <l n="5" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_2_5">O passionis mutuae</l>
+        <l n="6" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_2_6">alterna cordis vulnera!</l>
+        <l n="7" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_2_7">In Matre Proles condolet,</l>
+        <l n="8" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_2_8">in Prole Mater deficit.</l>
+      </lg>
+      <lg n="3" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0211_3">
+        <l n="9" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_3_9">Iesum quot ictus vulnerant,</l>
+        <l n="10" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_3_10">materna scindunt viscera;</l>
+        <l n="11" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_3_11">sertumque Christi spineum</l>
+        <l n="12" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_3_12">in corde Matris figitur.</l>
+      </lg>
+      <lg n="4" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0211_4">
+        <l n="13" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_4_13">Mater doloris nescia</l>
+        <l n="14" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_4_14">gavisa Partum viderat;</l>
+        <l n="15" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_4_15">o quanto agone Filium</l>
+        <l n="16" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_4_16">nunc pressa nobis parturit!</l>
+      </lg>
+      <lg n="5" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0211_5">
+        <l n="17" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_5_17">Mors ipsa tandem Filium</l>
+        <l n="18" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_5_18">miserta poenis eximit;</l>
+        <l n="19" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_5_19">iam tota sola in Virgine</l>
+        <l n="20" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_5_20">saevit superstes passio.</l>
+      </lg>
+      <lg n="6" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0211_6">
+        <l n="21" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_6_21">Christi recedens Spiritus</l>
+        <l n="22" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_6_22">evasit ictum lanceae,</l>
+        <l n="23" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_6_23">sed saeva vulnus irritum</l>
+        <l n="24" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_6_24">in Matre cuspis vindicat.</l>
+      </lg>
+      <lg n="7" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0211_7">
+        <l n="25" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_7_25">Victis resurge ab inferis</l>
+        <l n="26" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_7_26">nunc, Christe: fortis foemina</l>
+        <l n="27" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_7_27">per spem fidemque praevenit</l>
+        <l n="28" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_7_28">stando triumphum Filii.</l>
+      </lg>
+      <lg n="8" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0211_8">
+        <l n="29" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_8_29">O Virgo, amore Seraphim</l>
+        <l n="30" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_8_30">vincens, dolore martyres,</l>
+        <l n="31" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_8_31">fac nostrum amore ferveat,</l>
+        <l n="32" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_8_32">et cor dolore langueat.</l>
+      </lg>
+      <lg n="9" type="tetrastichon_iambicum" xml:id="HY_BA_1957_0211_9">
+        <l n="33" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_9_33">Iesu, tibi sit gloria,</l>
+        <l n="34" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_9_34">qui natus es de Virgine,</l>
+        <l n="35" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_9_35">cum Patre et almo Spiritu</l>
+        <l n="36" type="dimeter_iambicus" xml:id="HY_BA_1957_0211_9_36">in sempiterna saecula. Amen.</l>
+      </lg>
+
+    </body>
+
+    <back>
+
+      <div type="fons">
+        <p type="titulus">Breviarium Ambrosianum</p>
+        <p type="annus">1957</p>
+      </div>
+
+      <div type="metrum">
+        <p type="metrum">Metrum: Dimetrum iambicum</p>
+      </div>
+
+    </back>
+
+  </text>
+
+</TEI>
