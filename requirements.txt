@@ -2,3 +2,4 @@ neo4j
 pandas
 openpyxl
 python-dotenv
+collatex

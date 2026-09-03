@@ -23,6 +23,28 @@
 		}
 	},
 	{
+		"id": "http://zotero.org/users/9205688/items/8GTMX8DW",
+		"type": "book",
+		"publisher": "Typis Polyglottis Vaticanis",
+		"publisher-place": "Città del Vaticano",
+		"title": "Te decet hymnus. L'innario della «Liturgia Horarum»",
+		"title-short": "Te decet hymnus",
+		"URL": "https://mega.nz/file/FyNyGIhD#3G0A8ve9fuD6DnnehbN3H_tGy5SbLBkTQttS71XDvCw",
+		"editor": [
+			{
+				"family": "Lentini",
+				"given": "Anselmo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1984"
+				]
+			]
+		}
+	},
+	{
 		"id": "http://zotero.org/users/9205688/items/K25P3GPH",
 		"type": "book",
 		"publisher": "Imprimerie F. Ceuterick",
@@ -230,6 +252,27 @@
 			"date-parts": [
 				[
 					"1964"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/6PGWC6QV",
+		"type": "book",
+		"publisher": "Libreria Editrice Vaticana",
+		"publisher-place": "Città del Vaticano",
+		"title": "Hymni instaurandi Breviarii Romani",
+		"title-short": "HiBR",
+		"URL": "https://mega.nz/file/8m8XEAxT#HphCktpHdVbbA8zLx0cWCW4K524LETGcUTZaPhk7vfc",
+		"author": [
+			{
+				"literal": "Consilium ad exequendam Constitutionem de Sacra Liturgia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1968"
 				]
 			]
 		}
@@ -637,6 +680,1051 @@
 			"date-parts": [
 				[
 					"1886"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/PFFWENFK",
+		"type": "book",
+		"collection-title": "I millenni",
+		"publisher": "Einaudi",
+		"publisher-place": "Torino",
+		"title": "Inni cristiani d’Occidente. L'innario della «Liturgia horarum iuxta Ritum Romanum, editio typica altera»",
+		"title-short": "Inni cristiani d'Occidente",
+		"editor": [
+			{
+				"family": "Giuntoli",
+				"given": "Federico"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/HMSYYDPA",
+		"type": "webpage",
+		"title": "Saint Augustine's Lyre",
+		"URL": "https://tosingistopraytwice.wordpress.com/",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					7,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/MW9GM8SM",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XXIV: Historiae rhythmicae. Liturgische Reimofficien des Mittelalters. Vierte Folge. Aus Handschriften und Wiegendrucken",
+		"title-short": "AHMA 24",
+		"URL": "http://www.archive.org/stream/analectahymnica24drevuoft/",
+		"volume": "24",
+		"editor": [
+			{
+				"family": "Blume",
+				"given": "Clemens"
+			},
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1896"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/LYL4QDAM",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XXV: Historiae rhythmicae. Liturgische Reimofficien des Mittelalters. Fünfte Folge. Aus Handschriften und Wiegendrucken",
+		"title-short": "AHMA 25",
+		"URL": "http://www.archive.org/stream/analectahymnica25drevuoft/",
+		"volume": "25",
+		"editor": [
+			{
+				"family": "Blume",
+				"given": "Clemens"
+			},
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1897"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/DGCYEEK6",
+		"type": "book",
+		"number-of-volumes": "5",
+		"publisher": "Sumptibus J.T. Loeschke",
+		"publisher-place": "Lipsiae",
+		"title": "Thesaurus Hymnologicus sive hymnorum canticorum sequentiarum circa annum MD usitatarum collectio amplissima",
+		"title-short": "TH 1",
+		"URL": "https://archive.org/details/bub_gb_hRZbAAAAQAAJ/",
+		"volume": "1",
+		"editor": [
+			{
+				"family": "Daniel",
+				"given": "Hermann Adalbert"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1862"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/2BQRT6YN",
+		"type": "book",
+		"number-of-volumes": "5",
+		"publisher": "Sumptibus J.T. Loeschke",
+		"publisher-place": "Lipsiae",
+		"title": "Thesaurus Hymnologicus sive hymnorum canticorum sequentiarum circa annum MD usitatarum collectio amplissima",
+		"title-short": "TH 5",
+		"URL": "https://archive.org/details/bub_gb_372tEo41AjcC/",
+		"volume": "5",
+		"editor": [
+			{
+				"family": "Daniel",
+				"given": "Hermann Adalbert"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1856"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/QSSW4HNA",
+		"type": "book",
+		"number-of-volumes": "5",
+		"publisher": "Sumptibus J.T. Loeschke",
+		"publisher-place": "Lipsiae",
+		"title": "Thesaurus Hymnologicus sive hymnorum canticorum sequentiarum circa annum MD usitatarum collectio amplissima",
+		"title-short": "TH 4",
+		"URL": "https://archive.org/details/bub_gb_V0NvAD50N1EC/",
+		"volume": "4",
+		"editor": [
+			{
+				"family": "Daniel",
+				"given": "Hermann Adalbert"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1855"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/6GUJS75N",
+		"type": "book",
+		"number-of-volumes": "5",
+		"publisher": "Sumptibus J.T. Loeschke",
+		"publisher-place": "Lipsiae",
+		"title": "Thesaurus Hymnologicus sive hymnorum canticorum sequentiarum circa annum MD usitatarum collectio amplissima",
+		"title-short": "TH 2",
+		"URL": "https://archive.org/details/bub_gb_kBZbAAAAQAAJ/",
+		"volume": "2",
+		"editor": [
+			{
+				"family": "Daniel",
+				"given": "Hermann Adalbert"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1855"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/BXKAHHKD",
+		"type": "book",
+		"number-of-volumes": "5",
+		"publisher": "Sumptibus J.T. Loeschke",
+		"publisher-place": "Lipsiae",
+		"title": "Thesaurus Hymnologicus sive hymnorum canticorum sequentiarum circa annum MD usitatarum collectio amplissima",
+		"title-short": "TH 1",
+		"URL": "https://archive.org/details/bub_gb_HX6nWF0CF6wC/",
+		"volume": "1",
+		"editor": [
+			{
+				"family": "Daniel",
+				"given": "Hermann Adalbert"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1855"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/PMN6FK4S",
+		"type": "book",
+		"number-of-volumes": "5",
+		"publisher": "Sumptibus Io. Ambr. Barthii",
+		"publisher-place": "Lipsiae",
+		"title": "Thesaurus Hymnologicus sive hymnorum canticorum sequentiarum circa annum MD usitatarum collectio amplissima",
+		"title-short": "TH 3",
+		"URL": "https://archive.org/details/thesaurushymnol03danigoog/",
+		"volume": "3",
+		"editor": [
+			{
+				"family": "Daniel",
+				"given": "Hermann Adalbert"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1846"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/KDZ4IZKE",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XXIII: Hymni inediti. Liturgische Hymnen des Mittelalters aus Handschriften und Wiegendrucken. Sechste Folge",
+		"title-short": "AHMA 23",
+		"URL": "http://www.archive.org/stream/analectahymnica23drevuoft/",
+		"volume": "23",
+		"editor": [
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1896"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/I97I9I8G",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XXII: Hymni inediti. Liturgische Hymnen des Mittelalters aus Handschriften und Wiegendrucken. Fünfte Folge",
+		"title-short": "AHMA 22",
+		"URL": "http://www.archive.org/stream/analectahymnica22drevuoft/",
+		"volume": "22",
+		"editor": [
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1895"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/46LNUAL4",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XXI: Cantiones et Muteti. Lieder und Motetten des Mittelalters. Zweite Folge: Cantiones Festivae, Morales, Variae",
+		"title-short": "AHMA 21",
+		"URL": "http://www.archive.org/stream/analectahymnica21drevuoft/",
+		"volume": "21",
+		"editor": [
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1895"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/M9SAR2US",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XX: Cantiones et Muteti. Lieder und Motetten des Mittelalters. Erste Folge: Cantiones natalitiae, Partheniae",
+		"title-short": "AHMA 20",
+		"URL": "http://www.archive.org/stream/analectahymnicam20drev/",
+		"volume": "20",
+		"editor": [
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1895"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/VH8BLN9H",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XIX: Hymni inediti. Liturgische Hymnen des Mittelalters aus Handschriften und Wiegendrucken. Vierte Folge",
+		"title-short": "AHMA 19",
+		"URL": "http://www.archive.org/stream/analectahymnica19drevuoft/",
+		"volume": "19",
+		"editor": [
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1895"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/NC57S5TX",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XVIII: Historiae rhythmicae. Liturgische Reimofficien des Mittelalters. Dritte Folge. Aus Handschriften und Wiegendrucken",
+		"title-short": "AHMA 18",
+		"URL": "http://www.archive.org/stream/analectahymnica18drevuoft/",
+		"volume": "18",
+		"editor": [
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1894"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/MLGFU7TE",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XVII: Hymnodia Hiberica. Liturgische Reimofficien aus Spanischen Brevieren. Im Anhang: Carmina Compostellana, die Lieder des s. g. Codex Calixtinus",
+		"title-short": "AHMA 17",
+		"URL": "http://www.archive.org/stream/analectahymnica17drevuoft/",
+		"volume": "17",
+		"editor": [
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1894"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/GCTEAC9X",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XVI: Hymnodia Hiberica. Spanische Hymnen des Mittelamters aus liturgischen Handschriften und Druckwerken Römischen Ordos",
+		"title-short": "AHMA 16",
+		"URL": "http://www.archive.org/stream/analectahymnica16drevuoft/",
+		"volume": "16",
+		"editor": [
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1894"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/GGCQMXTF",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XXVI: Historiae rhythmicae. Liturgische Reimofficien des Mittelalters. Sechste Folge. Aus Handschriften und Wiegendrucken",
+		"title-short": "AHMA 26",
+		"URL": "http://www.archive.org/stream/analectahymnica26drevuoft/",
+		"volume": "26",
+		"editor": [
+			{
+				"family": "Blume",
+				"given": "Clemens"
+			},
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1897"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/IU9496V5",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XXVII: Hymnodia Gotica. Die Mozarabischen Hymnen des alt-spanischen Ritus. Aus handschriftlichen und gedruckten Quellen",
+		"title-short": "AHMA 27",
+		"URL": "http://www.archive.org/stream/analectahymnica27drevuoft/",
+		"volume": "27",
+		"editor": [
+			{
+				"family": "Blume",
+				"given": "Clemens"
+			},
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1897"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/ITEW89MB",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XXVIII: Historiae rhythmicae. Liturgische Reimofficien des Mittelalters. Siebente Folge. Aus Handschriften und Wiegendrucken",
+		"title-short": "AHMA 28",
+		"URL": "http://www.archive.org/stream/analectahymnica28drevuoft/",
+		"volume": "28",
+		"editor": [
+			{
+				"family": "Blume",
+				"given": "Clemens"
+			},
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1898"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/EISKTC3U",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XXIX: Pia dictamina. Reimgebete und Leselieder des Mittelalters. Zweite Folge. Aus Handschriftlichen Gebetbüchers",
+		"title-short": "AHMA 29",
+		"URL": "http://www.archive.org/stream/analectahymnica29drevuoft/",
+		"volume": "29",
+		"editor": [
+			{
+				"family": "Blume",
+				"given": "Clemens"
+			},
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1898"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/7MRM9PFT",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XXX: Pia dictamina. Reimgebete und Leselieder des Mittelalters. Dritte Folge: Studen- und Glossen-Lieder",
+		"title-short": "AHMA 30",
+		"URL": "http://www.archive.org/stream/analectahymnica30drevuoft/",
+		"volume": "30",
+		"editor": [
+			{
+				"family": "Blume",
+				"given": "Clemens"
+			},
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1898"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/YAEK8KTG",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XXXI: Pia dictamina. Reimgebete und Leselieder des Mittelalters. Vierte Folge. Aus Handschriften und Wiegendrucken",
+		"title-short": "AHMA 31",
+		"URL": "http://www.archive.org/stream/analectahymnica31drevuoft/",
+		"volume": "31",
+		"editor": [
+			{
+				"family": "Blume",
+				"given": "Clemens"
+			},
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1898"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/BXWMGE9C",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XXXII: Pia dictamina. Reimgebete und Leselieder des Mittelalters. Fünfte Folge. Aus Handschriften und Wiegendrucken",
+		"title-short": "AHMA 32",
+		"URL": "http://www.archive.org/stream/analectahymnica32drevuoft/",
+		"volume": "32",
+		"editor": [
+			{
+				"family": "Blume",
+				"given": "Clemens"
+			},
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1899"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/65EHYY5W",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XXXIII: Pia dictamina. Reimgebete und Leselieder des Mittelalters. Sechste Folge. Aus Handschriften und Wiegendrucken",
+		"title-short": "AHMA 33",
+		"URL": "http://www.archive.org/stream/analectahymnica33drevuoft/",
+		"volume": "33",
+		"editor": [
+			{
+				"family": "Blume",
+				"given": "Clemens"
+			},
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1899"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/QBY949I4",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XXXIV: Sequentiae ineditae. Liturgische Prosen des Mittelalters aus Handschriften und Wiegenbrucken. Vierte Folge",
+		"title-short": "AHMA 34",
+		"URL": "http://www.archive.org/stream/analectahymnica34drevuoft/",
+		"volume": "34",
+		"editor": [
+			{
+				"family": "Blume",
+				"given": "Clemens"
+			},
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1900"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/5ZKAVZE9",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XXXV: Psalteria rhythmica. Gereimte Psalterien des Mittelalters. Erste Folge",
+		"title-short": "AHMA 35",
+		"URL": "http://www.archive.org/stream/analectahymnica35drevuoft/",
+		"volume": "35",
+		"editor": [
+			{
+				"family": "Blume",
+				"given": "Clemens"
+			},
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1900"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/BW4R3PYE",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XLIa: Christanus Campoliliensis. Christan von Lilienfeld, Hymnen, Officien, Sequenzen u. Reimgebete",
+		"title-short": "AHMA 41b",
+		"URL": "http://www.archive.org/stream/analectahymnicam41drev/",
+		"volume": "41b",
+		"editor": [
+			{
+				"family": "Blume",
+				"given": "Clemens"
+			},
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1903"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/QMUDNUS5",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XLVb: Cantiones et Muteti. Lieder und Motetten des Mittelalters. Dritte Folge. Cantiones variae Bohemicae, Suecicae",
+		"title-short": "AHMA 45b",
+		"URL": "http://www.archive.org/stream/analectahymnica45drevuoft/",
+		"volume": "45b",
+		"editor": [
+			{
+				"family": "Blume",
+				"given": "Clemens"
+			},
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1904"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/UUT75WDL",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XLVa: Historiae rhythmicae. Liturgische Reimofficien des Mittelalters. Achte Folge. Aus Handschriften und gedruckten Quellen",
+		"title-short": "AHMA 45a",
+		"URL": "http://www.archive.org/stream/analectahymnica45drevuoft/",
+		"volume": "45a",
+		"editor": [
+			{
+				"family": "Blume",
+				"given": "Clemens"
+			},
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1904"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/T23IFDZ8",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XLIV: Sequentiae ineditae. Liturgische Prosen des Mittelalters aus Handschriften und Wiegenbrucken. Neunte Folge",
+		"title-short": "AHMA 44",
+		"URL": "http://www.archive.org/stream/analectahymnica44drevuoft/",
+		"volume": "44",
+		"editor": [
+			{
+				"family": "Blume",
+				"given": "Clemens"
+			},
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1904"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/4TWCPIA9",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XLIII: Hymni inediti. Liturgische Hymnen des Mittelalters aus Handschriften und Wiegendrucken. Siebente Folge",
+		"title-short": "AHMA 43",
+		"URL": "http://www.archive.org/stream/analectahymnica43drevuoft/",
+		"volume": "43",
+		"editor": [
+			{
+				"family": "Blume",
+				"given": "Clemens"
+			},
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1903"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/976UZC5Z",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XLII: Sequentiae ineditae. Liturgische Prosen des Mittelalters aus Handschriften und Wiegenbrucken. Achte Folge",
+		"title-short": "AHMA 42",
+		"URL": "http://www.archive.org/stream/analectahymnica42drevuoft/",
+		"volume": "42",
+		"editor": [
+			{
+				"family": "Blume",
+				"given": "Clemens"
+			},
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1903"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/FC5I9I8Q",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XLIa: Christanus Campoliliensis. Christan von Lilienfeld, Hymnen, Officien, Sequenzen u. Reimgebete",
+		"title-short": "AHMA 41a",
+		"URL": "http://www.archive.org/stream/analectahymnicam41drev/",
+		"volume": "41a",
+		"editor": [
+			{
+				"family": "Blume",
+				"given": "Clemens"
+			},
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1903"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/3L8PAQ8S",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XL: Sequentiae ineditae. Liturgische Prosen des Mittelalters aus Handschriften und Wiegenbrucken. Siebente Folge",
+		"title-short": "AHMA 40",
+		"URL": "http://www.archive.org/stream/analectahymnica40drevuoft/",
+		"volume": "40",
+		"editor": [
+			{
+				"family": "Blume",
+				"given": "Clemens"
+			},
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1902"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/8WKKSPKF",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XXXIX: Sequentiae ineditae. Liturgische Prosen des Mittelalters aus Handschriften und Wiegenbrucken. Sechste Folge",
+		"title-short": "AHMA 39",
+		"URL": "http://www.archive.org/stream/analectahymnicam39drev/",
+		"volume": "39",
+		"editor": [
+			{
+				"family": "Blume",
+				"given": "Clemens"
+			},
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1902"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/E9TF2W6V",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XXXVIII: Psalteria Wessofontana. Ulrich Stöcklins von Rottach siebzehn Reimpsalterien",
+		"title-short": "AHMA 38",
+		"URL": "http://www.archive.org/stream/analectahymnica38drevuoft/",
+		"volume": "38",
+		"editor": [
+			{
+				"family": "Blume",
+				"given": "Clemens"
+			},
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1902"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/95G9HLZM",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XXXVII: Sequentiae ineditae. Liturgische Prosen des Mittelalters aus Handschriften und Wiegenbrucken. Fünfte Folge",
+		"title-short": "AHMA 37",
+		"URL": "http://www.archive.org/stream/analectahymnica37drevuoft/",
+		"volume": "37",
+		"editor": [
+			{
+				"family": "Blume",
+				"given": "Clemens"
+			},
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1901"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/TAXURDB4",
+		"type": "book",
+		"number-of-volumes": "55",
+		"publisher": "O.R. Reisland",
+		"publisher-place": "Leipzig",
+		"title": "Analecta Hymnica Medii Aevi. XXXVI: Psalteria rhythmica. Gereimte Psalterien des Mittelalters. Zweite Folge. Nebs einem Anhange von Rosarien",
+		"title-short": "AHMA 36",
+		"URL": "http://www.archive.org/stream/analectahymnica36drevuoft/",
+		"volume": "36",
+		"editor": [
+			{
+				"family": "Blume",
+				"given": "Clemens"
+			},
+			{
+				"family": "Dreves",
+				"given": "Guido Maria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1901"
 				]
 			]
 		}

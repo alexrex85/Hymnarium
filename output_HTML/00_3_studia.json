@@ -2,12 +2,13 @@
 	{
 		"id": "http://zotero.org/users/9205688/items/5D9QYRVK",
 		"type": "article-journal",
+		"abstract": "Iam Christe tolle mentium constitutes a peculiar Ambrosian recension of the hymn Iam Christe sol iustitiae, which is also well attested in the Breviarium Romanum. A careful analysis of the themes addressed in this brief composition reveals a rich intertextual network ranging from clear references to Roman religious culture, upon which the innovations of Christian preaching were grafted, to elements of the Jewish tradition. The lucid clarity of its exposition helps to define the themes of purification and asceticism characteristic of the Lenten season, which merge with the renewal of nature associated with spring.",
 		"container-title": "Zetesis",
 		"issue": "2",
 		"page": "60-75",
 		"title": "Iam Christe tolle mentium. Note esegetiche tra mondo classico e cristiano",
 		"title-short": "Iam Christe tolle mentium",
-		"URL": "https://air.uniud.it/handle/11390/1218392",
+		"URL": "https://hdl.handle.net/11390/1218392",
 		"volume": "41",
 		"author": [
 			{
@@ -43,6 +44,28 @@
 			"date-parts": [
 				[
 					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/SETYVB3Y",
+		"type": "thesis",
+		"genre": "Tesi di laurea",
+		"publisher": "Loyola University Chicago",
+		"publisher-place": "Chicago",
+		"title": "The Revision of the Hymns of the Roman Breviary under Urban VIII",
+		"URL": "http://ecommons.luc.edu/luc_theses/652",
+		"author": [
+			{
+				"family": "McGrath",
+				"given": "George Warren"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1939"
 				]
 			]
 		}
@@ -92,28 +115,6 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/9205688/items/8GTMX8DW",
-		"type": "book",
-		"publisher": "Typis Polyglottis Vaticanis",
-		"publisher-place": "Città del Vaticano",
-		"title": "Te decet hymnus. L'innario della «Liturgia Horarum»",
-		"title-short": "Te decet hymnus",
-		"URL": "https://mega.nz/file/FyNyGIhD#3G0A8ve9fuD6DnnehbN3H_tGy5SbLBkTQttS71XDvCw",
-		"editor": [
-			{
-				"family": "Lentini",
-				"given": "Anselmo"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"1984"
-				]
-			]
-		}
-	},
-	{
 		"id": "http://zotero.org/users/9205688/items/P3RK8H8E",
 		"type": "book",
 		"publisher": "Alphonse Picard et Fils",
@@ -130,6 +131,27 @@
 			"date-parts": [
 				[
 					"1893"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/2DZ8R9AC",
+		"type": "book",
+		"publisher": "Pontificia Facoltà Teologica della Sardegna",
+		"publisher-place": "Cagliari",
+		"title": "Manuale di innologia. Introduzione all'innodia dei secoli IV-XVII in occidente",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Mele",
+				"given": "Giampaolo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
 				]
 			]
 		}
@@ -249,26 +271,6 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/users/9205688/items/6PGWC6QV",
-		"type": "book",
-		"publisher": "Libreria Editrice Vaticana",
-		"publisher-place": "Città del Vaticano",
-		"title": "Hymni instaurandi Breviarii Romani",
-		"URL": "https://mega.nz/file/8m8XEAxT#HphCktpHdVbbA8zLx0cWCW4K524LETGcUTZaPhk7vfc",
-		"author": [
-			{
-				"literal": "Consilium ad exequendam Constitutionem de Sacra Liturgia"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"1968"
-				]
-			]
-		}
-	},
-	{
 		"id": "http://zotero.org/users/9205688/items/E9SMJRVF",
 		"type": "book",
 		"publisher": "Vita & Pensiero",
@@ -286,27 +288,6 @@
 			"date-parts": [
 				[
 					"1969"
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/users/9205688/items/PFFWENFK",
-		"type": "book",
-		"collection-title": "I millenni",
-		"publisher": "Einaudi",
-		"publisher-place": "Torino",
-		"title": "Inni cristiani d’Occidente. L'innario della «Liturgia horarum iuxta Ritum Romanum, editio typica altera»",
-		"editor": [
-			{
-				"family": "Giuntoli",
-				"given": "Federico"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2023"
 				]
 			]
 		}
@@ -457,6 +438,7 @@
 		"publisher": "Nuove Edizioni Duomo",
 		"publisher-place": "Milano",
 		"title": "Inni liturgici ambrosiani. Testo latino, traduzione ritmata, melodia ambrosiana",
+		"URL": "https://mega.nz/file/UrURjAzb#HxtZH6wz9VdCIdtmQ3KKfDxlYlygTh1wFrqg2GAwiag",
 		"editor": [
 			{
 				"family": "Molon",

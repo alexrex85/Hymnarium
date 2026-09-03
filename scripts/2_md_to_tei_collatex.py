@@ -46,7 +46,7 @@ def run_batch(in_folder, out_folder):
     output_path.mkdir(parents=True, exist_ok=True)
     
     files = list(input_path.glob("*.md"))
-    print(f"🚀 Batch processing di {len(files)} file per Juxta...")
+    print(f"🚀 Batch processing di {len(files)} file per collazione...")
     
     for f_path in files:
         file_id = f_path.stem
@@ -59,4 +59,4 @@ def run_batch(in_folder, out_folder):
             print(f"   ✅ {f_path.name} semplificato per collazione.")
 
 if __name__ == "__main__":
-    run_batch("input_MD", "output_TEI_Juxta")
+    run_batch("input_MD", "output_TEI_CollateX")
