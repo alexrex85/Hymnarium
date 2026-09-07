@@ -14,18 +14,45 @@ NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD")
 
 FILE_PATH = os.getenv("FILE_PATH", "Hymni.xlsx")
 
-# ==========================================
-# CARICAMENTO DEI FOGLI EXCEL CON PANDAS
-# ==========================================
-print("Lettura del file Excel...")
-excel_data = pd.ExcelFile(FILE_PATH)
 
-df_hymni = pd.read_excel(excel_data, sheet_name="Hymni").fillna("")
-df_fontes = pd.read_excel(excel_data, sheet_name="Fontes").fillna("")
-df_doxologiae = pd.read_excel(excel_data, sheet_name="Doxologiae").fillna("")
-df_calendarium = pd.read_excel(excel_data, sheet_name="Calendarium").fillna("")
-df_festa = pd.read_excel(excel_data, sheet_name="Festa").fillna("")
-df_usus = pd.read_excel(excel_data, sheet_name="Usus").fillna("")
+# ==========================================
+# FUNZIONI HELPER PER SANIFICAZIONE DATI
+# ==========================================
+def clean_value(val):
+    """
+    Rimuove i decimali '.0' generati da Excel/Pandas sui valori numerici,
+    effettua il trim degli spazi e restituisce None/stringa vuota coerenti.
+    """
+    if pd.isna(val) or val is None:
+        return ""
+    val_str = str(val).strip()
+    if val_str.endswith(".0"):
+        return val_str[:-2]
+    return val_str
+
+
+def load_and_sanitize_sheet(excel_path, sheet_name):
+    """
+    Carica un foglio Excel forzando la lettura come stringa (dtype=str)
+    e sanifica tutte le colonne con clean_value.
+    """
+    df = pd.read_excel(excel_path, sheet_name=sheet_name, dtype=str).fillna("")
+    for col in df.columns:
+        df[col] = df[col].apply(clean_value)
+    return df
+
+
+# ==========================================
+# CARICAMENTO DEI FOGLI EXCEL SANIFICATI
+# ==========================================
+print("Lettura e sanificazione del file Excel...")
+
+df_hymni = load_and_sanitize_sheet(FILE_PATH, "Hymni")
+df_fontes = load_and_sanitize_sheet(FILE_PATH, "Fontes")
+df_doxologiae = load_and_sanitize_sheet(FILE_PATH, "Doxologiae")
+df_calendarium = load_and_sanitize_sheet(FILE_PATH, "Calendarium")
+df_festa = load_and_sanitize_sheet(FILE_PATH, "Festa")
+df_usus = load_and_sanitize_sheet(FILE_PATH, "Usus")
 
 # Conversione in liste di dizionari per Cypher
 rows_hymni = df_hymni.to_dict(orient="records")
@@ -48,7 +75,7 @@ CYPHER_CONSTRAINTS = [
     "CREATE CONSTRAINT IF NOT EXISTS FOR (g:Doxologia) REQUIRE g.id_doxologiae IS UNIQUE;",
     "CREATE CONSTRAINT IF NOT EXISTS FOR (d:Dies) REQUIRE d.id_diei IS UNIQUE;",
     "CREATE CONSTRAINT IF NOT EXISTS FOR (f:Festum) REQUIRE f.id_festi IS UNIQUE;",
-    "CREATE CONSTRAINT IF NOT EXISTS FOR (me:Mensis) REQUIRE me.mensis IS UNIQUE;"
+    "CREATE CONSTRAINT IF NOT EXISTS FOR (me:Mensis) REQUIRE me.mensis IS UNIQUE;",
 ]
 
 # 2. Popolamento Nodi Fons (Foglio "Fontes")
@@ -152,23 +179,28 @@ WITH row WHERE row.ID_Exemplaris IS NOT NULL AND toString(row.ID_Exemplaris) <> 
 MATCH (h1:Hymnus {id_hymni: toString(row.ID_Hymni)})
 MATCH (h2:Hymnus {id_hymni: toString(row.ID_Exemplaris)})
 MERGE (h1)-[r:DERIVES_FROM]->(h2)
-SET r.saec_rec = toString(row.Recognitus)
+SET r.saec_rec = split(toString(row.Recognitus), '.')[0]
 """
 
 # 8. Popolamento Relazioni ed Eventuali Proprietà dal Foglio "Usus"
 CYPHER_USUS = """
 UNWIND $rows AS row
 
-// 8a. Relazione (f:Festum)-[:USES_HYMN]->(h:Hymnus) + aggiornamento proprietà specifiche di Festum
+// 8a. Relazione (f:Festum)-[u:USES_HYMN]->(h:Hymnus) con proprietà contestuali sull'ARCO
 FOREACH (_ IN CASE WHEN row.ID_Festi IS NOT NULL AND toString(row.ID_Festi) <> '' AND row.ID_Hymni IS NOT NULL AND toString(row.ID_Hymni) <> '' THEN [1] ELSE [] END |
     MERGE (f:Festum {id_festi: toString(row.ID_Festi)})
     MERGE (h:Hymnus {id_hymni: toString(row.ID_Hymni)})
-    MERGE (f)-[:USES_HYMN]->(h)
     
-    // Aggiornamento proprietà specifiche da Usus sul nodo Festum
-    SET f.festum = row.Festum,
-        f.officium = row.Officium,
-        f.notae_off = row.Notae
+    // Si crea un arco distinto per ogni variante/uso contestuale
+    MERGE (f)-[u:USES_HYMN {
+        id_fontis: toString(row.ID_Fontis),
+        officium: row.Officium,
+        festum: row.Festum
+    }]->(h)
+    
+    // Note ed eventuali altre proprietà specifiche dell'uso
+    SET u.notae_off = row.Notae,
+        u.dies = row.Dies
 )
 
 // 8b. Relazione (f:Festum)-[:ON_DATE]->(d:Dies)
@@ -200,15 +232,18 @@ FOREACH (_ IN CASE WHEN row.ID_Hymni IS NOT NULL AND toString(row.ID_Hymni) <> '
 )
 """
 
+
 # ==========================================
 # ESECUZIONE IMPORTAZIONE
 # ==========================================
 def run_import():
     if not NEO4J_PASSWORD:
-        raise ValueError("ERRORE: La password di Neo4j non è stata impostata. Verifica il file .env!")
+        raise ValueError(
+            "ERRORE: La password di Neo4j non è stata impostata. Verifica il file .env!"
+        )
 
     driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
-    
+
     with driver.session() as session:
         print("1/8. Creazione vincoli di unicità...")
         for constraint in CYPHER_CONSTRAINTS:
@@ -236,7 +271,8 @@ def run_import():
         session.run(CYPHER_USUS, rows=rows_usus)
 
     driver.close()
-    print(" Importazione completata con successo!")
+    print("Importazione completata con successo!")
+
 
 if __name__ == "__main__":
     run_import()
