@@ -134,6 +134,7 @@ MERGE (h:Hymnus {id_hymni: toString(row.ID_Hymni)})
 SET h.incipit = row.Incipit,
     h.strophae = row.Strophae,
     h.notae_hym = row.Notae,
+    h.saec_auc = toString(row.Saeculum),
     h.saec_rec = toString(row.Recognitus),
     h.exemplar = toString(row.ID_Exemplaris),
     h.locus_hym = row.Editio,
@@ -156,9 +157,10 @@ FOREACH (_ IN CASE WHEN row.Auctor IS NOT NULL AND toString(row.Auctor) <> '' TH
     MERGE (a:Auctor {nomen_auc: toString(row.Auctor)})
     ON CREATE SET a.saec_auc = toString(row.Saeculum)
     
-    // Creazione arco WROTE con proprietà status
+    // Creazione arco WROTE con status e cronologia dell'attribuzione
     MERGE (a)-[r:WROTE]->(h)
-    SET r.status = toString(row.Status)
+    SET r.status = toString(row.Status),
+        r.saec_auc = toString(row.Saeculum)     // <-- AGGIUNTO: Cronologia contestuale all'arco
 )
 
 // CASO 3: Autore VUOTO e Status = 'anonymus'

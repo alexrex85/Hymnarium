@@ -187,7 +187,7 @@ function renderResults(results, textQuery) {
                 </a>
             </div>
             <div class="result-locus">
-                ${item.locus} · ${item.auctor}
+                ${item.locus} · ${item.auctor} · ${item.fons}
             </div>
             <div class="result-text">
                 ${highlighted}

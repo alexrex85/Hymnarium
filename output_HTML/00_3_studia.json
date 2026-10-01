@@ -535,5 +535,31 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "http://zotero.org/users/9205688/items/HN9MAP2Q",
+		"type": "article-journal",
+		"container-title": "Rivista Internazionale di Musica Sacra",
+		"page": "9-97",
+		"title": "Il più antico innario ambrosiano tra i manoscritti della Biblioteca civica di Trino",
+		"URL": "https://www.academia.edu/5830541/Il_pi%C3%B9_antico_innario_ambrosiano_tra_i_manoscritti_della_Biblioteca_civica_di_Trino_in_Rivista_Internazionale_di_Musica_Sacra_34_2013_pp_9_97_con_Simona_Gavinelli_",
+		"volume": "34",
+		"author": [
+			{
+				"family": "Brusa",
+				"given": "Gionata"
+			},
+			{
+				"family": "Gavinelli",
+				"given": "Simona"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
 	}
 ]
